@@ -27,14 +27,11 @@ def get_course_links(semester_id):
 
 
 def scrape_courses(courses):
-    link_count = len(courses)
-    count = 0
+    print "Parsing " + str(len(courses)) + " courses..."
     data = []
 
     for link in courses:
         data.append(process_link(link))
-        count += 1
-        print str(count) + " of " + str(link_count)
 
     return data
 
@@ -51,10 +48,12 @@ if __name__ == '__main__':
     semesters = find_semester_ids()
 
     results = []
+    count = 1
     for semester in semesters:
-        print "Semester id: " + semester
+        print "Semester " + str(count) + " of " + str(len(semesters)) + ". Id: " + semester
         courses = get_course_links(semester)
         parsed = scrape_courses(courses)
         results.append(parsed)
+        count += 1
 
     print results
