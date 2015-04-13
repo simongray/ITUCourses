@@ -28,6 +28,7 @@ def get_course_links(semester_id):
 
 def scrape_courses(courses):
     print "Parsing " + str(len(courses)) + " courses..."
+    print "--------"
     data = []
 
     for link in courses:
@@ -50,6 +51,8 @@ if __name__ == '__main__':
     results = []
     count = 1
     for semester in semesters:
+        print ""
+        print "--------"
         print "Semester " + str(count) + " of " + str(len(semesters)) + ". Id: " + semester
         courses = get_course_links(semester)
         parsed = scrape_courses(courses)
