@@ -21,8 +21,8 @@ def process_link(link):
 
 def get_course_links(semester_id):
     page = requests.get('https://mit.itu.dk/ucs/cb_www/index.sml?semester_id=' + semester_id + '&lang=en')
-    tree = html.fromstring(page.text)
-    links = tree.xpath('//*[@id="course"]//a//@href')
+    doc_tree = html.fromstring(page.text)
+    links = doc_tree.xpath('//*[@id="course"]//a//@href')
     return map(append_itu, links)
 
 
@@ -38,10 +38,23 @@ def scrape_courses(courses):
 
     return data
 
-#TODO: Get every semester programmatically.
-#TODO: Make methods async to speed up scraping.
-#TODO: More cleaning of scraped data.
+def find_semester_ids():
+    myitu = requests.get('https://mit.itu.dk/ucs/cb_www/index.sml?lang=en')
+    tree = html.fromstring(myitu.text)
+    semesters = tree.xpath(
+        '//tr//td//table//tr[2]//td//table//tr[1]//td[2]//select//option//@value')
+    return semesters
+
+# TODO: Make methods async to speed up scraping: http://stevedower.id.au/blog/async-api-for-python/
+# TODO: More cleaning of scraped data.
 if __name__ == '__main__':
-    courses = get_course_links('1662789')
-    parsed = scrape_courses(courses)
-    print parsed
+    semesters = find_semester_ids()
+
+    results = []
+    for semester in semesters:
+        print "Semester id: " + semester
+        courses = get_course_links(semester)
+        parsed = scrape_courses(courses)
+        results.append(parsed)
+
+    print results
