@@ -38,7 +38,9 @@ def scrape_courses(courses):
 
     return data
 
-
+#TODO: Get every semester programmatically.
+#TODO: Make methods async to speed up scraping.
+#TODO: More cleaning of scraped data.
 if __name__ == '__main__':
     courses = get_course_links('1662789')
     parsed = scrape_courses(courses)
