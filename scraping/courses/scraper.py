@@ -1,6 +1,6 @@
 from lxml import html
 import requests
-
+import json
 
 def append_itu(string):
     return "https://mit.itu.dk" + string
@@ -27,8 +27,8 @@ def get_course_links(semester_id):
 
 
 def scrape_courses(courses):
-    print "Parsing " + str(len(courses)) + " courses..."
-    print "--------"
+    print("Parsing " + str(len(list(courses))) + " courses...")
+    print("--------")
     data = []
 
     for link in courses:
@@ -51,12 +51,15 @@ if __name__ == '__main__':
     results = []
     count = 1
     for semester in semesters:
-        print ""
-        print "--------"
-        print "Semester " + str(count) + " of " + str(len(semesters)) + ". Id: " + semester
+        print("")
+        print("--------")
+        print("Semester " + str(count) + " of " + str(len(semesters)) + ". Id: " + semester)
         courses = get_course_links(semester)
         parsed = scrape_courses(courses)
         results.append(parsed)
         count += 1
 
-    print results
+    as_json = json.dumps(results)
+
+    with open('results.json', 'w') as f:
+    	f.write(as_json)
