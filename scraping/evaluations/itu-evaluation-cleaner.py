@@ -25,6 +25,7 @@ for filename in glob.glob("*.csv"):
 
             cleaned_row['filename'] = filename
             cleaned_row['programme'] = row['Programme']
+            cleaned_row['course'] = row['Course']
             cleaned_row['overall'] = row['q1 average']
 
             # get percentage of replies
