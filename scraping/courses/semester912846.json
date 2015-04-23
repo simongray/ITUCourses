@@ -1,0 +1,2694 @@
+[
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "34",
+        "minimum_participants": "0",
+        "name": "Advanced IT Project Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Lørdag",
+                "room": "4A22",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A22",
+                "time_slot": "11.00-14.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A22",
+                "time_slot": "14.15-17.15",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Advanced Organization Theory",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A18",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A18",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "0",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "Algorithm Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A14",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A18",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A18",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "45",
+        "minimum_participants": "12",
+        "name": "Analysis Design and Software Architecture",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A12, 4A54, GameLab ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 4",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "70",
+        "minimum_participants": "20",
+        "name": "B1 Strategic and tactical tools for e-business",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 3",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 3",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "15",
+        "name": "B19 IT-Strategy",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": null,
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": null,
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "15",
+        "name": "B21 Project Management of IT Sourcing",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A18",
+                "time_slot": "11.00-14.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A18",
+                "time_slot": "14.15-17.15",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "50",
+        "minimum_participants": "20",
+        "name": "B22 Online marketing - advertising consumers and communities",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "ScrollBar",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "ScrollBar",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "40",
+        "minimum_participants": "15",
+        "name": "B30 Enterprise Strategy Business and Technology",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A16",
+                "time_slot": "11.00-14.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A16",
+                "time_slot": "14.15-17.15",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Basic Graphic Design - group 1",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 3, 3A52 ",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 3, 3A52 ",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "15",
+        "name": "Basic Graphic Design - group 2",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A16, 3A52 ",
+                "time_slot": "10.45-12.45",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "65",
+        "minimum_participants": "0",
+        "name": "Building Database Systems",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 4",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 4",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "90",
+        "minimum_participants": "0",
+        "name": "Business and Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "4A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "50",
+        "minimum_participants": "0",
+        "name": "Business IT Alignment",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "Business Processes and Organisation",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "11.00-14.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "14.15-17.15",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "76",
+        "minimum_participants": "12",
+        "name": "Co-design - Understanding and Involving users",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A12, 2A18, Aud 4",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A12, 2A20, 4A14 ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "65",
+        "minimum_participants": "12",
+        "name": "Concept Development and Interactive Digital Media",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A12, 3A40, 3A42, 3A58, 3A60",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A12, 3A40, 3A42, 3A58, 3A60",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "42",
+        "minimum_participants": "12",
+        "name": "Data Storage and Formats",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A12, 3A50, 3A52",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Master i it softwarekonstruktion (sok)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Design of User Interfaces and Data",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A18",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A18",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Digital Aesthetics",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A12, DesignLab, Lille DesignLab (2A20)",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Digital Culture and Society",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "77",
+        "minimum_participants": "12",
+        "name": "Digital Rhetorics",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "5A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": " 4A54, 4A56, 4A58",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "10",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "24",
+        "minimum_participants": "4",
+        "name": "Digtal Aesthetics: Theory and Practice",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A22",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A22",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "80",
+        "minimum_participants": "40",
+        "name": "Dissemination Project Work and Web Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 2",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A50, 3A52 ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 2",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 2",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "80",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "80",
+        "minimum_participants": "0",
+        "name": "Distributed Collaboration and Development",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 2",
+                "time_slot": "13.00-15.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 2, 3A14, 3A18, 4A16, 4A22",
+                "time_slot": "15.00-17.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "42",
+        "minimum_participants": "0",
+        "name": "Distributed Systems and Protocols",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "3A12",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A12, 3A50, 3A52 ",
+                "time_slot": "13.00-15.30",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "80",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "120",
+        "minimum_participants": "0",
+        "name": "Dynamic Web Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A14, 3A52",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A14, 3A52",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "E-government",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "35",
+        "minimum_participants": "0",
+        "name": "Enterprise Systems",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Lørdag",
+                "room": "4A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A14",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A14",
+                "time_slot": "13.00-16.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "15",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Experimental Design and Analysis",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A52",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A52",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Experimental Interaction",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "12",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "80",
+        "minimum_participants": "0",
+        "name": "Foundations of Computing - Algorithms and Data Structures",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A14",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Foundations of Computing - Discrete Mathematics",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A14",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Foundations of Play and Games",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 3, Gamelab, Lille GameLab",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 3, Gamelab, Lille GameLab ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 2, Gamelab ",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 2 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "From Concept Art to In-Game Graphics",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A20",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A20",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "41",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "80",
+        "minimum_participants": "15",
+        "name": "Game Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 1, Gamelab, Lille Gamelab ",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 1, Gamelab, lille Gamelab",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 2, Gamelab, lille Gamelab ",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 2, Gamelab, lille Gamelab ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Game Engines",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4, GameLab, Lille GameLab ",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "GameLab, Lille GameLab ",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A14, Lille Gamelab ",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Lille Gamelab ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "0",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "45",
+        "minimum_participants": "0",
+        "name": "Gameworlds as Fields for Expression",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i sundheds-it (sit)",
+        "maximum_participants": "50",
+        "minimum_participants": "10",
+        "name": "Healthcare IT  - Organizatorial Modified Systems",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A20",
+                "time_slot": "16.00-18.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A20",
+                "time_slot": "18.00-20.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i sundheds-it (sit)",
+        "maximum_participants": "50",
+        "minimum_participants": "10",
+        "name": "Healthcare IT - Organizatorial Implementation",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A20, 2A40, 2A42",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A20, 2A40, 2A42",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "72",
+        "minimum_participants": "12",
+        "name": "Innovation Concept Development and Project Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 3 ",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A40,3A42,3A58,3A60,4A08,4A10,4A30,4A32,4A34,4A44,4A46,4A62,4A64 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "130",
+        "minimum_participants": "12",
+        "name": "Interaction Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A12, Designlab, Lille DesignLab",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A12, Designlab, Lille DesignLab",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A12, Designlab, Lille DesignLab",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A12, Designlab, Lille DesignLab",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Interactive Multimedia",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "GameLab",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "GameLab",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Interactive Multimedia",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "GameLab",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "GameLab",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "65",
+        "minimum_participants": "0",
+        "name": "Introduction to Database Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A14",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A54, 4A56, 4A58 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "80",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "80",
+        "minimum_participants": "60",
+        "name": "Introduction to Interaction Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "DesignLab+Lille DesignLab",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "DesignLab+Lille DesignLab",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "80",
+        "minimum_participants": "40",
+        "name": "Introduction to Media and Communication",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A20, 2A18, 4A22 ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "80",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "200",
+        "minimum_participants": "12",
+        "name": "Introduction to Scripting Databases and System Architecture",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A12",
+                "time_slot": "09.30-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A52, 4A54, GameLab (0A17)",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "65",
+        "minimum_participants": "0",
+        "name": "Introduction to Software Testing",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 4, 2A52, 3A50, 3A52 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "35",
+        "minimum_participants": "12",
+        "name": "Introductory 3D",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A56",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A56",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "75",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Introductory Programming",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A56, 4A58 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Introductory Programming",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "ScrollBar",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Scrollbar, 4A56, 4A58 ",
+                "time_slot": "13.00-15.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 1",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "60",
+        "name": "IT Foundations",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 4",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "15",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "30",
+        "minimum_participants": "10",
+        "name": "IT Law",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "32",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "50",
+        "minimum_participants": "12",
+        "name": "IT Project Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Lørdag",
+                "room": "4A16",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A16",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "32",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "50",
+        "minimum_participants": "0",
+        "name": "IT Project Management and Software Products",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "IT Service Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A20",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A20",
+                "time_slot": "13.00-15.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A20",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A20",
+                "time_slot": "13.00-15.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "4A20",
+                "time_slot": "15.00-17.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "IT Strategy",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "60",
+        "minimum_participants": "0",
+        "name": "Learning and IT",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "100",
+        "minimum_participants": "12",
+        "name": "Media and Communication",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "15",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "20",
+        "minimum_participants": "12",
+        "name": "Mobile Communication: Design Business and Social Context",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Mobile Media and Social IT",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A12",
+                "time_slot": "13.00-16.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A12",
+                "time_slot": "16.00-18.30",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "55",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "100",
+        "minimum_participants": "0",
+        "name": "Model Driven Development",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 2, 4A54, 4A56, 4A58",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "35",
+        "minimum_participants": "12",
+        "name": "Modern AI for Games",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A14",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A14, 4A56, 4A58",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16 ",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16, Lille GameLab, 4A58",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "60",
+        "name": "New Media and Communication",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "ScrollBar",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A12, 4A16",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "line_of_studies": "Master i it softwarekonstruktion (sok)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Object Oriented Programming",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Lørdag",
+                "room": "Aud 4, 4A54, 4A56",
+                "time_slot": "10.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "Aud 4, 4A54, 4A56",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "40",
+        "minimum_participants": "25",
+        "name": "Operating Systems and C",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "3A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A14",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "70",
+        "minimum_participants": "20",
+        "name": "P1 National Internet Law",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "5A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "5A14",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "30",
+        "minimum_participants": "15",
+        "name": "P5 Legal Aspects of Starting Up an IT Business",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": null,
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": null,
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "50",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "50",
+        "minimum_participants": "12",
+        "name": "Personal Management and Change Management",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Pervasive Computing",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A14",
+                "time_slot": "13.00-16.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A14",
+                "time_slot": "11.00-14.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Master i it it-ledelse og strategi (ils)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "Presentation and Investigation",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Procedural Content Generation in Games",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A22",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A22",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Programming Language Seminar",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A20",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "42",
+        "minimum_participants": "12",
+        "name": "Programs as Data",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "15",
+        "name": "Project Cluster: (B21) Project Management of IT Sourcing",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A18",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A18",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "40",
+        "minimum_participants": "15",
+        "name": "Project cluster: (B25) Sustainable IT",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": null,
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": null,
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "60",
+        "minimum_participants": "15",
+        "name": "Project cluster: (B29) Network-Innovation",
+        "semester": "Efterår 2010",
+        "time_slots": []
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "32",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "36",
+        "minimum_participants": "0",
+        "name": "Project Cluster: Advanced Game Theory",
+        "semester": "Efterår 2010",
+        "time_slots": []
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "12",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "20",
+        "minimum_participants": "5",
+        "name": "Project Cluster: Analysis of Qualitative Data: An Introduction to Disaster Research",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": null,
+                "time_slot": "13.00-16.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "10",
+        "language": "Dansk",
+        "line_of_studies": "Master i it softwarekonstruktion (sok)",
+        "maximum_participants": "30",
+        "minimum_participants": "2",
+        "name": "Project Cluster: Introductory Academic Project",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "3A18",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "20",
+        "name": "Project cluster: P6. Government 2.0: EU and National Regulation and Policies",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": null,
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "8",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "72",
+        "minimum_participants": "5",
+        "name": "Project Cluster: Programming Workshop",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "GameLab",
+                "time_slot": "10.45-12.45",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Project Work and Communication",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "ScrollBar",
+                "time_slot": "13.30-16.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Scrollbar, 3A58, 3A60, 4A22, 4A08, 4A32, 4A34, 4A44, 4A46, 4A62, 4A64 ",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "76",
+        "minimum_participants": "0",
+        "name": "Project Work and Communication",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "ScrollBar",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "ScrollBar, 3A58, 3A60, 4A22, 4A08, 4A32, 4A34, 4A44, 4A46, 4A62, 4A64 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "50",
+        "minimum_participants": "15",
+        "name": "SF23 Perspectives on e-business",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "3A18",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A18",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "40",
+        "minimum_participants": "20",
+        "name": "Situational Methods for Digital Studies",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A22",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A22",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "60",
+        "name": "Society and Technology",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A18, 4A20",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 4",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 4, 4A22",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "line_of_studies": "Master i it softwarekonstruktion (sok)",
+        "maximum_participants": "50",
+        "minimum_participants": "15",
+        "name": "Software Architecture",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 4, 4A56, 4A58",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "12",
+        "language": "Dansk",
+        "line_of_studies": "Master i it organisation og implementering (ori)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Strategic Value Creation of a Project",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A20",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A20",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "08.00-10.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "10.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "System Architecture and Security",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A16",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A16, 4A56, 4A58 ",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Systematic Design of User Interfaces",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "ScrollBar",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "ScrollBar",
+                "time_slot": "13.00-15.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "40",
+        "minimum_participants": "20",
+        "name": "T1 Introduction to programming and distributed systems",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "11.00-14.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "14.15-17.15",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "70",
+        "minimum_participants": "20",
+        "name": "T1 Introduction to programming and distributed systems",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A14, 3A50, 3A52 ",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A14, 3A50, 3A52 ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "20",
+        "name": "T13 Business Intelligence",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A14, 2A52, 4A54 ",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "40",
+        "minimum_participants": "20",
+        "name": "T3 HCI Human and Technology",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A14",
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A14",
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "35",
+        "minimum_participants": "20",
+        "name": "T6 IT-Security",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": null,
+                "time_slot": "09.00-12.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": null,
+                "time_slot": "13.00-16.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Target Group Analysis",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A14",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A14",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "12",
+        "language": "Engelsk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Understanding Interaction Design",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "GameLab",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A20",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "GameLab",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "line_of_studies": "Master i it interaktionsdesign og multimedier (inm)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Usability",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A16, 4A08, 4A10, 4A32, 4A34, 4A62, 4A64",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16, 4A08, 4A10, 4A32, 4A34, 4A62, 4A64",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Usability and Accessibility",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A18",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A44, 4A46, 4A62, 4A64 ",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A20",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A40, 3A42, 3A58, 3A60 ",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "User Experience and Prototyping",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "DesignLab",
+                "time_slot": "11.00-13.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "13.45-15.45",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "60",
+        "minimum_participants": "0",
+        "name": "Web Design and Web Communication group 1",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 3",
+                "time_slot": "08.30-10.30",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A52, 4A54, 4A56, 4A58",
+                "time_slot": "10.45-12.45",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "52",
+        "language": "Dansk",
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "52",
+        "minimum_participants": "0",
+        "name": "Web Design and Web Communication group 2",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 3",
+                "time_slot": "13.45-15.45",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A52, 3A52, 4A54, 4A58",
+                "time_slot": "16.00-18.00",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "80",
+        "language": "Engelsk",
+        "line_of_studies": "Master i it softwarekonstruktion (sok)",
+        "maximum_participants": "250",
+        "minimum_participants": "12",
+        "name": "XML-processing - methods tools and theories",
+        "semester": "Efterår 2010",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A12",
+                "time_slot": "17.00-19.00",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A56, 4A58 ",
+                "time_slot": "19.00-21.00",
+                "type": "Øvelser"
+            }
+        ]
+    }
+]
