@@ -1,7 +1,5 @@
 import glob
 import csv
-import pickle
-
 
 # for 11 questions, "jobprofil" is q3 and "tidsforbrug" is q10
 # for 6 questions it is q4 and q5, respectively
