@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io
 
 #!! ERROR: p is undefined. Use list command to see defined gitignore types !!#
@@ -50,3 +51,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
+=======
+# Created by .gitignore support plugin (hsz.mobi)
+.idea
