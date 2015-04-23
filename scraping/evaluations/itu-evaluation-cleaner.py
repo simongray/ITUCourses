@@ -1,10 +1,7 @@
 import glob
 import csv
 
-# for 11 questions, "jobprofil" is q3 and "tidsforbrug" is q10
-# for 6 questions it is q4 and q5, respectively
-
-six_questions = [
+with_six_questions = [
     '2009october.csv',
     '2010march.csv',
     '2010october.csv',
@@ -24,37 +21,36 @@ for filename in glob.glob("*.csv"):
         reader = csv.DictReader(csv_file, delimiter=';')
 
         for row in reader:
-            new_row = {}
+            cleaned_row = {}
 
-            new_row['filename'] = filename
-            new_row['programme'] = row['Programme']
-            new_row['overall'] = row['q1 average']
+            cleaned_row['filename'] = filename
+            cleaned_row['programme'] = row['Programme']
+            cleaned_row['overall'] = row['q1 average']
 
             # get percentage of replies
             if row['q1 replies'] != '-':
                 replies = row['q1 replies'].split(' ')
-                new_row['replies'] = float(replies[0])/float(replies[2])
+                cleaned_row['replies'] = float(replies[0])/float(replies[2])
             else:
                 continue
 
             # for 11 questions, "jobprofil" is q3 and "tidsforbrug" is q10
             # for 6 questions it is q4 and q5, respectively
-            if filename in six_questions:
-                new_row['job'] = row['q4 average']
-                new_row['time'] = row['q5 average']
+            if filename in with_six_questions:
+                cleaned_row['job'] = row['q4 average']
+                cleaned_row['time'] = row['q5 average']
             else:
-                new_row['job'] = row['q3 average']
-                new_row['time'] = row['q10 average']
+                cleaned_row['job'] = row['q3 average']
+                cleaned_row['time'] = row['q10 average']
 
 
             # only keep rows with all the values we need intact
-            if all(character not in new_row.values() for character in ['-', '?']):
-
+            if all(character not in cleaned_row.values() for character in ['-', '?']):
                 # make sure stuff is converted to floats
-                for key in new_row.keys():
+                for key in cleaned_row.keys():
                     if key in ['job', 'time', 'overall']:
-                        new_row[key] = float(new_row[key])
+                        cleaned_row[key] = float(cleaned_row[key])
 
-                evaluations.append(new_row)
+                evaluations.append(cleaned_row)
 
 print(evaluations)
