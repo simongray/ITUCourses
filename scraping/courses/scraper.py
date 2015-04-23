@@ -4,7 +4,7 @@ import requests
 import json
 
 
-def __scrape_site(ids):
+def scrape_site(ids):
     for semester in ids:
         course_links = scrape_course_links(semester)
         links = ["https://mit.itu.dk" + str(link) for link in course_links]  # Append base URL to links
@@ -149,4 +149,4 @@ if __name__ == '__main__':
                     "454681", "409901", "293157", "253799",
                     "235230", "177371"]
 
-    __scrape_site(semester_ids)
+    scrape_site(semester_ids)
