@@ -29,6 +29,6 @@ for n, item in enumerate(dataset):
     dataset[n] = item
 
 with open('dataset.json', 'w') as dataset_file:
-    dataset_file.write(json.dumps(dataset, ensure_ascii=False))
+    dataset_file.write(json.dumps(dataset, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 print('dataset length:', len(dataset))
