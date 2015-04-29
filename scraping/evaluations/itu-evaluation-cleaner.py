@@ -27,7 +27,7 @@ for filename in glob.glob("*.csv"):
             cleaned_row['semester'] = ('Forår ' if 'march' in filename else 'Efterår ') + filename[0:4]
             cleaned_row['programme'] = row['Programme']
             cleaned_row['name'] = row['Course']
-            cleaned_row['overall'] = row['q1 average']
+            cleaned_row['overall_evaluation'] = row['q1 average']
 
             # get percentage of replies
             if row['q1 replies'] != '-':
@@ -39,18 +39,18 @@ for filename in glob.glob("*.csv"):
             # for 11 questions, "jobprofil" is q3 and "tidsforbrug" is q10
             # for 6 questions it is q4 and q5, respectively
             if filename in with_six_questions:
-                cleaned_row['job'] = row['q4 average']
-                cleaned_row['time'] = row['q5 average']
+                cleaned_row['job_evaluation'] = row['q4 average']
+                cleaned_row['time_evaluation'] = row['q5 average']
             else:
-                cleaned_row['job'] = row['q3 average']
-                cleaned_row['time'] = row['q10 average']
+                cleaned_row['job_evaluation'] = row['q3 average']
+                cleaned_row['time_evaluation'] = row['q10 average']
 
 
             # only keep rows with all the values we need intact
             if all(character not in cleaned_row.values() for character in ['-', '?']):
                 # make sure stuff is converted to floats
                 for key in cleaned_row.keys():
-                    if key in ['job', 'time', 'overall']:
+                    if key in ['job_evaluation', 'time_evaluation', 'overall_evaluation']:
                         cleaned_row[key] = float(cleaned_row[key])
 
                 evaluations.append(cleaned_row)
