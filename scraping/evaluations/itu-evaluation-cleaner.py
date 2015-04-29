@@ -1,5 +1,6 @@
 import glob
 import csv
+import json
 
 with_six_questions = [
     '2009october.csv',
@@ -23,9 +24,9 @@ for filename in glob.glob("*.csv"):
         for row in reader:
             cleaned_row = {}
 
-            cleaned_row['filename'] = filename
+            cleaned_row['semester'] = ('Forår ' if 'march' in filename else 'Efterår ') + filename[0:4]
             cleaned_row['programme'] = row['Programme']
-            cleaned_row['course'] = row['Course']
+            cleaned_row['name'] = row['Course']
             cleaned_row['overall'] = row['q1 average']
 
             # get percentage of replies
@@ -54,4 +55,7 @@ for filename in glob.glob("*.csv"):
 
                 evaluations.append(cleaned_row)
 
-print(evaluations)
+# save to file
+json_string = json.dumps(evaluations, ensure_ascii=False)
+with open('all_evaluations.json', 'w') as json_file:
+    json_file.write(json_string)
