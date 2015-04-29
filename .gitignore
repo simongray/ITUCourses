@@ -54,3 +54,4 @@ crashlytics-build.properties
 =======
 # Created by .gitignore support plugin (hsz.mobi)
 .idea
+__pycache__
