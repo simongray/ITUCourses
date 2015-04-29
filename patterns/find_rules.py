@@ -38,6 +38,7 @@ time_low = np.percentile([item['time_evaluation'] for item in dataset], 25)
 time_median = np.median([item['time_evaluation'] for item in dataset])
 
 participants_median = np.median([item['expected_participants'] for item in dataset])
+max_participants_median = np.median([item['maximum_participants'] for item in dataset])
 
 def evaluation_label(evaluation, low, high, high_is_good=True):
     """
@@ -60,16 +61,17 @@ def evaluation_label(evaluation, low, high, high_is_good=True):
 
 
 # merge room info
-# for n, item in enumerate(dataset):
-#     rooms = []
-#
-#     for timeslot in item['time_slots']:
-#         room = timeslot['room']
-#         lecture = timeslot['type']
-#         time = timeslot['time_slot']  # TODO: use this at all?
-#         rooms.append(room_label(room)+':'+lecture+':'+time)
-#
-#     dataset[n]['rooms'] = set(rooms)
+for n, item in enumerate(dataset):
+    rooms = []
+
+    for timeslot in item['time_slots']:
+        room = timeslot['room']
+        lecture = timeslot['type']
+        # time = timeslot['time_slot']  # TODO: use this at all?
+        # rooms.append(room_label(room)+':'+lecture+':'+time)
+        rooms.append(room_label(room)+':'+lecture)
+
+    dataset[n]['rooms'] = set(rooms)
 
 print(dataset)
 
@@ -83,33 +85,34 @@ itemsets = [
         'language:' + row['language'],
         'programme:' + row['programme'],
         #'ects:' + str(row['ects_points']),
-        'participants:' + ('low' if row['expected_participants'] < participants_median else 'high')
+        'participants:' + ('low' if row['expected_participants'] < participants_median else 'high'),
+        'max:' + ('low' if row['maximum_participants'] < max_participants_median else 'high')
 
-    }#.union(row['rooms'])
+    }.union(row['rooms'])
     for row in dataset
 ]
 
 print(itemsets)
 
-apriori = Apriori(itemsets, 0.05, 0.6)
+apriori = Apriori(itemsets, 0.02, 0.75)
 print("dataset size = " + str(len(apriori.dataset)))
 
 
 print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_count))
-for itemset in apriori.frequent_patterns:
-    print("{" + ", ".join(sorted(str(item) for item in itemset)) + "}")
+# for itemset in apriori.frequent_patterns:
+#     print("{" + ", ".join(sorted(str(item) for item in itemset)) + "}")
 
 print("\nassociation rules, min_confidence = " + str(apriori.min_confidence))
-for a, b in apriori.association_rules:
-    print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+# for a, b in apriori.association_rules:
+#     print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
 
 print("\nquality courses")
 for a, b in apriori.association_rules:
-    if 'overall:good' in b:
+    if 'overall:good' in b and len(b) == 1:
         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
 
 print("\nshit courses")
 for a, b in apriori.association_rules:
-    if 'overall:bad' in b:
+    if 'overall:bad' in b and len(b) == 1:
         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
 
