@@ -1,7 +1,5 @@
 
-import loader
-import numpy as np
-
+from classification import loader
 from sklearn.neighbors import KNeighborsClassifier
 
 data, target = loader.all_evaluation_data()

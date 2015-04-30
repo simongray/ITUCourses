@@ -1,22 +1,5 @@
 __author__ = 'Anders'
 
-import loader
-
-# "ects_points": 750,
-# "expected_participants": 30,
-# "job_evaluation": 3.57,
-# "language": "Dansk",
-# "line_of_studies": "Master i it organisation og implementering (ori)",
-# "maximum_participants": 34,
-# "minimum_participants": 0,
-# "name": "Advanced IT Project Management",
-# "overall_evaluation": 3.29,
-# "programme": "MORI",
-# "replies": 0.4117647058823529,
-# "semester": "Efterår 2011",
-# "time_evaluation": 3.0,
-# "time_slots":
-
 
 def convert_line_of_studies(studies):
     if studies == 'Master i it organisation og implementering (ori)':               return 1
