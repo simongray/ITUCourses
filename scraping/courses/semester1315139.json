@@ -1,0 +1,3330 @@
+[
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Anette Kreutzberg"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "25",
+        "minimum_participants": "12",
+        "name": "3D Game Art",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "5A12/16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "5A12/16",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Klaus Bjerager"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "50",
+        "minimum_participants": "12",
+        "name": "Advanced Graphic Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A12",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A12",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A54",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A54",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "lecturers": [
+            "Hannes Mehnert",
+            "Jesper Bengtson"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Advanced Models and Programs",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A20",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A20, 2A50",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A20",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A20, 2A50",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Yvonne Dittrich",
+            "Rosalba Giuffrida"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "30",
+        "minimum_participants": "10",
+        "name": "Advanced Software Engineering",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A14",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Byung Chull Bae"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Affective Computing",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "72",
+        "language": "Dansk",
+        "lecturers": [
+            "Thore Husfeldt"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Algorithms and Data Structures",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 4",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 4, 2A20, 4A22",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 4",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Rony Medaglia",
+            "Jonas Hedman"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "20",
+        "name": "B1 Strategic and tactical tools for e-business",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Stefan Henningsson"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "60",
+        "minimum_participants": "15",
+        "name": "B19 IT-Strategy",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "ScrollBar",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "ScrollBar",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "lecturers": [
+            "Jonas Hedman"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "60",
+        "minimum_participants": "25",
+        "name": "B31 The Internet as A Battlefield - Competing With Digital Goods and Services",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A14",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A14",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "32",
+        "language": "Dansk",
+        "lecturers": [
+            "Ulrik Vilhelm Falktoft",
+            "Leif Bloch Rasmussen",
+            "Camilla Bartholdy"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "53",
+        "minimum_participants": "16",
+        "name": "B34 Digital entrepeneurship",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Daniel Hardt"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "B36 Artificial Intelligence in the Marketplace",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Klaus Bjerager",
+            "Ian Wisler-Poulsen"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Basic Graphic Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A52",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A52",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Ian Wisler-Poulsen"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "15",
+        "name": "Basic Graphic Design - group 2",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A52",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A52",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "38",
+        "language": "Dansk",
+        "lecturers": [
+            "Jimmy Kevin Pedersen"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Business and Management",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "15",
+        "language": "Dansk",
+        "lecturers": [
+            "Kim Peiter Jørgensen",
+            "Martin J. Ernst"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "35",
+        "minimum_participants": "10",
+        "name": "Business Cases",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A12",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A12",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "76",
+        "language": "Dansk",
+        "lecturers": [
+            "Henriette Moos",
+            "Klaus Svarre Christensen",
+            "Dan Pedersen"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "90",
+        "minimum_participants": "12",
+        "name": "Crossmedia",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Balkonarbejdspladser",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 3, 3A50, 3A52",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A50, 3A52",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Julian Togelius",
+            "Noor Shaker"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "55",
+        "minimum_participants": "12",
+        "name": "Data Mining",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 4",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A54, 4A58",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Philippe Bonnet"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Database Tuning",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A16",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "15",
+        "language": "Engelsk",
+        "lecturers": [
+            "Philippe Bonnet"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Database Tuning Project",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A20",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A20",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "lecturers": [
+            "Søren Lauesen",
+            "Mohammad Amin Kuhail"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Database Use and Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 3",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A12/14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1000",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Brian Everitt"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Design for Digital Communication Platforms",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A14, 5A12/16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A14, 2A52, 2A20, 5A12/16",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Miguel Angel Sicart",
+            "Phillip Prager"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "27",
+        "minimum_participants": "12",
+        "name": "Designing Digital Play",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A12",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A12",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Tomas Sokoler",
+            "Thomas Pederson",
+            "Dag Svanæs",
+            "Clint Heyer",
+            "Tony Olsson"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Designing Interactive Artifacts (Specialization Part I)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "DesignLab",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "DesignLab",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Irina Shklovski"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "25",
+        "minimum_participants": "12",
+        "name": "Digital Culture and Society",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A22",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A22",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Stine Gotved"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Digital Cultures (Specialization Part I)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A52",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A52",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Espen Aarseth",
+            "Emma Kate Witkowski",
+            "Hans-Joachim Backe"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "35",
+        "minimum_participants": "12",
+        "name": "Digital Game Theory",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A20",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "5A12/16",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "5A12/16",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Nalini Panchita Kotamraju"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "71",
+        "minimum_participants": "12",
+        "name": "Digital Innovation - I",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 1",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 1 + DesignLab",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "52",
+        "language": "Engelsk",
+        "lecturers": [
+            "Suzan M. Boztepe"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "52",
+        "minimum_participants": "12",
+        "name": "Digital Innovation - II",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 4",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "DesignLab",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Benny Robert Jørgensen"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Digital Media - Interactive Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "5A12/16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "5A12/16",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Susana Pajares Tosca",
+            "Hanne-Louise Johannesen",
+            "Phillip Prager"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Digital Media Aestethics (Specialization Part 1)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A52",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A52",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "76",
+        "language": "Dansk",
+        "lecturers": [
+            "Lisbeth Klastrup"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "90",
+        "minimum_participants": "70",
+        "name": "Digital Media Culture",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3, 4A16, 4A22, 2A54",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Torill Mortensen",
+            "Christina Neumayer",
+            "Giovanna di Rosario"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "85",
+        "minimum_participants": "12",
+        "name": "Digital Rhetorics (for DDK med studiestart før E2012)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 1",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 1 + balkonarbejdspladser",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Torill Mortensen",
+            "Christina Neumayer",
+            "Giovanna di Rosario"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Digital Rhetorics I",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 1",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 1",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Torill Mortensen",
+            "Christina Neumayer",
+            "Giovanna di Rosario"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "64",
+        "minimum_participants": "12",
+        "name": "Digital Rhetorics II",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 4",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 4 + balkonarbejdspladser",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "10",
+        "language": "Dansk",
+        "lecturers": [
+            "Hanne-Louise Johannesen",
+            "Phillip Prager"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "35",
+        "minimum_participants": "4",
+        "name": "Digtal Aesthetics: Theory and Practice",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "lecturers": [
+            "Martin Bregnhøi"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Dynamic Web Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "DesignLab",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A54, 4A56, 4A58",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "lecturers": [
+            "Ulrik Vilhelm Falktoft"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "60",
+        "minimum_participants": "20",
+        "name": "E-Business and Understanding Business",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A54",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A54",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "15",
+        "language": "Dansk",
+        "lecturers": [
+            "Søren Alain Mortensen",
+            "John Gøtze"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "70",
+        "minimum_participants": "10",
+        "name": "Enterprise Architecture (Master)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Elisabeth Broe Christensen"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "30",
+        "minimum_participants": "8",
+        "name": "Entrepreneurship",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A16",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A16",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "72",
+        "language": "Engelsk",
+        "lecturers": [
+            "Ioannis Damastianos Panagis"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "First-year Project: Map of Denmark: Visualization Navigation Searching and Route Planning",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "ScrollBar",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "ScrollBar",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "ScrollBar",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A12/14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "lecturers": [
+            "Jesper Larsson"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "50",
+        "minimum_participants": "12",
+        "name": "Foundations of Computing - Algorithms and Data Structures",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A12, 2A14",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "lecturers": [
+            "Marco Carbone"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "90",
+        "minimum_participants": "12",
+        "name": "Foundations of Computing - Discrete Mathematics",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 2",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 4",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 4",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Engelsk",
+        "lecturers": [
+            "Marco Carbone"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "90",
+        "minimum_participants": "12",
+        "name": "Foundations of Computing - Discrete Mathematics",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 2",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 4",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 4",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Anders Antoft"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "35",
+        "minimum_participants": "12",
+        "name": "From Concept Art to In-Game Graphics",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A54",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A54",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "lecturers": [
+            "Mark Nelson",
+            "Gustaf Stechmann"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Game Development",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4E, 5A12/16",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A16",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4E, 5A12/16",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "lecturers": [
+            "Anders Lisdorf"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Global Project Management",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 3",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "Aud 3",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "28",
+        "language": "Engelsk",
+        "lecturers": [
+            "Thomas Pederson",
+            "Aslak Johansen",
+            "Javier Gonzalez Gonzalez",
+            "Matias Bjørling"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "0",
+        "minimum_participants": "10",
+        "name": "Global Software Development",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Casper Bruun Jensen"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Globalization Organization and Communication",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A22",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A22",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Laura Watts"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Green Society (Specialization Part 1)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A08",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A08",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Villads Keiding"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Innovation and Concept Development",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A20",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A20",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "lecturers": [
+            "Elisabeth Broe Christensen"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Innovation and Entrepreneurship",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "3A12/14",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A14, 4A16",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Claus Seeberg Friis",
+            "Carsten Levin"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "35",
+        "minimum_participants": "15",
+        "name": "Innovative Business Models using Mobile Units",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A20",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A20",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Rune Møller Jensen"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "130",
+        "minimum_participants": "12",
+        "name": "Intelligent Systems Programming (formerly Efficient AI)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "Aud 2",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A12, 2A14",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Brennan Young"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Interactive Multimedia",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "3A52PC",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A52PC",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "lecturers": [
+            "Raghava Rao Mukkamala",
+            "Amin Piramoon"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "100",
+        "minimum_participants": "0",
+        "name": "Interactive Web Services with Java and XML",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A54",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A54",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Kennie Pontoppidan"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Introduction to Database Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A54 + 4A56",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Dan Witzner Hansen"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "45",
+        "minimum_participants": "12",
+        "name": "Introduction to Graphics and Image Analysis",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A14, 2A50",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A14, 2A50",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Jarmo Laaksolahti"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Introduction to Programming",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A58 + balconies",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Engelsk",
+        "lecturers": [
+            "Suzan M. Boztepe"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "0",
+        "minimum_participants": "12",
+        "name": "Introduction to Service Design (Specialization Part 1)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 3",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "DesignLab",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "lecturers": [
+            "Rickard Stampe Söderström"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "35",
+        "minimum_participants": "12",
+        "name": "Introductory 3D",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "5A12/16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "5A12/12",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Andrea Corradini"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Introductory Programming",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A56",
+                "time_slot": "17.00-18.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A56",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Lørdag",
+                "room": "5A12/16",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "5A12/16",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "5A12/16",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Lørdag",
+                "room": "5A12/16",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "lecturers": [
+            "Pernille Bjørn"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "IT & Work Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A12/14",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A12/14, 4A20, 3A18",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Balconies",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Balconies",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Balconies",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Thomas Hildebrandt"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "IT and Business Process Modeling",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A16",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A16, 3A52",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Jan Pries-Heje",
+            "Lene Pries-Heje"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "IT Enabled Process Improvement",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A54",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A54",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Klaus Østergaard"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "IT Governance & Quality Management",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A12",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A12",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Lærke Ullerup"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "40",
+        "minimum_participants": "20",
+        "name": "IT in Organizations - a Practice Approach",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "lecturers": [
+            "Siamak Amjadi",
+            "Henrik Hvid Jensen",
+            "John Gøtze"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "IT Organisation of the future",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "lecturers": [
+            "Claus Seeberg Friis",
+            "Klaus Nielsen"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "36",
+        "minimum_participants": "12",
+        "name": "IT Project and Programme Management",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "lecturers": [
+            "Peter Vestergaard",
+            "Ulla Mai-Brit Koch Zeeberg"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "40",
+        "minimum_participants": "0",
+        "name": "IT Service Management",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "3A18",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A18",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A18",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A18",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A18",
+                "time_slot": "16.00-17.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Lørdag",
+                "room": "3A18",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Claus Witfelt"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Learning and IT",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A14",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A14",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Dan Witzner Hansen",
+            "Rasmus Ejlers Møgelberg"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Mathematical Analysis and Linear Algebra",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "40",
+        "language": "Engelsk",
+        "lecturers": [
+            "Kasper Østerbye",
+            "Jacob Avlund"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "75",
+        "minimum_participants": "12",
+        "name": "Mobile App Development",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 3",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "12",
+        "language": "Engelsk",
+        "lecturers": [
+            "Richard Ling"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "20",
+        "minimum_participants": "12",
+        "name": "Mobile Communication: Technical Issues and Methods for Study (Specialization Part I)",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A12",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "55",
+        "language": "Engelsk",
+        "lecturers": [
+            "Andrzej Wasowski",
+            "Thorsten Berger"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "100",
+        "minimum_participants": "0",
+        "name": "Model Driven Development Project",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 2",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 2",
+                "time_slot": "16.00-17.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 2",
+                "time_slot": "18.00-19.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Andrea Corradini"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "75",
+        "minimum_participants": "0",
+        "name": "Object Oriented Programming",
+        "semester": "Forår 2013",
+        "time_slots": []
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "John Tronborg Larsen"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Organization and Business Theory",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A52",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A52",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Jan Trzaskowski",
+            "Kim Grud Hansen",
+            "Jens Ottesen-Støtt"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "20",
+        "name": "P1 National Internet Law",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "3A12/14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "3A12/14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Jan Trzaskowski",
+            "Kim Grud Hansen",
+            "Jens Ottesen-Støtt"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "45",
+        "minimum_participants": "15",
+        "name": "P5 Legal Aspects of Starting Up an IT Business",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 3",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "Aud 3",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Jakob Bardram",
+            "Dan Witzner Hansen",
+            "Thomas Pederson"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Pervasive Computing",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 3",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "lecturers": [
+            "Casper Bruun Jensen",
+            "Vasiliki Baka"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Philosophy of Science",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 2",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "3A18,4A20,4A22",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 1",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "Vasiliki Baka"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Philosophy of Science and Technology",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "Aud 2",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A12, 2A14",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 1",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "lecturers": [
+            "Anne Hatting",
+            "Henriette Bernhoff Lungholt",
+            "Anders Kragh Jensen"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "45",
+        "minimum_participants": "0",
+        "name": "Presentation and Investigation",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A14",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "60",
+        "language": "Dansk",
+        "lecturers": [
+            "Anna Vallgårda"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Project Cluster. B.Sc. Project",
+        "semester": "Forår 2013",
+        "time_slots": []
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Randi Markussen"
+        ],
+        "line_of_studies": "Bachelor i global virksomhedsinformatik (bgbi)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Project Cluster. B.Sc. Project - GBI",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A12",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A12",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Rasmus Pagh",
+            "Jesper Larsson",
+            "Athina Markopoulou"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Project Cluster: Advanced Algorithms Seminar",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "2A54",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "2A54",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Mette Holm Smith"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Project Cluster: Bachelor's Project",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Muhammad Ali Babar"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "44",
+        "minimum_participants": "15",
+        "name": "Project Cluster: Cloud Computing",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 4",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "3A50, 3A52",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "60",
+        "language": "Engelsk",
+        "lecturers": [
+            "John Paulin Hansen",
+            "Anders Colding-Jørgensen",
+            "Villads Keiding"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "70",
+        "minimum_participants": "12",
+        "name": "Project Cluster: Concept Development with Industry",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "DesignLab",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "DesignLab",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Torsdag",
+                "room": "DesignLab",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "DesignLab",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "0",
+        "language": "Dansk",
+        "lecturers": [
+            "Thomas Pederson"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "25",
+        "minimum_participants": "0",
+        "name": "Project Cluster: Introduction to Scripting Databases and System Architechture",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A12,  5A12/16",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A12,  5A12/16",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Anker Helms Jørgensen"
+        ],
+        "line_of_studies": "Master i it Softwarekonstruktion (sko)",
+        "maximum_participants": "40",
+        "minimum_participants": "10",
+        "name": "Project Cluster: Introductory Academic Project",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "DesignLab",
+                "time_slot": "16.00-17.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "40",
+        "language": "Dansk",
+        "lecturers": [
+            "John Gøtze"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "284",
+        "minimum_participants": "2",
+        "name": "Project Cluster: IT Leadership and Management",
+        "semester": "Forår 2013",
+        "time_slots": []
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "35",
+        "language": "Engelsk",
+        "lecturers": [
+            "Agata Przybyszewska"
+        ],
+        "line_of_studies": "cand.it. softwareudvikling og -teknologi (sdt)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Project Cluster: Programming Workshop",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "2A54",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A52",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "000",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Eva Maria Steensig Hauerslev"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Project Cluster: Thesis Workshop (DDK)",
+        "semester": "Forår 2013",
+        "time_slots": []
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Engelsk",
+        "lecturers": [
+            "Emma Kate Witkowski"
+        ],
+        "line_of_studies": "cand.it. spil (games)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "Qualitative Methods",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "2A54",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "2A54",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "30",
+        "language": "Dansk",
+        "lecturers": [
+            "Klaus Svarre Christensen"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "30",
+        "minimum_participants": "12",
+        "name": "Quantitative Methods",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "16.00-17.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "45",
+        "language": "Dansk",
+        "lecturers": [
+            "Rune Kristian Nielsen"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "60",
+        "minimum_participants": "12",
+        "name": "Reflections on IT",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 1, Aud 2",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A12, 3A14",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Peter Sestoft",
+            "Niels Hallenberg"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "70",
+        "minimum_participants": "25",
+        "name": "Second Year Project - Functional Programming",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "3A12/14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A12/14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "3A12/14",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "65",
+        "language": "Engelsk",
+        "lecturers": [
+            "Niels Hallenberg"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "70",
+        "minimum_participants": "25",
+        "name": "Second Year Project: Software Development in Large Teams with International Collaboration",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A52",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "lecturers": [
+            "Ulrik Vilhelm Falktoft",
+            "Leif Bloch Rasmussen"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "60",
+        "minimum_participants": "15",
+        "name": "SF23 Perspectives on e-business",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "Aud 4",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "Aud 4",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "76",
+        "language": "Dansk",
+        "lecturers": [
+            "Tomas Sokoler",
+            "Mogens Jacobsen"
+        ],
+        "line_of_studies": "Bachelor i digitale medier og design (bdmd)",
+        "maximum_participants": "90",
+        "minimum_participants": "0",
+        "name": "Sketching and Prototyping",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "Aud 2, DesignLab",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "Aud 2, DesignLab",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "lecturers": [
+            "Søren Lauesen",
+            "Lars Ingemann"
+        ],
+        "line_of_studies": "Master i It-ledelse (ilm)",
+        "maximum_participants": "45",
+        "minimum_participants": "12",
+        "name": "Software Acquisition and Requirements",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A14",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Claus Seeberg Friis",
+            "Inge-Lise Salomon"
+        ],
+        "line_of_studies": "Bachelor i softwareudvikling (bswu)",
+        "maximum_participants": "75",
+        "minimum_participants": "25",
+        "name": "System Development and Project Organisation",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 2",
+                "time_slot": "14.00-15.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "35",
+        "language": "Dansk",
+        "lecturers": [
+            "Inge-Lise Salomon"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "20",
+        "name": "T1 Introduction to programming and distributed systems",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "3A12/14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "3A12/14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Engelsk",
+        "lecturers": [
+            "Ravi K. Vatrapu",
+            "Daniel Hardt",
+            "Abid Hussain",
+            "Matthias Trier",
+            "Kostas Pantazos"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "120",
+        "minimum_participants": "25",
+        "name": "T17 Social Media Analytics",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "Aud 1",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "Aud 1",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Lars Frank"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "T20 Ecommerce and its integration with surrounding systems",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Fredag",
+                "room": "4A20",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "4A20",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "50",
+        "language": "Engelsk",
+        "lecturers": [
+            "Ravi K. Vatrapu"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "15",
+        "name": "T22 Gamification",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A20",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A20",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "70",
+        "language": "Dansk",
+        "lecturers": [
+            "Mads Bødker"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "80",
+        "minimum_participants": "12",
+        "name": "T24 Service Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "2A14",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "25",
+        "language": "Dansk",
+        "lecturers": [
+            "Freddie Drewsen"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "40",
+        "minimum_participants": "20",
+        "name": "T6 IT-Security",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Onsdag",
+                "room": "4A16",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A54, 4A58",
+                "time_slot": "10.00-11.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Engelsk",
+        "lecturers": [
+            "Matthias Trier"
+        ],
+        "line_of_studies": "cand.it. e-business (ebuss)",
+        "maximum_participants": "50",
+        "minimum_participants": "20",
+        "name": "T8 Enterprise Architecture",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "2A54",
+                "time_slot": "08.00-09.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "2A54",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Paul Metelmann"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "26",
+        "minimum_participants": "12",
+        "name": "Target Group Analysis",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Tirsdag",
+                "room": "4A20",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "12",
+        "language": "Engelsk",
+        "lecturers": [
+            "Isabel Froes"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "25",
+        "minimum_participants": "12",
+        "name": "Understanding Interaction Design",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A22",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A22, DesignLab",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A22",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Onsdag",
+                "room": "4A22",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "750",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "John Paulin Hansen",
+            "Lene Nielsen"
+        ],
+        "line_of_studies": "Master i it Interaktionsdesign (ind)",
+        "maximum_participants": "50",
+        "minimum_participants": "12",
+        "name": "Usability",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "17.00-18.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Torsdag",
+                "room": "4A16",
+                "time_slot": "19.00-20.50",
+                "type": "Øvelser"
+            }
+        ]
+    },
+    {
+        "ects_points": "1500",
+        "expected_participants": "20",
+        "language": "Dansk",
+        "lecturers": [
+            "Rune Nørager"
+        ],
+        "line_of_studies": "cand.it. digital design og kommunikation (ddk)",
+        "maximum_participants": "40",
+        "minimum_participants": "12",
+        "name": "Usability and Accessibility",
+        "semester": "Forår 2013",
+        "time_slots": [
+            {
+                "day": "Mandag",
+                "room": "4A14",
+                "time_slot": "10.00-11.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Mandag",
+                "room": "4A14",
+                "time_slot": "12.00-13.50",
+                "type": "Øvelser"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A54, 4A58",
+                "time_slot": "12.00-13.50",
+                "type": "Forelæsning"
+            },
+            {
+                "day": "Fredag",
+                "room": "2A54, 4A58",
+                "time_slot": "14.00-15.50",
+                "type": "Øvelser"
+            }
+        ]
+    }
+]
