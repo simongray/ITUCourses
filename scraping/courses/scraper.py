@@ -42,6 +42,7 @@ def __process_course(link_to_course):
     site = html.fromstring(course.text)
 
     site_data = __scrape_course_data(site)
+    lecturers = __scrape_lecturers(site)
     time_slots = __scrape_time_slots(site)
     cleaned = __clean_data(site_data)
 
@@ -54,6 +55,7 @@ def __process_course(link_to_course):
         'minimum_participants': cleaned[5],
         'expected_participants': cleaned[6],
         'maximum_participants': cleaned[7],
+        'lecturers': lecturers,
         'time_slots': __convert_to_time_slot_dict(time_slots)
     }
 
@@ -73,6 +75,17 @@ def __scrape_course_data(site):
         site.xpath('/html/body/table[2]/tr/td[2]/table[1]/tr[2]/td/form/table//tr[10]//td[2]/text()')
     ]
 
+
+def __scrape_lecturers(site):
+    names =       site.xpath('/html/body/table[2]/tr/td[2]/table[2]/tr[2]/td/table//tr/td[1]/text()')[1:]
+    percentages = site.xpath('/html/body/table[2]/tr/td[2]/table[2]/tr[2]/td/table//tr/td[4]/text()')[1:]
+
+    actual_teachers = []
+    for i in range(0, len(percentages)):
+        if float(percentages[i]) > 0:
+            actual_teachers.append(names[i])
+
+    return actual_teachers
 
 def __scrape_time_slots(site):
     time_slots = []
