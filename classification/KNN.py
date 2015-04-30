@@ -1,6 +1,7 @@
-
-from classification import loader
 from sklearn.neighbors import KNeighborsClassifier
+
+from loading import loader
+
 
 data, target = loader.all_evaluation_data()
 training = loader.training_data()

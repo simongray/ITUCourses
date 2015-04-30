@@ -2,12 +2,13 @@ __author__ = 'Anders'
 
 import json
 import numpy as numpy
-import converter
+
+from classification import converter
 
 
 def __load_courses():
     courses = []
-    courses_file = open('dataset.json', 'r')
+    courses_file = open('../scraping/dataset/dataset.json', 'r')
     courses.extend(json.load(courses_file))
     courses_file.close()
     return courses
