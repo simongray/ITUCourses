@@ -60,10 +60,10 @@ def evaluation_label(evaluation, low, high, high_is_good=True):
             return 'meh'
 
 
-# merge room info
 for n, item in enumerate(dataset):
     rooms = []
 
+    # merge room info
     for timeslot in item['time_slots']:
         room = timeslot['room']
         lecture = timeslot['type']
@@ -73,7 +73,9 @@ for n, item in enumerate(dataset):
 
     dataset[n]['rooms'] = set(rooms)
 
-print(dataset)
+    # prepend lecturers with lecturer label
+    dataset[n]['lecturers'] = ['lecturer:'+name for name in item['lecturers']]
+
 
 # find patterns
 itemsets = [
@@ -88,13 +90,13 @@ itemsets = [
         'participants:' + ('low' if row['expected_participants'] < participants_median else 'high'),
         'max:' + ('low' if row['maximum_participants'] < max_participants_median else 'high')
 
-    }.union(row['rooms'])
+    }.union(row['rooms']).union(row['lecturers'])
     for row in dataset
 ]
 
 print(itemsets)
 
-apriori = Apriori(itemsets, 0.02, 0.75)
+apriori = Apriori(itemsets, 0.01, 0.90)
 print("dataset size = " + str(len(apriori.dataset)))
 
 
