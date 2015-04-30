@@ -1,9 +1,10 @@
 __author__ = 'Anders'
 
 import json
+
 import numpy as numpy
 
-from classification import converter
+from loading import converter
 
 
 def __load_courses():
@@ -30,7 +31,8 @@ def all_evaluation_data():
             course["minimum_participants"],
             course["replies"],
             converter.convert_semester(course["semester"]),
-            course["time_evaluation"]
+            course["time_evaluation"],
+            course["overall_evaluation"]
         ])
 
         as_numpy.append(nd_array)
@@ -49,6 +51,14 @@ def all_evaluation_data():
     return numpy.array(as_numpy), numpy.array(target_data)
 
 
+def get_labels():
+    course = __load_courses()
+
+    return ["ects_points", "expected_participants", "job_evaluation", "language", "line_of_studies",
+            "maximum_participants", "minimum_participants", "replies", "semester", "time_evaluation",
+            "overall_evaluation"]
+
+
 def training_data():
     x, y = all_evaluation_data()
 
@@ -59,6 +69,7 @@ def test_data():
     x, y = all_evaluation_data()
 
     return x[-100:]
+
 
 if __name__ == '__main__':
     lol = test_data()
