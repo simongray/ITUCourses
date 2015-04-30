@@ -59,21 +59,36 @@ def evaluation_label(evaluation, low, high, high_is_good=True):
         else:
             return 'meh'
 
+def timeslot_label(timeslot):
+    """
+    Reduce timeslots to one of three labels (early, mid, late).
+    """
+    starting_hour = int(timeslot[:2])
 
-# merge room info
+    if starting_hour < 10:
+        return 'time:early'
+    elif starting_hour >= 16:
+        return 'time:late'
+    else:
+        return 'time:mid'
+
+# prepare room, lecture type, timeslot and lecturer labels
 for n, item in enumerate(dataset):
     rooms = []
+    times = []
 
+    # merge room info
     for timeslot in item['time_slots']:
         room = timeslot['room']
         lecture = timeslot['type']
-        # time = timeslot['time_slot']  # TODO: use this at all?
-        # rooms.append(room_label(room)+':'+lecture+':'+time)
         rooms.append(room_label(room)+':'+lecture)
+        times.append(timeslot_label(timeslot['time_slot']))  # TODO: concatenate with lecture type too? e.g. "Øvelser:late"
 
     dataset[n]['rooms'] = set(rooms)
+    dataset[n]['times'] = set(times)
 
-print(dataset)
+    # prepend lecturers with lecturer label
+    dataset[n]['lecturers'] = ['lecturer:'+name for name in item['lecturers']]
 
 # find patterns
 itemsets = [
@@ -85,18 +100,15 @@ itemsets = [
         'language:' + row['language'],
         'programme:' + row['programme'],
         #'ects:' + str(row['ects_points']),
-        'participants:' + ('low' if row['expected_participants'] < participants_median else 'high'),
-        'max:' + ('low' if row['maximum_participants'] < max_participants_median else 'high')
+        'participants:' + ('low' if row['expected_participants'] < participants_median else 'high')#,
+        # 'max:' + ('low' if row['maximum_participants'] < max_participants_median else 'high')
 
-    }.union(row['rooms'])
+    }.union(row['rooms']).union(row['lecturers']).union(row['times'])
     for row in dataset
 ]
 
-print(itemsets)
-
-apriori = Apriori(itemsets, 0.02, 0.75)
+apriori = Apriori(itemsets, 0.015, 0.80)
 print("dataset size = " + str(len(apriori.dataset)))
-
 
 print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_count))
 # for itemset in apriori.frequent_patterns:
