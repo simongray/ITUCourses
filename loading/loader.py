@@ -7,7 +7,7 @@ import numpy as numpy
 from loading import converter
 
 
-def __load_courses():
+def load_courses():
     courses = []
     courses_file = open('../scraping/dataset/dataset.json', 'r')
     courses.extend(json.load(courses_file))
@@ -16,12 +16,13 @@ def __load_courses():
 
 
 def all_evaluation_data():
-    courses = __load_courses()
+    courses = load_courses()
     as_numpy = []
     target_data = []
 
     for course in courses:
         nd_array = numpy.array([
+            converter.java_string_hashcode(course["name"]),
             course["ects_points"],
             course["expected_participants"],
             course["job_evaluation"],
@@ -32,7 +33,6 @@ def all_evaluation_data():
             course["replies"],
             converter.convert_semester(course["semester"]),
             course["time_evaluation"],
-            course["overall_evaluation"]
         ])
 
         as_numpy.append(nd_array)
@@ -52,7 +52,7 @@ def all_evaluation_data():
 
 
 def get_labels():
-    course = __load_courses()
+    course = load_courses()
 
     return ["ects_points", "expected_participants", "job_evaluation", "language", "line_of_studies",
             "maximum_participants", "minimum_participants", "replies", "semester", "time_evaluation",
