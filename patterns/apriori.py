@@ -10,15 +10,17 @@ class Apriori:
     min_support = None
     min_support_count = None
     min_confidence = None
+    only_closed = False
     _frequent_patterns = None
     _association_rules = None
     _interesting_rules = None
 
-    def __init__(self, dataset: list, min_support: float, min_confidence: float):
+    def __init__(self, dataset: list, min_support: float, min_confidence: float, closed_patterns: bool=False):
         self.dataset = dataset
         self.min_support = min_support
         self.min_support_count = int(len(dataset) * min_support)
         self.min_confidence = min_confidence
+        self.only_closed = closed_patterns  # limit to only closed frequent patterns
 
     def _first_level(self) -> set:
         """
@@ -116,6 +118,29 @@ class Apriori:
 
         return count_ab/count_a
 
+    def _closed(self, pattern_a):
+        """
+        Is this frequent pattern closed?
+        """
+        # TODO: not super efficient to check every pattern + superpatterns against entire dataset...
+
+        occurrences = {
+            frequent_pattern: 0
+            for frequent_pattern in self._frequent_patterns
+            if frequent_pattern.issuperset(pattern_a)
+        }
+
+        for itemset in self.dataset:
+            for pattern in occurrences.keys():
+                if pattern.issubset(itemset):
+                    occurrences[pattern] += 1
+
+        for pattern, frequency in occurrences.items():
+            if pattern != pattern_a and frequency == occurrences[pattern_a]:
+                return False
+
+        return True
+
     def get_frequent_patterns(self) -> set:
         """
         Get all frequent patterns/itemsets.
@@ -190,6 +215,17 @@ class Apriori:
         """
         if not self._frequent_patterns:
             self._frequent_patterns = self.get_frequent_patterns()
+
+        # limit to only closed patterns to reduce noise
+        if self.only_closed:
+            closed_patterns = []
+
+            for pattern in self._frequent_patterns:
+                if self._closed(pattern):
+                    closed_patterns.append(pattern)
+
+            self._frequent_patterns = closed_patterns
+
 
         return self._frequent_patterns
 
