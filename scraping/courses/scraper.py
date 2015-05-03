@@ -110,7 +110,7 @@ def __process_course(link_to_course):
         'maximum_participants': cleaned[7],
         'lecturers': lecturers,
         'time_slots': __convert_to_time_slot_dict(time_slots),
-        'course_code': __get_line_of_studies_code(cleaned[2])
+        'line_code': __get_line_of_studies_code(cleaned[2])
     }
 
     return scraped_course
