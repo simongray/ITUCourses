@@ -12,6 +12,7 @@ class Apriori:
     min_confidence = None
     _frequent_patterns = None
     _association_rules = None
+    _interesting_rules = None
 
     def __init__(self, dataset: list, min_support: float, min_confidence: float):
         self.dataset = dataset
@@ -184,6 +185,9 @@ class Apriori:
 
     @property
     def frequent_patterns(self) -> set:
+        """
+        Frequent patterns as defined by support.
+        """
         if not self._frequent_patterns:
             self._frequent_patterns = self.get_frequent_patterns()
 
@@ -191,6 +195,9 @@ class Apriori:
 
     @property
     def association_rules(self) -> set:
+        """
+        Association rules from frequent patterns as defined by confidence.
+        """
         if not self._association_rules:
             self._association_rules = {
                 rule
@@ -201,5 +208,16 @@ class Apriori:
         return self._association_rules
 
     @property
-    def only_interesting_rules(self) -> set:
-        pass  # TODO: use Kulczynski + Imbalance ratio as recommended in book on pp. 267-271.
+    def interesting_rules(self) -> set:
+        """
+        Interesting rules from association rules as defined by Lift.
+        """
+        if not self._interesting_rules:
+            self._interesting_rules = {
+                rule
+                for rule in self.association_rules
+                if self.lift(rule) > 1
+            }
+
+        # TODO: use Kulczynski + Imbalance ratio as alternate measure as recommended in book on pp. 267-271.
+        return self._interesting_rules
