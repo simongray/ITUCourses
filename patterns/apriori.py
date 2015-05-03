@@ -149,6 +149,39 @@ class Apriori:
             and self._confidence(subset_1, subset_2) >= self.min_confidence
         }
 
+    def lift(self, rule: tuple):
+        """
+        Return the Lift correlation measure of some association rule, e.g.
+
+        P(A -> B) =      P(A union B)
+                        -------------
+                           P(A)P(B)
+
+        Exactly 1 implies independence, below 1 implies negative correlation and above 1 positive.
+        """
+        a = rule[0]
+        b = rule[1]
+        a_union_b = a.union(b)
+
+        a_occurrences = 0
+        b_occurrences = 0
+        a_union_b_occurrences = 0
+        all_occurrences = len(self.dataset)
+
+        for itemset in self.dataset:
+            if a.issubset(itemset):
+                a_occurrences += 1
+            if b.issubset(itemset):
+                b_occurrences += 1
+            if a_union_b.issubset(itemset):
+                a_union_b_occurrences += 1
+
+        probability_a_union_b = a_union_b_occurrences/all_occurrences
+        probability_a = a_occurrences/all_occurrences
+        probability_b = b_occurrences/all_occurrences
+
+        return probability_a_union_b/(probability_a*probability_b)
+
     @property
     def frequent_patterns(self) -> set:
         if not self._frequent_patterns:
@@ -168,5 +201,5 @@ class Apriori:
         return self._association_rules
 
     @property
-    def interesting_rules(self) -> set:
+    def only_interesting_rules(self) -> set:
         pass  # TODO: use Kulczynski + Imbalance ratio as recommended in book on pp. 267-271.

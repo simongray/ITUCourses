@@ -115,16 +115,20 @@ print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_coun
 #     print("{" + ", ".join(sorted(str(item) for item in itemset)) + "}")
 
 print("\nassociation rules, min_confidence = " + str(apriori.min_confidence))
+for a, b in apriori.association_rules:
+    print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+    print("     lift --> "+str(apriori.lift((a,b))))
+
+#
+# print("\nquality courses")
 # for a, b in apriori.association_rules:
-#     print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
-
-print("\nquality courses")
-for a, b in apriori.association_rules:
-    if 'overall:good' in b and len(b) == 1:
-        print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
-
-print("\nshit courses")
-for a, b in apriori.association_rules:
-    if 'overall:bad' in b and len(b) == 1:
-        print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
-
+#     if 'overall:good' in b and len(b) == 1:
+#         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+#         print("     lift --> "+str(apriori.lift((a,b))))
+#
+# print("\nshit courses")
+# for a, b in apriori.association_rules:
+#     if 'overall:bad' in b and len(b) == 1:
+#         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+#         print("     lift --> "+str(apriori.lift((a,b))))
+#
