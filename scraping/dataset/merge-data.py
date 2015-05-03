@@ -16,7 +16,7 @@ for filename in glob.glob("../courses/*.json"):
 dataset = []
 for course in courses:
     for evaluation in evaluations:
-        if course['name'] == evaluation['name'] and course['semester'] == evaluation['semester']:
+        if course['name'] == evaluation['name'] and course['semester'] == evaluation['semester'] and course['line_code'] == evaluation['programme']:
             course.update(evaluation)
             dataset.append(course)
 
