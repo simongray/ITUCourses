@@ -16,6 +16,7 @@ def scrape_site(ids):
                                 separators=(',', ': '),
                                 ensure_ascii=False),
                      "semester" + semester + ".json")  # Save as json with the correct encoding.
+    print("Done.")
 
 
 def scrape_course_links(semester_id):
@@ -37,6 +38,58 @@ def scrape_courses(course_list):
     return data
 
 
+def __get_line_of_studies_code(studies):
+    code = studies[studies.find("(") + 1:studies.find(")")]
+
+    # Dict didn't work as expected, made this horrible thing instead.
+    if code == "bdmd":
+        return "BDMD"
+    if code == "bgbi":
+        return "BGBI"
+    if code == "bswu":
+        return "BSWU",
+    if code == "ddk":
+        return "KDDK"
+    if code == "dim":
+        return "KDIM"
+    if code == "dkm":
+        return "KDKM"
+    if code == "ebuss":
+        return "KEBUSS"
+    if code == "games":
+        return "KGAMES"
+    if code == "int":
+        return "KINT"
+    if code == "ito":
+        return "KITO"
+    if code == "mtg":
+        return "KMTG"
+    if code == "sdt":
+        return "KSDT"
+    if code == "swu":
+        return "KSWU"
+    if code == "tit":
+        return "KTIT"
+    if code == "ilm":
+        return "KILM"
+    if code == "ils":
+        return "KILS"
+    if code == "ind":
+        return "MIND"
+    if code == "inm":
+        return "MINM"
+    if code == "ori":
+        return "MORI"
+    if code == "sit":
+        return "MSIT"
+    if code == "sko":
+        return "MSKO"
+    if code == "sok":
+        return "MSOK"
+    else:
+        return ""
+
+
 def __process_course(link_to_course):
     course = requests.get(link_to_course)
     site = html.fromstring(course.text)
@@ -56,7 +109,8 @@ def __process_course(link_to_course):
         'expected_participants': cleaned[6],
         'maximum_participants': cleaned[7],
         'lecturers': lecturers,
-        'time_slots': __convert_to_time_slot_dict(time_slots)
+        'time_slots': __convert_to_time_slot_dict(time_slots),
+        'course_code': __get_line_of_studies_code(cleaned[2])
     }
 
     return scraped_course
@@ -77,7 +131,7 @@ def __scrape_course_data(site):
 
 
 def __scrape_lecturers(site):
-    names =       site.xpath('/html/body/table[2]/tr/td[2]/table[2]/tr[2]/td/table//tr/td[1]/text()')[1:]
+    names = site.xpath('/html/body/table[2]/tr/td[2]/table[2]/tr[2]/td/table//tr/td[1]/text()')[1:]
     percentages = site.xpath('/html/body/table[2]/tr/td[2]/table[2]/tr[2]/td/table//tr/td[4]/text()')[1:]
 
     actual_teachers = []
@@ -86,6 +140,7 @@ def __scrape_lecturers(site):
             actual_teachers.append(names[i])
 
     return actual_teachers
+
 
 def __scrape_time_slots(site):
     time_slots = []
@@ -162,4 +217,5 @@ if __name__ == '__main__':
                     "454681", "409901", "293157", "253799",
                     "235230", "177371"]
 
+    # semester_ids = ["1062206"]
     scrape_site(semester_ids)
