@@ -6,6 +6,7 @@
         "lecturers": [
             "Lise Jensen"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "35",
         "minimum_participants": "0",
@@ -34,6 +35,7 @@
             "Philip Bille",
             "Anna Östlin Pagh"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "99",
         "minimum_participants": "0",
@@ -61,6 +63,7 @@
         "lecturers": [
             "Yvonne Dittrich"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -89,6 +92,7 @@
             "Kasper Østerbye",
             "Anders Hessellund"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -117,6 +121,7 @@
             "Dan Witzner Hansen",
             "Marco Loog"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -142,6 +147,7 @@
         "expected_participants": "10",
         "language": "Dansk",
         "lecturers": [],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -163,6 +169,7 @@
         "lecturers": [
             "Troels Andreasen"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -190,6 +197,7 @@
         "lecturers": [
             "Jan Damsgaard"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "45",
         "minimum_participants": "15",
@@ -217,6 +225,7 @@
         "lecturers": [
             "Niels Kornum"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "40",
         "minimum_participants": "15",
@@ -244,6 +253,7 @@
         "lecturers": [
             "Ioanna Constantiou"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -271,6 +281,7 @@
         "lecturers": [
             "Niels Bjørn-Andersen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -292,6 +303,7 @@
         "lecturers": [
             "Lars Knutsen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -319,6 +331,7 @@
         "lecturers": [
             "Poul Erik Christiansen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -346,6 +359,7 @@
         "lecturers": [
             "Leif Bloch Rasmussen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "35",
         "minimum_participants": "15",
@@ -373,6 +387,7 @@
         "lecturers": [
             "Annemette Kjærgaard"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "40",
         "minimum_participants": "15",
@@ -400,6 +415,7 @@
         "lecturers": [
             "Karen-Margrethe Österlin"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -427,6 +443,7 @@
         "lecturers": [
             "Gitte Stoltenberg"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "120",
         "minimum_participants": "0",
@@ -454,6 +471,7 @@
         "lecturers": [
             "Bo Svarre Nielsen"
         ],
+        "line_code": "",
         "line_of_studies": "Master i it softwareudvikling (profil it-ledelse) (swu_itl)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -481,6 +499,7 @@
         "lecturers": [
             "David Madie"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "40",
         "minimum_participants": "20",
@@ -509,6 +528,7 @@
             "Jan Pries-Heje",
             "Lars Andersen"
         ],
+        "line_code": "",
         "line_of_studies": "Master i it softwareudvikling (profil it-ledelse) (swu_itl)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -537,6 +557,7 @@
             "Jan Pries-Heje",
             "Jakob Bendsen"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "55",
         "minimum_participants": "0",
@@ -564,6 +585,7 @@
         "lecturers": [
             "Espen Aarseth"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -592,6 +614,7 @@
             "Jakob Raundahl",
             "Dan Witzner Hansen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -619,6 +642,7 @@
         "lecturers": [
             "Niels Jørgen Christensen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "20",
         "minimum_participants": "0",
@@ -633,6 +657,7 @@
         "lecturers": [
             "Kjeld Schmidt"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "35",
         "minimum_participants": "0",
@@ -660,6 +685,7 @@
         "lecturers": [
             "Michael Valeur"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -687,6 +713,7 @@
         "lecturers": [
             "Rasmus Knappe"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -712,6 +739,7 @@
         "expected_participants": "5",
         "language": "Engelsk",
         "lecturers": [],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "20",
         "minimum_participants": "0",
@@ -739,6 +767,7 @@
         "lecturers": [
             "Søren Lauesen"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -766,6 +795,7 @@
         "lecturers": [
             "Bo Holst-Christensen"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -793,6 +823,7 @@
         "lecturers": [
             "Tina Lynn Taylor"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -820,6 +851,7 @@
         "lecturers": [
             "Cynthia Haynes"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -847,6 +879,7 @@
         "lecturers": [
             "Ken Friis Larsen"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "120",
         "minimum_participants": "0",
@@ -876,6 +909,7 @@
             "Tarik Hadzic",
             "Peter Tiedemann"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -903,6 +937,7 @@
         "lecturers": [
             "Lene Pries-Heje"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "35",
         "minimum_participants": "0",
@@ -932,6 +967,7 @@
             "Jesper Juul",
             "Ole Fogh Olsen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -959,6 +995,7 @@
         "lecturers": [
             "Morten Hertzum"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -984,6 +1021,7 @@
         "expected_participants": "10",
         "language": "Engelsk",
         "lecturers": [],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -1006,6 +1044,7 @@
             "Marleen de Bruijne",
             "Jenny Maria Folkesson"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -1034,6 +1073,7 @@
             "Dixi Louise Strand",
             "Nis Johannsen"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "130",
         "minimum_participants": "0",
@@ -1061,6 +1101,7 @@
         "lecturers": [
             "Lars Bogetoft"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -1089,6 +1130,7 @@
             "Henning Niss",
             "Troels Christoffer Damgaard"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -1116,6 +1158,7 @@
         "lecturers": [
             "Kjeld Schmidt"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1144,6 +1187,7 @@
             "Anna Östlin Pagh",
             "Andrzej Wasowski"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "140",
         "minimum_participants": "0",
@@ -1171,6 +1215,7 @@
         "lecturers": [
             "Rasmus Pagh"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "120",
         "minimum_participants": "0",
@@ -1198,6 +1243,7 @@
         "lecturers": [
             "Jesper Juul"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -1225,6 +1271,7 @@
         "lecturers": [
             "Morten Rhiger"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -1240,6 +1287,7 @@
             "Jens Christian Godskesen",
             "Nina Bohr"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "200",
         "minimum_participants": "0",
@@ -1267,6 +1315,7 @@
         "lecturers": [
             "Martin Lillholm"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -1294,6 +1343,7 @@
         "lecturers": [
             "Christian Stahl"
         ],
+        "line_code": "",
         "line_of_studies": "Master i it softwareudvikling (profil it-ledelse) (swu_itl)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -1321,6 +1371,7 @@
         "lecturers": [
             "Jan Pries-Heje"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "28",
         "minimum_participants": "0",
@@ -1335,6 +1386,7 @@
         "lecturers": [
             "Claus Seeberg Friis"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -1362,6 +1414,7 @@
         "lecturers": [
             "Bent Faurskov"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -1387,6 +1440,7 @@
         "expected_participants": "3",
         "language": "Dansk",
         "lecturers": [],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "3",
         "minimum_participants": "0",
@@ -1408,6 +1462,7 @@
         "lecturers": [
             "John Gallagher"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -1436,6 +1491,7 @@
             "Claus Witfelt",
             "Steffen Lofvall"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -1463,6 +1519,7 @@
         "lecturers": [
             "Charlie Breindahl"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -1490,6 +1547,7 @@
         "lecturers": [
             "Rasmus Larsen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "20",
         "minimum_participants": "0",
@@ -1505,6 +1563,7 @@
             "John Aasted Sørensen",
             "Jianjun Chen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1533,6 +1592,7 @@
             "Søren Debois",
             "Kåre Jelling Kristoffersen"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "200",
         "minimum_participants": "0",
@@ -1560,6 +1620,7 @@
         "lecturers": [
             "Kevin Cook McLean"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -1588,6 +1649,7 @@
             "Sune Høgild Keller",
             "Francois Bernard Lauze"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1615,6 +1677,7 @@
         "lecturers": [
             "Kjeld Schmidt"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "120",
         "minimum_participants": "0",
@@ -1642,6 +1705,7 @@
         "lecturers": [
             "Keld Helsgaun"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -1669,6 +1733,7 @@
         "lecturers": [
             "Eva Trosborg"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -1697,6 +1762,7 @@
             "Kasper Østerbye",
             "Carsten Schürmann"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "100",
         "minimum_participants": "0",
@@ -1725,6 +1791,7 @@
             "Christina Tvarnø",
             "Kim Frost"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "50",
         "minimum_participants": "15",
@@ -1754,6 +1821,7 @@
             "Søren Sandfeld Jakobsen",
             "Christina Tvarnø"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -1777,6 +1845,7 @@
             "Søren Sandfeld Jakobsen",
             "Christina Tvarnø"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -1807,6 +1876,7 @@
             "Signe Ellegård Borch",
             "Yvonne Dittrich"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1834,6 +1904,7 @@
         "lecturers": [
             "Espen Aarseth"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -1849,6 +1920,7 @@
             "Dan Witzner Hansen",
             "Marleen de Bruijne"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -1863,6 +1935,7 @@
         "lecturers": [
             "Jun Yoneyama"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "20",
         "minimum_participants": "0",
@@ -1877,6 +1950,7 @@
         "lecturers": [
             "Tina Lynn Taylor"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "12",
         "minimum_participants": "0",
@@ -1898,6 +1972,7 @@
         "lecturers": [
             "Kjeld Schmidt"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1920,6 +1995,7 @@
             "Anker Helms Jørgensen",
             "Lisbeth Klastrup"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "25",
         "minimum_participants": "0",
@@ -1934,6 +2010,7 @@
         "lecturers": [
             "John Aasted Sørensen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -1955,6 +2032,7 @@
         "lecturers": [
             "Kåre Jelling Kristoffersen"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "200",
         "minimum_participants": "0",
@@ -1976,6 +2054,7 @@
         "lecturers": [
             "Carsten Butz"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -1990,6 +2069,7 @@
         "lecturers": [
             "John Aasted Sørensen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -2011,6 +2091,7 @@
         "lecturers": [
             "Jan Pries-Heje"
         ],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -2025,6 +2106,7 @@
         "lecturers": [
             "Peter Looms"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "60",
         "minimum_participants": "0",
@@ -2052,6 +2134,7 @@
         "lecturers": [
             "Mark Rudolph"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -2079,6 +2162,7 @@
         "lecturers": [
             "Henriette Moos"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "24",
         "minimum_participants": "0",
@@ -2106,6 +2190,7 @@
         "lecturers": [
             "John Aasted Sørensen"
         ],
+        "line_code": "KMTG",
         "line_of_studies": "cand.it. medieteknologi og spil (mtg)",
         "maximum_participants": "50",
         "minimum_participants": "0",
@@ -2131,6 +2216,7 @@
         "expected_participants": "10",
         "language": "Dansk",
         "lecturers": [],
+        "line_code": "KSWU",
         "line_of_studies": "cand.it. softwareudvikling (swu)",
         "maximum_participants": "30",
         "minimum_participants": "0",
@@ -2152,6 +2238,7 @@
         "lecturers": [
             "Damien Bright"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "45",
         "minimum_participants": "15",
@@ -2180,6 +2267,7 @@
             "Rikke Ørngreen",
             "Lene Nielsen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -2207,6 +2295,7 @@
         "lecturers": [
             "Freddie Drewsen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "35",
         "minimum_participants": "15",
@@ -2234,6 +2323,7 @@
         "lecturers": [
             "John Gøtze"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "30",
         "minimum_participants": "15",
@@ -2261,6 +2351,7 @@
         "lecturers": [
             "Peter Villadsen"
         ],
+        "line_code": "KEBUSS",
         "line_of_studies": "cand.it. e-business (ebuss)",
         "maximum_participants": "35",
         "minimum_participants": "15",
@@ -2288,6 +2379,7 @@
         "lecturers": [
             "Pernille Karen Rosengaard Eisenhardt"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -2316,6 +2408,7 @@
             "Niels Henry Jørgensen",
             "Peter Danholt"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -2343,6 +2436,7 @@
         "lecturers": [
             "Jørgen Villadsen"
         ],
+        "line_code": "KTIT",
         "line_of_studies": "cand.it. tværfaglig it-udvikling (tit)",
         "maximum_participants": "200",
         "minimum_participants": "10",
@@ -2370,6 +2464,7 @@
         "lecturers": [
             "Martin Elsman"
         ],
+        "line_code": "KINT",
         "line_of_studies": "cand.it. internet- og softwareteknologi (int)",
         "maximum_participants": "40",
         "minimum_participants": "0",
@@ -2397,6 +2492,7 @@
         "lecturers": [
             "John Paulin Hansen"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "80",
         "minimum_participants": "0",
@@ -2424,6 +2520,7 @@
         "lecturers": [
             "Finn Gustafsson"
         ],
+        "line_code": "KDKM",
         "line_of_studies": "cand.it. design kommunikation og medier (dkm)",
         "maximum_participants": "200",
         "minimum_participants": "0",
