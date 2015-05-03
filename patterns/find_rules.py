@@ -107,7 +107,7 @@ itemsets = [
     for row in dataset
 ]
 
-apriori = Apriori(itemsets, 0.01, 0.75)
+apriori = Apriori(itemsets, 0.02, 0.60)
 print("dataset size = " + str(len(apriori.dataset)))
 
 print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_count))
@@ -120,15 +120,22 @@ print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_coun
 #     print("     lift --> "+str(apriori.lift((a,b))))
 
 
-print("\nquality courses")
-for a, b in apriori.association_rules:
-    if 'overall:good' in b and len(b) == 1:
-        print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
-        print("     lift --> "+str(apriori.lift((a,b))))
+# print("\nquality courses")
+# for a, b in apriori.association_rules:
+#     if 'overall:good' in b and len(b) == 1:
+#         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+#         print("     lift --> "+str(apriori.lift((a,b))))
+#
+# print("\nshit courses")
+# for a, b in apriori.association_rules:
+#     if 'overall:bad' in b and len(b) == 1:
+#         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+#         print("     lift --> "+str(apriori.lift((a,b))))
 
-print("\nshit courses")
+
+print("\nfew variables")
 for a, b in apriori.association_rules:
-    if 'overall:bad' in b and len(b) == 1:
+    if ('overall:bad' in b or 'overall:good' in b) and len(b) == 1 and len(a) <= 2:
         print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
         print("     lift --> "+str(apriori.lift((a,b))))
 
