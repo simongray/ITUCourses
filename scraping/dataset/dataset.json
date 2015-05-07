@@ -1940,7 +1940,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 15,
         "job_evaluation": 5.2,
         "language": "Engelsk",
@@ -1985,7 +1985,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.91,
         "language": "Dansk",
@@ -2018,7 +2018,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 55,
         "job_evaluation": 2.16,
         "language": "Engelsk",
@@ -2051,7 +2051,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 35,
         "job_evaluation": 4.83,
         "language": "Engelsk",
@@ -2079,7 +2079,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.62,
         "language": "Engelsk",
@@ -4450,7 +4450,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 5.58,
         "language": "Dansk",
@@ -4472,7 +4472,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 4.68,
         "language": "Engelsk",
@@ -4518,7 +4518,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 76,
         "job_evaluation": 4.73,
         "language": "Dansk",
@@ -4565,7 +4565,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 40,
         "job_evaluation": 4.54,
         "language": "Engelsk",
@@ -4606,7 +4606,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.08,
         "language": "Dansk",
@@ -4639,7 +4639,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 15,
         "job_evaluation": 4.0,
         "language": "Engelsk",
@@ -4672,7 +4672,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 35,
         "job_evaluation": 4.62,
         "language": "Engelsk",
@@ -7261,7 +7261,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 3.5,
         "language": "Dansk",
@@ -7294,7 +7294,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 55,
         "job_evaluation": 3.48,
         "language": "Engelsk",
@@ -7368,7 +7368,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 35,
         "job_evaluation": 5.12,
         "language": "Engelsk",
@@ -7395,7 +7395,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 3.43,
         "language": "Engelsk",
@@ -7417,7 +7417,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 0,
         "job_evaluation": 5.0,
         "language": "Dansk",
@@ -10416,7 +10416,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 5.0,
         "language": "Dansk",
@@ -10436,7 +10436,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 70,
         "job_evaluation": 5.43,
         "language": "Engelsk",
@@ -10469,7 +10469,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.67,
         "language": "Engelsk",
@@ -10537,7 +10537,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 4.65,
         "language": "Engelsk",
@@ -10584,7 +10584,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.0,
         "language": "Dansk",
@@ -10611,7 +10611,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 35,
         "job_evaluation": 5.0,
         "language": "Engelsk",
@@ -13466,7 +13466,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 4.43,
         "language": "Dansk",
@@ -16607,7 +16607,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 5.25,
         "language": "Dansk",
@@ -16640,7 +16640,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 70,
         "job_evaluation": 5.67,
         "language": "Engelsk",
@@ -16660,7 +16660,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 20,
         "job_evaluation": 3.83,
         "language": "Dansk",
@@ -16693,7 +16693,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 0,
         "job_evaluation": 6.0,
         "language": "Dansk",
@@ -26412,7 +26412,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 25,
         "job_evaluation": 6.0,
         "language": "Dansk",
@@ -26471,7 +26471,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 10,
         "job_evaluation": 4.15,
         "language": "Dansk",
@@ -26498,7 +26498,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 5,
         "job_evaluation": 5.0,
         "language": "Dansk",
@@ -26518,7 +26518,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 0,
         "job_evaluation": 4.0,
         "language": "Engelsk",
@@ -26536,7 +26536,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 0,
         "job_evaluation": 5.0,
         "language": "Engelsk",
@@ -26587,7 +26587,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 8,
         "job_evaluation": 5.08,
         "language": "Engelsk",
@@ -29012,7 +29012,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 32,
         "job_evaluation": 6.0,
         "language": "Engelsk",
@@ -29060,7 +29060,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 8,
         "job_evaluation": 5.27,
         "language": "Engelsk",
@@ -31542,7 +31542,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 60,
         "job_evaluation": 5.22,
         "language": "Engelsk",
@@ -31641,7 +31641,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 10,
         "job_evaluation": 3.87,
         "language": "Dansk",
@@ -31674,7 +31674,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 5,
         "job_evaluation": 4.25,
         "language": "Dansk",
@@ -31694,7 +31694,7 @@
         "time_slots": []
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 35,
         "job_evaluation": 5.07,
         "language": "Engelsk",
@@ -31721,7 +31721,7 @@
         ]
     },
     {
-        "ects_points": 0,
+        "ects_points": 750,
         "expected_participants": 2,
         "job_evaluation": 5.0,
         "language": "Dansk",
