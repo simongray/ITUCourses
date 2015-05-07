@@ -2,7 +2,6 @@ from collections import defaultdict
 from shared.utils import powerset
 from itertools import combinations
 import logging
-import sys
 
 logger = logging.getLogger('apriori')
 
