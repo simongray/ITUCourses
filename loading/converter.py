@@ -36,6 +36,16 @@ def convert_language(lang):
     return 0 if lang == 'Dansk' else 1
 
 
+def convert_ects(ects):
+    if ects == 1500:
+        return 0
+    else:
+        return 1
+
+def normalise(entry, max, min):
+    return (entry - min)/(max - min)
+
+
 def java_string_hashcode(s):
     h = 0
     for c in s:
