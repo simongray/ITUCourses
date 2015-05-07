@@ -1,6 +1,11 @@
 from collections import defaultdict
 from shared.utils import powerset
 from itertools import combinations
+import logging
+import sys
+
+logger = logging.getLogger('apriori')
+
 
 class Apriori:
     """
@@ -26,6 +31,7 @@ class Apriori:
         """
         Step one in apriori algorithm - create a set of candidate 1-itemsets and prune in one go.
         """
+
         candidate_items = defaultdict(int)
 
         for itemset in self.dataset:
@@ -141,20 +147,6 @@ class Apriori:
 
         return True
 
-    def get_frequent_patterns(self) -> set:
-        """
-        Get all frequent patterns/itemsets.
-        """
-        frequent_patterns = set()
-        current_level = self._first_level()
-
-        while current_level:
-            current_level = self.join(current_level)
-            current_level = self._prune(current_level)
-            frequent_patterns = frequent_patterns.union(current_level)
-
-        return frequent_patterns
-
     def get_association_rules(self, itemset: set) -> set:
         """
         Generate association rules for a single frequent pattern/itemset.
@@ -214,18 +206,29 @@ class Apriori:
         Frequent patterns as defined by support.
         """
         if not self._frequent_patterns:
-            self._frequent_patterns = self.get_frequent_patterns()
+            logger.info('calculating frequent patterns')
+            frequent_patterns = set()
+            current_level = self._first_level()
+
+            while current_level:
+                current_level = self.join(current_level)
+                current_level = self._prune(current_level)
+                frequent_patterns = frequent_patterns.union(current_level)
+
+            self._frequent_patterns = frequent_patterns
+            logger.info('finished calculating frequent patterns')
 
         # limit to only closed patterns to reduce noise
-        if self.only_closed:
-            closed_patterns = []
+            if self.only_closed:
+                logger.info('reducing to only closed frequent patterns')
+                closed_patterns = []
 
-            for pattern in self._frequent_patterns:
-                if self._closed(pattern):
-                    closed_patterns.append(pattern)
+                for pattern in self._frequent_patterns:
+                    if self._closed(pattern):
+                        closed_patterns.append(pattern)
 
-            self._frequent_patterns = closed_patterns
-
+                self._frequent_patterns = closed_patterns
+                logger.info('finished reducing to only closed frequent patterns')
 
         return self._frequent_patterns
 
@@ -235,11 +238,15 @@ class Apriori:
         Association rules from frequent patterns as defined by confidence.
         """
         if not self._association_rules:
+            logger.info('calculating association rules')
+
             self._association_rules = {
                 rule
                 for itemset in self.frequent_patterns
                 for rule in self.get_association_rules(itemset)
             }
+
+            logger.info('finished calculating association rules')
 
         return self._association_rules
 
@@ -249,11 +256,15 @@ class Apriori:
         Interesting rules from association rules as defined by Lift.
         """
         if not self._interesting_rules:
+            logger.info('calculating interesting rules')
+
             self._interesting_rules = {
                 rule
                 for rule in self.association_rules
                 if self.lift(rule) > 1
             }
+
+            logger.info('finished calculating interesting rules')
 
         # TODO: use Kulczynski + Imbalance ratio as alternate measure as recommended in book on pp. 267-271.
         return self._interesting_rules
