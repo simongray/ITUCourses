@@ -179,9 +179,9 @@ class Apriori:
         """
         Return the Lift correlation measure of some association rule, e.g.
 
-        P(A -> B) =      P(A union B)
-                        -------------
-                           P(A)P(B)
+                         P(A union B)
+        P(A -> B)   =   -------------
+                          P(A)*P(B)
 
         Exactly 1 implies independence, below 1 implies negative correlation and above 1 positive.
         """
