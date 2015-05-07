@@ -15,23 +15,21 @@ def load_courses():
     return courses
 
 
-def all_evaluation_data():
+def numerical_evaluation_data():
     courses = load_courses()
     as_numpy = []
     target_data = []
 
     for course in courses:
         nd_array = numpy.array([
-            converter.java_string_hashcode(course["name"]),
-            course["ects_points"],
-            course["expected_participants"],
+            # converter.java_string_hashcode(course["name"]),
+            # converter.convert_ects(course["ects_points"]),
+            # course["expected_participants"],
             course["job_evaluation"],
-            converter.convert_language(course["language"]),
-            converter.convert_line_of_studies(course["line_of_studies"]),
-            course["maximum_participants"],
-            course["minimum_participants"],
+            # converter.convert_language(course["language"]),
+            # converter.convert_line_of_studies(course["line_of_studies"]),
             course["replies"],
-            converter.convert_semester(course["semester"]),
+            # converter.convert_semester(course["semester"]),
             course["time_evaluation"],
         ])
 
@@ -51,25 +49,63 @@ def all_evaluation_data():
     return numpy.array(as_numpy), numpy.array(target_data)
 
 
-def get_labels():
-    course = load_courses()
+def normalised_evaluation_data():
+    courses, y = numerical_evaluation_data()
 
+    # Participants
+    # participants = [courses[i][0] for i in range(0, len(courses))]
+    # max_participants = max(participants)
+    # min_participants = min(participants)
+
+    # Job evaluation
+    job_evaluations = [courses[i][0] for i in range(0, len(courses))]
+    max_evaluation = max(job_evaluations)
+    min_evaluation = min(job_evaluations)
+
+    # Line of studies
+    # lines = [courses[i][4] for i in range(0, len(courses))]
+    # max_line = max(lines)
+    # min_line = min(lines)
+
+    # Replies
+    replies = [courses[i][1] for i in range(0, len(courses))]
+    max_replies = max(replies)
+    min_replies = min(replies)
+
+    # Time evaluations
+    time_evaluations = [courses[i][2] for i in range(0, len(courses))]
+    max_time_eval = max(time_evaluations)
+    min_time_eval = min(time_evaluations)
+
+    normalised = []
+    for course in courses:
+        # course[0] = converter.normalise(course[1], max_participants, min_participants)
+        course[0] = converter.normalise(course[0], max_evaluation, min_evaluation)
+        # course[4] = converter.normalise(course[4], max_line, min_line)
+        course[1] = converter.normalise(course[1], max_replies, min_replies)
+        course[2] = converter.normalise(course[2], max_time_eval, min_time_eval)
+        normalised.append(course)
+
+    return normalised
+
+
+def get_labels():
     return ["ects_points", "expected_participants", "job_evaluation", "language", "line_of_studies",
             "maximum_participants", "minimum_participants", "replies", "semester", "time_evaluation",
             "overall_evaluation"]
 
 
 def training_data():
-    x, y = all_evaluation_data()
+    x, y = numerical_evaluation_data()
 
     return x[:-100]
 
 
 def test_data():
-    x, y = all_evaluation_data()
+    x, y = numerical_evaluation_data()
 
     return x[-100:]
 
 
 if __name__ == '__main__':
-    lol = test_data()
+    normalised_evaluation_data()
