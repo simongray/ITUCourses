@@ -55,3 +55,19 @@ def java_string_hashcode(s):
 
 if __name__ == '__main__':
     print()
+
+
+def convert_time_slots(time_slots):
+    if len(time_slots) == 0:
+        return -1
+
+    for slot in time_slots:
+        time = slot["time_slot"][0:3]
+        s = int(time.replace('.', ''))
+
+        if s < 9:
+            return 0
+        elif s > 17:
+            return 2
+        else:
+            return 1

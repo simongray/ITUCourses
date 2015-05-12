@@ -9,9 +9,9 @@ from loading import loader
 import matplotlib.pyplot as plot
 
 
-data = loader.normalised_evaluation_data()
+data, target = loader.numerical_evaluation_data()
 
-k_means = KMeans(n_clusters=3)
+k_means = KMeans(n_clusters=8)
 k_means.fit(data)
 
 centers = k_means.cluster_centers_
