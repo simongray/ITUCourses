@@ -15,24 +15,38 @@ def load_courses():
     return courses
 
 
-def numerical_evaluation_data():
+def numerical_evaluation_data(eval_data):
     courses = load_courses()
     as_numpy = []
     target_data = []
 
     for course in courses:
-        nd_array = numpy.array([
-            # converter.java_string_hashcode(course["name"]),
-            converter.convert_ects(course["ects_points"]),
-            course["expected_participants"],
-            course["maximum_participants"],
-            course["minimum_participants"],
-            converter.convert_time_slots(course["time_slots"]),
-            converter.convert_language(course["language"]),
-            converter.convert_line_of_studies(course["line_of_studies"]),
-            converter.convert_semester(course["semester"]),
-            course["time_evaluation"],
-        ])
+        if eval_data:
+            nd_array = numpy.array([
+                course["overall_evaluation"],
+                # converter.java_string_hashcode(course["name"]),
+                converter.convert_ects(course["ects_points"]),
+                course["expected_participants"],
+                # course["maximum_participants"],
+                course["minimum_participants"],
+                converter.convert_time_slots(course["time_slots"]),
+                converter.convert_language(course["language"]),
+                converter.convert_line_of_studies(course["line_of_studies"]),
+                converter.convert_semester(course["semester"]),
+            ])
+
+        else:
+            nd_array = numpy.array([
+                # converter.java_string_hashcode(course["name"]),
+                converter.convert_ects(course["ects_points"]),
+                course["expected_participants"],
+                # course["maximum_participants"],
+                course["minimum_participants"],
+                converter.convert_time_slots(course["time_slots"]),
+                converter.convert_language(course["language"]),
+                converter.convert_line_of_studies(course["line_of_studies"]),
+                converter.convert_semester(course["semester"]),
+            ])
 
         as_numpy.append(nd_array)
 
@@ -109,4 +123,4 @@ def test_data():
 
 
 if __name__ == '__main__':
-    normalised_evaluation_data()
+    numerical_evaluation_data(eval_data=False)

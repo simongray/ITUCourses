@@ -59,15 +59,18 @@ if __name__ == '__main__':
 
 def convert_time_slots(time_slots):
     if len(time_slots) == 0:
-        return -1
+        return 0
 
+    s = 0.0
     for slot in time_slots:
         time = slot["time_slot"][0:3]
-        s = int(time.replace('.', ''))
+        s += float(time.replace('.', ''))
 
-        if s < 9:
-            return 0
-        elif s > 17:
-            return 2
-        else:
-            return 1
+    avg = s/len(time_slots)
+
+    if avg < 10:
+        return 0
+    elif avg > 16:
+        return 2
+    else:
+        return 1
