@@ -1,6 +1,10 @@
 from patterns.apriori import Apriori
 import json
 import numpy as np
+import logging
+
+logging.basicConfig(level=logging.INFO)
+
 
 with open('../scraping/dataset/dataset.json', 'r') as dataset_file:
     dataset = json.load(dataset_file)
@@ -59,6 +63,7 @@ def evaluation_label(evaluation, low, high, high_is_good=True):
         else:
             return 'meh'
 
+
 def timeslot_label(timeslot):
     """
     Reduce timeslots to one of three labels (early, mid, late).
@@ -99,7 +104,7 @@ itemsets = [
         'semester:' + row['semester'][0:-5],
         'language:' + row['language'],
         'programme:' + row['programme'],
-        #'ects:' + str(row['ects_points']),
+        'ects:' + str(row['ects_points']),
         'participants:' + ('low' if row['expected_participants'] < participants_median else 'high')#,
         # 'max:' + ('low' if row['maximum_participants'] < max_participants_median else 'high')
 
@@ -107,7 +112,7 @@ itemsets = [
     for row in dataset
 ]
 
-apriori = Apriori(itemsets, 0.02, 0.60, closed_patterns=True)
+apriori = Apriori(itemsets, 0.01, 0.60, closed_patterns=True)
 print("dataset size = " + str(len(apriori.dataset)))
 
 print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_count))
@@ -133,12 +138,16 @@ print("\nfrequent patterns, min_support_count = " + str(apriori.min_support_coun
 #         print("     lift --> "+str(apriori.lift((a,b))))
 # #
 
-print("\nfew variables")
-for a, b in apriori.association_rules:
-    if 'overall:good' in b and len(b) == 1 and len(a) <= 2:
-        print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+with open('good_rules.json', 'w') as rules_file:
+    for a, b in apriori.interesting_rules:
+        if 'overall:good' in b and len(b) == 1 and len(a) <= 2:
+            rules_file.write("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}\n")
 
-for a, b in apriori.association_rules:
-    if 'overall:bad' in b and len(b) == 1 and len(a) <= 2:
-        print("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}")
+with open('bad_rules.json', 'w') as rules_file:
+    for a, b in apriori.interesting_rules:
+        if 'overall:bad' in b and len(b) == 1 and len(a) <= 2:
+            rules_file.write("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}\n")
 
+# with open('rules.json', 'w') as rules_file:
+#     for a, b in apriori.interesting_rules:
+#         rules_file.write("{" + ", ".join(sorted(str(item) for item in a)) + "} => {" + ", ".join(sorted(str(item) for item in b)) + "}\n")
