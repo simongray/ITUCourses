@@ -23,13 +23,14 @@ def numerical_evaluation_data():
     for course in courses:
         nd_array = numpy.array([
             # converter.java_string_hashcode(course["name"]),
-            # converter.convert_ects(course["ects_points"]),
-            # course["expected_participants"],
-            course["job_evaluation"],
-            # converter.convert_language(course["language"]),
-            # converter.convert_line_of_studies(course["line_of_studies"]),
-            course["replies"],
-            # converter.convert_semester(course["semester"]),
+            converter.convert_ects(course["ects_points"]),
+            course["expected_participants"],
+            course["maximum_participants"],
+            course["minimum_participants"],
+            converter.convert_time_slots(course["time_slots"]),
+            converter.convert_language(course["language"]),
+            converter.convert_line_of_studies(course["line_of_studies"]),
+            converter.convert_semester(course["semester"]),
             course["time_evaluation"],
         ])
 
