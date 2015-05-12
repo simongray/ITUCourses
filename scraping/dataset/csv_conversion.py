@@ -10,6 +10,9 @@ with open('dataset.csv', 'w') as output_file:
 
     for row in dataset:
         # to allow lexical sorting
-        row['semester'] = row['semester'].replace('Forår ', 'a')
-        row['semester'] = row['semester'].replace('Efterår ', 'b')
+        if 'Forår' in row['semester']:
+            row['semester'] = row['semester'].replace('Forår ', '') + 'a'
+        if 'Efterår' in row['semester']:
+            row['semester'] = row['semester'].replace('Efterår ', '') + 'b'
+
         dict_writer.writerow(row)
