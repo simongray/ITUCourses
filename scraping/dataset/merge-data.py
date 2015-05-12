@@ -28,6 +28,11 @@ for n, item in enumerate(dataset):
     item['ects_points'] = int(item['ects_points'])
     dataset[n] = item
 
+# remove duplicates from dataset
+dataset = [json.dumps(item) for item in dataset]
+dataset = list(set(dataset))
+dataset = [json.loads(item) for item in dataset]
+
 with open('dataset.json', 'w') as dataset_file:
     dataset_file.write(json.dumps(dataset, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
