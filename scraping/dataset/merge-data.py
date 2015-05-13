@@ -26,6 +26,10 @@ for n, item in enumerate(dataset):
     item['maximum_participants'] = int(item['maximum_participants'])
     item['expected_participants'] = int(item['expected_participants'])
     item['ects_points'] = int(item['ects_points'])
+
+    if item['ects_points'] == 0:
+        item['ects_points'] = 750
+
     dataset[n] = item
 
 # remove duplicates from dataset
