@@ -134,12 +134,12 @@ for i, subset in enumerate(subsets):
     ]
     ignored = ['overall']
 
-    for k in [3]:
+    for k in [1, 3, 5]:
         print('trying with k =', k)
         cumulative_success_rate = 0
 
-        # test each subset of features 100 times
-        for n in range(1):
+        # test each subset of features 10 times
+        for n in range(10):
             # extract the test and training sets
             shuffle(temp_dataset)
             test_set = temp_dataset[:len(dataset)//10]
