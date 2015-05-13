@@ -15,7 +15,7 @@ def load_courses():
     return courses
 
 
-def numerical_evaluation_data(eval_data):
+def numerical_course_data(eval_data):
     courses = load_courses()
     as_numpy = []
     target_data = []
@@ -64,8 +64,67 @@ def numerical_evaluation_data(eval_data):
     return numpy.array(as_numpy), numpy.array(target_data)
 
 
+def numerical_evaluation_data(eval_data):
+    courses = load_courses()
+    as_numpy = []
+
+    for course in courses:
+        if eval_data:
+            nd_array = numpy.array([
+                course["overall_evaluation"],
+                course["time_evaluation"],
+                course["job_evaluation"]
+                ])
+
+        else:
+            nd_array = numpy.array([
+                course["time_evaluation"],
+                course["job_evaluation"]
+                ])
+
+        as_numpy.append(nd_array)
+
+    return numpy.array(as_numpy)
+
+
+def evaluation_data_for_classifying():
+    courses = load_courses()
+    as_numpy = []
+    target = []
+
+    for course in courses:
+        nd_array = numpy.array([
+            # converter.java_string_hashcode(course["name"]),
+            converter.convert_ects(course["ects_points"]),
+            course["expected_participants"],
+            course["maximum_participants"],
+            course["minimum_participants"],
+            converter.convert_time_slots(course["time_slots"]),
+            converter.convert_language(course["language"]),
+            converter.convert_line_of_studies(course["line_of_studies"]),
+            converter.convert_semester(course["semester"]),
+        ])
+
+        as_numpy.append(nd_array)
+
+        # Set target for given course by its overall evaluation in three categories.
+        # if below 4.45 => low
+        # if over 5.4 => high
+        evaluation = course["overall_evaluation"]
+        if evaluation <= 4.45:
+            target.append(0)
+
+        elif evaluation > 5.4:
+            target.append(1)
+
+        else:
+            target.append(2)
+
+    return numpy.array(as_numpy), target
+
+
 def normalised_evaluation_data():
-    courses, y = numerical_evaluation_data()
+    courses, y = numerical_course_data()
 
     # Participants
     # participants = [courses[i][0] for i in range(0, len(courses))]
@@ -111,16 +170,16 @@ def get_labels():
 
 
 def training_data():
-    x, y = numerical_evaluation_data()
+    x, y = numerical_course_data()
 
     return x[:-100]
 
 
 def test_data():
-    x, y = numerical_evaluation_data()
+    x, y = numerical_course_data()
 
     return x[-100:]
 
 
 if __name__ == '__main__':
-    numerical_evaluation_data(eval_data=False)
+    numerical_course_data(eval_data=False)
