@@ -17,6 +17,8 @@
 {aud:Øvelser, time:mid} => {overall:bad}
 {aud:Øvelser} => {overall:bad}
 {ects:750, programme:KSDT} => {overall:bad}
+{lab:Øvelser, programme:KDDK} => {overall:bad}
+{lab:Øvelser, semester:Efterår} => {overall:bad}
 {language:Engelsk, lecturer:Yvonne Dittrich} => {overall:bad}
 {lecturer:Irina Shklovski, time:mid} => {overall:bad}
 {participants:high, programme:KSDT} => {overall:bad}
