@@ -1,0 +1,1533 @@
+65.73033707865168, --> {'lecturers', 'participants', 'language', 'rooms', 'programme'}, 1
+64.04494382022472, --> {'lecturers', 'ects', 'overall', 'language', 'programme'}, 5
+63.70786516853933, --> {'lecturers', 'ects', 'participants', 'overall', 'language'}, 5
+63.59550561797754, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers'}, 5
+63.48314606741573, --> {'lecturers', 'ects', 'participants', 'overall'}, 3
+63.37078651685394, --> {'times', 'lecturers', 'overall', 'rooms', 'programme'}, 1
+63.37078651685393, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+63.25842696629214, --> {'lecturers', 'participants', 'language', 'rooms', 'programme'}, 3
+63.25842696629214, --> {'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 5
+63.146067415730345, --> {'lecturers', 'ects', 'language', 'rooms', 'programme'}, 3
+63.146067415730345, --> {'ects', 'times', 'rooms', 'programme', 'language', 'semester'}, 3
+63.03370786516854, --> {'rooms', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 1
+62.92134831460674, --> {'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 5
+62.58426966292134, --> {'ects', 'rooms', 'times', 'language', 'semester', 'lecturers'}, 3
+62.58426966292134, --> {'rooms', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 5
+62.35955056179774, --> {'lecturers', 'participants', 'overall', 'rooms', 'programme'}, 5
+62.35955056179774, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 3
+62.24719101123596, --> {'lecturers', 'ects', 'overall', 'rooms'}, 3
+62.24719101123596, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers'}, 3
+62.24719101123596, --> {'ects', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 5
+62.24719101123595, --> {'lecturers', 'ects', 'overall', 'language'}, 5
+62.24719101123595, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 5
+62.24719101123595, --> {'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+62.13483146067416, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers'}, 5
+62.13483146067414, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+62.02247191011237, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 1
+62.02247191011236, --> {'lecturers', 'ects', 'language'}, 5
+62.02247191011236, --> {'language', 'lecturers', 'overall', 'times', 'programme'}, 5
+62.02247191011236, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers'}, 3
+62.02247191011235, --> {'times', 'lecturers', 'semester', 'rooms', 'programme'}, 3
+61.91011235955056, --> {'lecturers', 'ects', 'participants', 'rooms', 'programme'}, 5
+61.91011235955055, --> {'language', 'lecturers', 'semester', 'rooms', 'programme'}, 5
+61.91011235955055, --> {'times', 'lecturers', 'language', 'rooms', 'programme'}, 5
+61.91011235955055, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 5
+61.79775280898877, --> {'lecturers', 'language', 'programme'}, 3
+61.79775280898876, --> {'ects', 'rooms', 'participants', 'language', 'lecturers', 'overall'}, 3
+61.79775280898876, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+61.68539325842697, --> {'lecturers', 'ects', 'language', 'programme'}, 5
+61.68539325842697, --> {'times', 'lecturers', 'rooms', 'programme'}, 1
+61.68539325842697, --> {'times', 'lecturers', 'language', 'rooms', 'programme'}, 1
+61.68539325842697, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+61.68539325842696, --> {'language', 'lecturers', 'semester', 'rooms', 'programme'}, 1
+61.57303370786518, --> {'lecturers', 'participants', 'overall', 'rooms', 'programme'}, 1
+61.57303370786518, --> {'ects', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 3
+61.57303370786517, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 3
+61.57303370786517, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers'}, 3
+61.57303370786517, --> {'ects', 'rooms', 'participants', 'language', 'lecturers', 'overall'}, 5
+61.57303370786516, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+61.46067415730338, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 5
+61.46067415730337, --> {'lecturers', 'rooms', 'programme'}, 3
+61.46067415730337, --> {'lecturers', 'participants', 'rooms', 'programme'}, 3
+61.34831460674158, --> {'lecturers', 'ects', 'language', 'rooms'}, 3
+61.34831460674158, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+61.34831460674157, --> {'ects', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 1
+61.34831460674157, --> {'ects', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+61.235955056179785, --> {'lecturers', 'participants', 'overall'}, 5
+61.23595505617978, --> {'lecturers', 'participants', 'programme'}, 1
+61.23595505617978, --> {'lecturers', 'overall', 'language', 'programme'}, 3
+61.23595505617978, --> {'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 1
+61.23595505617978, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+61.23595505617978, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 5
+61.23595505617977, --> {'lecturers', 'participants', 'overall', 'language', 'programme'}, 5
+61.123595505617985, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+61.123595505617985, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 3
+61.123595505617985, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+61.12359550561798, --> {'lecturers', 'ects', 'semester', 'overall', 'language'}, 1
+61.12359550561798, --> {'times', 'lecturers', 'language', 'rooms', 'programme'}, 3
+61.12359550561798, --> {'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 5
+61.12359550561797, --> {'lecturers', 'ects', 'participants', 'programme'}, 5
+61.011235955056184, --> {'lecturers', 'ects', 'participants', 'language'}, 3
+61.011235955056184, --> {'lecturers', 'ects', 'participants', 'language', 'programme'}, 3
+61.011235955056184, --> {'ects', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 3
+61.011235955056184, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 3
+61.01123595505618, --> {'lecturers', 'participants', 'programme'}, 3
+61.01123595505618, --> {'lecturers', 'ects', 'participants', 'language', 'rooms'}, 5
+61.01123595505618, --> {'lecturers', 'participants', 'semester', 'overall', 'programme'}, 1
+61.01123595505618, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers'}, 5
+61.01123595505618, --> {'ects', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 1
+61.01123595505618, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 5
+61.01123595505618, --> {'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 3
+61.01123595505617, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 3
+60.89887640449438, --> {'lecturers', 'participants'}, 1
+60.89887640449438, --> {'lecturers', 'ects', 'participants'}, 3
+60.89887640449438, --> {'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 3
+60.89887640449438, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers'}, 1
+60.89887640449438, --> {'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+60.89887640449438, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+60.898876404494375, --> {'lecturers', 'language'}, 3
+60.898876404494375, --> {'lecturers', 'language', 'rooms'}, 1
+60.898876404494375, --> {'overall', 'lecturers', 'semester', 'rooms', 'programme'}, 3
+60.898876404494375, --> {'ects', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 3
+60.898876404494375, --> {'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 3
+60.78651685393259, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+60.78651685393258, --> {'lecturers', 'ects', 'rooms', 'programme'}, 1
+60.78651685393258, --> {'lecturers', 'participants', 'language', 'programme'}, 3
+60.78651685393258, --> {'lecturers', 'ects', 'participants', 'rooms', 'programme'}, 3
+60.78651685393258, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+60.786516853932575, --> {'lecturers', 'ects', 'participants', 'overall', 'programme'}, 3
+60.786516853932575, --> {'times', 'lecturers', 'participants', 'rooms', 'programme'}, 5
+60.786516853932575, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 1
+60.67415730337079, --> {'lecturers', 'overall'}, 5
+60.67415730337079, --> {'rooms', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 3
+60.67415730337079, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+60.67415730337078, --> {'lecturers', 'ects', 'language', 'rooms', 'programme'}, 1
+60.67415730337078, --> {'lecturers', 'ects', 'participants', 'times', 'programme'}, 3
+60.67415730337078, --> {'ects', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 1
+60.67415730337078, --> {'ects', 'times', 'rooms', 'programme', 'language', 'overall'}, 3
+60.67415730337078, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+60.67415730337078, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+60.674157303370775, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 5
+60.561797752809, --> {'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+60.56179775280899, --> {'lecturers', 'participants', 'overall'}, 1
+60.56179775280899, --> {'lecturers', 'ects', 'language', 'rooms', 'programme'}, 5
+60.56179775280899, --> {'lecturers', 'ects', 'language', 'times', 'programme'}, 5
+60.56179775280899, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 3
+60.56179775280899, --> {'ects', 'rooms', 'times', 'semester', 'language', 'lecturers', 'overall'}, 5
+60.56179775280898, --> {'lecturers', 'participants', 'semester', 'rooms', 'language'}, 5
+60.56179775280898, --> {'language', 'lecturers', 'overall', 'rooms', 'programme'}, 5
+60.56179775280898, --> {'lecturers', 'participants', 'overall', 'rooms', 'language'}, 5
+60.56179775280898, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers'}, 5
+60.56179775280898, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'overall'}, 5
+60.56179775280898, --> {'programme', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 1
+60.4494382022472, --> {'lecturers', 'ects', 'semester', 'rooms', 'times'}, 3
+60.4494382022472, --> {'lecturers', 'ects', 'overall', 'rooms', 'programme'}, 3
+60.44943820224719, --> {'lecturers', 'ects', 'participants'}, 5
+60.44943820224719, --> {'lecturers', 'ects', 'language'}, 3
+60.44943820224719, --> {'lecturers', 'participants', 'overall', 'programme'}, 1
+60.44943820224719, --> {'lecturers', 'ects', 'overall', 'rooms', 'programme'}, 5
+60.44943820224719, --> {'ects', 'times', 'rooms', 'programme', 'language', 'lecturers'}, 1
+60.44943820224719, --> {'ects', 'times', 'programme', 'participants', 'lecturers', 'overall'}, 3
+60.44943820224719, --> {'times', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 5
+60.44943820224719, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 1
+60.44943820224719, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+60.44943820224718, --> {'lecturers', 'participants', 'overall', 'rooms'}, 5
+60.44943820224718, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 5
+60.44943820224718, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+60.33707865168541, --> {'lecturers', 'ects', 'participants', 'overall', 'language'}, 3
+60.33707865168541, --> {'ects', 'times', 'programme', 'language', 'lecturers', 'overall'}, 3
+60.33707865168539, --> {'ects', 'rooms', 'programme'}, 3
+60.33707865168539, --> {'lecturers', 'overall', 'language'}, 3
+60.33707865168539, --> {'lecturers', 'ects', 'overall', 'programme'}, 5
+60.33707865168539, --> {'lecturers', 'participants', 'overall', 'language', 'programme'}, 3
+60.33707865168539, --> {'ects', 'times', 'language', 'semester', 'lecturers', 'overall'}, 3
+60.33707865168539, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 1
+60.33707865168538, --> {'ects', 'times', 'rooms', 'programme', 'language', 'overall'}, 5
+60.33707865168538, --> {'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+60.33707865168538, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 5
+60.22471910112361, --> {'lecturers', 'ects', 'semester', 'rooms', 'programme'}, 3
+60.2247191011236, --> {'lecturers', 'ects', 'rooms', 'programme'}, 5
+60.2247191011236, --> {'lecturers', 'ects', 'overall', 'times'}, 5
+60.2247191011236, --> {'lecturers', 'participants', 'overall', 'language'}, 3
+60.2247191011236, --> {'language', 'lecturers', 'semester', 'rooms', 'programme'}, 3
+60.2247191011236, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 5
+60.22471910112359, --> {'lecturers', 'ects', 'participants', 'rooms'}, 3
+60.22471910112359, --> {'lecturers', 'ects', 'participants', 'language'}, 5
+60.22471910112359, --> {'lecturers', 'participants', 'overall', 'times', 'language'}, 5
+60.22471910112359, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers'}, 3
+60.22471910112359, --> {'times', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 5
+60.22471910112359, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+60.22471910112358, --> {'lecturers', 'ects', 'semester', 'rooms', 'language'}, 3
+60.22471910112358, --> {'times', 'ects', 'language', 'rooms', 'programme'}, 1
+60.11235955056181, --> {'ects', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 5
+60.1123595505618, --> {'lecturers', 'ects', 'language', 'programme'}, 3
+60.1123595505618, --> {'times', 'lecturers', 'rooms', 'programme'}, 5
+60.11235955056179, --> {'lecturers', 'ects', 'language', 'rooms', 'times'}, 5
+60.11235955056179, --> {'lecturers', 'participants', 'overall', 'times', 'programme'}, 3
+60.00000000000002, --> {'overall', 'lecturers', 'semester', 'rooms', 'programme'}, 5
+60.00000000000001, --> {'lecturers', 'ects', 'semester', 'rooms', 'language'}, 5
+60.00000000000001, --> {'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 3
+60.00000000000001, --> {'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+60.00000000000001, --> {'ects', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 1
+60., --> {'lecturers', 'participants', 'overall', 'times', 'language'}, 3
+60., --> {'ects', 'times', 'rooms', 'programme', 'lecturers', 'overall'}, 5
+60., --> {'times', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 1
+60., --> {'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+59.99999999999999, --> {'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+59.99999999999998, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers'}, 1
+59.88764044943821, --> {'lecturers', 'ects', 'participants', 'overall'}, 1
+59.88764044943821, --> {'lecturers', 'overall', 'rooms', 'programme'}, 3
+59.88764044943821, --> {'lecturers', 'language', 'rooms', 'programme'}, 1
+59.88764044943821, --> {'lecturers', 'ects', 'overall', 'rooms', 'language'}, 3
+59.88764044943821, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+59.8876404494382, --> {'lecturers', 'ects', 'programme'}, 3
+59.8876404494382, --> {'lecturers', 'ects', 'participants', 'rooms'}, 5
+59.8876404494382, --> {'lecturers', 'overall', 'rooms', 'times'}, 1
+59.8876404494382, --> {'lecturers', 'participants', 'language', 'programme'}, 1
+59.8876404494382, --> {'lecturers', 'ects', 'participants', 'language', 'times'}, 5
+59.8876404494382, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 3
+59.8876404494382, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+59.88764044943819, --> {'ects', 'language', 'rooms'}, 3
+59.88764044943819, --> {'lecturers', 'semester', 'times', 'overall'}, 3
+59.88764044943819, --> {'lecturers', 'ects', 'participants', 'overall', 'programme'}, 1
+59.88764044943819, --> {'ects', 'times', 'rooms', 'programme', 'lecturers', 'overall'}, 1
+59.88764044943819, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 1
+59.77528089887642, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 1
+59.77528089887641, --> {'lecturers', 'participants', 'language'}, 1
+59.77528089887641, --> {'lecturers', 'ects', 'language', 'rooms'}, 1
+59.77528089887641, --> {'lecturers', 'overall', 'times', 'programme'}, 3
+59.77528089887641, --> {'lecturers', 'ects', 'language', 'rooms', 'times'}, 3
+59.77528089887641, --> {'language', 'lecturers', 'semester', 'rooms', 'times'}, 5
+59.77528089887641, --> {'lecturers', 'participants', 'semester', 'times', 'programme'}, 5
+59.7752808988764, --> {'lecturers', 'overall'}, 1
+59.7752808988764, --> {'lecturers', 'ects', 'participants', 'language', 'rooms'}, 1
+59.7752808988764, --> {'overall', 'lecturers', 'semester', 'times', 'programme'}, 5
+59.7752808988764, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers'}, 1
+59.7752808988764, --> {'rooms', 'times', 'participants', 'language', 'semester', 'lecturers'}, 3
+59.7752808988764, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 3
+59.66292134831462, --> {'lecturers'}, 1
+59.66292134831462, --> {'times', 'participants', 'semester', 'rooms', 'programme'}, 3
+59.66292134831461, --> {'times', 'overall', 'rooms', 'programme'}, 3
+59.66292134831461, --> {'times', 'lecturers', 'participants', 'rooms', 'programme'}, 3
+59.66292134831461, --> {'language', 'lecturers', 'overall', 'rooms', 'times'}, 5
+59.66292134831461, --> {'language', 'lecturers', 'overall', 'times', 'programme'}, 1
+59.66292134831461, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers'}, 3
+59.66292134831461, --> {'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 3
+59.66292134831461, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+59.66292134831461, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 3
+59.6629213483146, --> {'lecturers', 'semester', 'times', 'programme'}, 3
+59.6629213483146, --> {'times', 'lecturers', 'ects', 'rooms', 'programme'}, 3
+59.6629213483146, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers'}, 1
+59.6629213483146, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 3
+59.55056179775282, --> {'lecturers', 'overall', 'rooms', 'programme'}, 5
+59.55056179775282, --> {'lecturers', 'participants', 'semester', 'overall', 'language'}, 3
+59.55056179775282, --> {'ects', 'times', 'participants', 'language', 'lecturers', 'overall'}, 5
+59.55056179775281, --> {'lecturers', 'participants', 'language', 'rooms'}, 5
+59.55056179775281, --> {'times', 'lecturers', 'overall', 'rooms', 'programme'}, 3
+59.55056179775281, --> {'ects', 'times', 'language', 'semester', 'lecturers', 'overall'}, 5
+59.55056179775281, --> {'times', 'rooms', 'programme', 'participants', 'language', 'semester'}, 5
+59.55056179775281, --> {'ects', 'rooms', 'times', 'semester', 'language', 'lecturers', 'overall'}, 3
+59.55056179775281, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 1
+59.55056179775281, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+59.5505617977528, --> {'lecturers', 'ects', 'overall', 'times'}, 1
+59.5505617977528, --> {'lecturers', 'ects', 'participants', 'language', 'programme'}, 5
+59.5505617977528, --> {'lecturers', 'participants', 'semester', 'times', 'language'}, 5
+59.5505617977528, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+59.5505617977528, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+59.438202247191025, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 1
+59.43820224719102, --> {'times', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 3
+59.43820224719102, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language'}, 1
+59.43820224719102, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+59.43820224719102, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+59.43820224719101, --> {'lecturers', 'ects'}, 3
+59.43820224719101, --> {'lecturers', 'ects', 'rooms', 'programme'}, 3
+59.43820224719101, --> {'lecturers', 'participants', 'times', 'programme'}, 3
+59.43820224719101, --> {'overall', 'language', 'semester', 'rooms', 'times'}, 3
+59.43820224719101, --> {'times', 'language', 'overall', 'rooms', 'programme'}, 3
+59.43820224719101, --> {'lecturers', 'participants', 'language', 'rooms', 'times'}, 1
+59.43820224719101, --> {'ects', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 5
+59.43820224719101, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 1
+59.43820224719101, --> {'ects', 'times', 'programme', 'language', 'semester', 'lecturers'}, 3
+59.43820224719101, --> {'times', 'rooms', 'programme', 'language', 'semester', 'overall'}, 3
+59.43820224719101, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+59.32584269662922, --> {'lecturers', 'overall'}, 3
+59.32584269662922, --> {'lecturers', 'ects', 'programme'}, 1
+59.32584269662922, --> {'lecturers', 'overall', 'times'}, 3
+59.32584269662922, --> {'lecturers', 'ects', 'times', 'programme'}, 3
+59.32584269662922, --> {'lecturers', 'ects', 'participants', 'overall'}, 5
+59.32584269662922, --> {'lecturers', 'ects', 'participants', 'times', 'programme'}, 1
+59.32584269662922, --> {'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 5
+59.32584269662922, --> {'times', 'rooms', 'programme', 'participants', 'language', 'semester'}, 3
+59.32584269662921, --> {'lecturers', 'ects', 'participants', 'overall', 'language'}, 1
+59.32584269662921, --> {'ects', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 3
+59.32584269662921, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 3
+59.32584269662921, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 5
+59.3258426966292, --> {'ects', 'semester', 'rooms', 'programme'}, 3
+59.213483146067425, --> {'lecturers', 'language', 'times', 'programme'}, 1
+59.213483146067425, --> {'lecturers', 'participants', 'overall', 'programme'}, 3
+59.213483146067425, --> {'ects', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+59.21348314606742, --> {'language', 'rooms', 'times'}, 5
+59.21348314606742, --> {'lecturers', 'participants', 'times', 'programme'}, 5
+59.21348314606742, --> {'overall', 'lecturers', 'semester', 'rooms', 'programme'}, 1
+59.21348314606742, --> {'times', 'lecturers', 'participants', 'rooms', 'programme'}, 1
+59.21348314606742, --> {'lecturers', 'participants', 'overall', 'rooms', 'times'}, 5
+59.21348314606742, --> {'ects', 'rooms', 'language', 'semester', 'lecturers', 'overall'}, 3
+59.21348314606742, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 1
+59.21348314606742, --> {'times', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 5
+59.21348314606742, --> {'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+59.21348314606742, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language'}, 5
+59.21348314606742, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'overall'}, 5
+59.21348314606742, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+59.21348314606741, --> {'lecturers', 'ects', 'language', 'times'}, 1
+59.21348314606741, --> {'lecturers', 'participants', 'rooms', 'programme'}, 1
+59.21348314606741, --> {'lecturers', 'ects', 'semester', 'rooms', 'language'}, 1
+59.21348314606741, --> {'lecturers', 'ects', 'overall', 'times', 'programme'}, 1
+59.21348314606741, --> {'lecturers', 'participants', 'semester', 'overall', 'language'}, 1
+59.21348314606741, --> {'rooms', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 3
+59.101123595505625, --> {'lecturers', 'ects', 'times', 'programme'}, 1
+59.101123595505625, --> {'lecturers', 'participants', 'semester', 'rooms', 'programme'}, 3
+59.10112359550562, --> {'lecturers', 'overall', 'programme'}, 5
+59.10112359550562, --> {'lecturers', 'ects', 'semester', 'language'}, 3
+59.10112359550562, --> {'lecturers', 'ects', 'language', 'rooms'}, 5
+59.10112359550562, --> {'lecturers', 'overall', 'times', 'programme'}, 1
+59.10112359550562, --> {'lecturers', 'ects', 'participants', 'semester', 'rooms'}, 5
+59.10112359550562, --> {'lecturers', 'ects', 'participants', 'times', 'programme'}, 5
+59.10112359550562, --> {'lecturers', 'ects', 'overall', 'times', 'language'}, 3
+59.10112359550562, --> {'language', 'participants', 'overall', 'rooms', 'times'}, 1
+59.10112359550562, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 5
+59.10112359550562, --> {'times', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 1
+59.10112359550562, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 3
+59.10112359550562, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+59.10112359550561, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+58.98876404494382, --> {'ects', 'semester', 'rooms', 'programme'}, 1
+58.98876404494382, --> {'lecturers', 'overall', 'rooms', 'programme'}, 1
+58.98876404494382, --> {'lecturers', 'ects', 'participants', 'overall', 'rooms'}, 5
+58.98876404494382, --> {'times', 'language', 'overall', 'rooms', 'programme'}, 5
+58.98876404494382, --> {'lecturers', 'participants', 'overall', 'times', 'programme'}, 5
+58.98876404494382, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 3
+58.98876404494382, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers'}, 3
+58.98876404494382, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'overall'}, 3
+58.98876404494382, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers'}, 3
+58.98876404494382, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+58.98876404494382, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 3
+58.98876404494382, --> {'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+58.988764044943816, --> {'lecturers', 'language'}, 1
+58.988764044943816, --> {'participants', 'rooms', 'programme'}, 5
+58.988764044943816, --> {'times', 'language', 'semester', 'rooms', 'programme'}, 5
+58.988764044943816, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester'}, 3
+58.988764044943816, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester'}, 5
+58.988764044943816, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 5
+58.988764044943816, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 3
+58.988764044943816, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.988764044943816, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.98876404494381, --> {'lecturers', 'language', 'rooms'}, 3
+58.87640449438202, --> {'lecturers', 'ects', 'language'}, 1
+58.87640449438202, --> {'lecturers', 'participants', 'language'}, 5
+58.87640449438202, --> {'lecturers', 'ects', 'participants', 'language'}, 1
+58.87640449438202, --> {'ects', 'programme', 'participants', 'language', 'semester', 'overall'}, 5
+58.87640449438202, --> {'ects', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 5
+58.87640449438202, --> {'ects', 'rooms', 'times', 'participants', 'lecturers', 'overall'}, 5
+58.87640449438202, --> {'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 5
+58.87640449438202, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 5
+58.87640449438202, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.876404494382015, --> {'lecturers', 'ects', 'participants', 'programme'}, 1
+58.876404494382015, --> {'lecturers', 'language', 'rooms', 'programme'}, 3
+58.876404494382015, --> {'lecturers', 'language', 'times', 'programme'}, 5
+58.876404494382015, --> {'overall', 'participants', 'semester', 'rooms', 'programme'}, 5
+58.876404494382015, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers'}, 5
+58.876404494382015, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'overall'}, 1
+58.76404494382023, --> {'lecturers', 'language', 'programme'}, 5
+58.76404494382023, --> {'lecturers', 'overall', 'language'}, 5
+58.76404494382022, --> {'language', 'semester', 'rooms', 'programme'}, 5
+58.76404494382022, --> {'lecturers', 'semester', 'times', 'overall'}, 1
+58.76404494382022, --> {'lecturers', 'ects', 'semester', 'rooms', 'programme'}, 5
+58.76404494382022, --> {'lecturers', 'ects', 'overall', 'rooms', 'language'}, 5
+58.76404494382022, --> {'ects', 'participants', 'overall', 'rooms', 'language'}, 5
+58.76404494382022, --> {'lecturers', 'ects', 'overall', 'times', 'programme'}, 3
+58.76404494382022, --> {'lecturers', 'ects', 'participants', 'overall', 'programme'}, 5
+58.76404494382022, --> {'lecturers', 'participants', 'language', 'rooms', 'programme'}, 5
+58.76404494382022, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language'}, 1
+58.76404494382022, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers'}, 3
+58.76404494382022, --> {'times', 'rooms', 'programme', 'participants', 'language', 'semester'}, 1
+58.76404494382022, --> {'times', 'rooms', 'programme', 'language', 'semester', 'overall'}, 5
+58.76404494382022, --> {'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+58.76404494382022, --> {'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 1
+58.76404494382022, --> {'rooms', 'times', 'participants', 'language', 'semester', 'lecturers'}, 5
+58.76404494382022, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 5
+58.76404494382022, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+58.764044943820215, --> {'lecturers', 'ects', 'semester', 'language', 'programme'}, 3
+58.76404494382021, --> {'times', 'participants', 'language', 'rooms', 'programme'}, 1
+58.65168539325843, --> {'lecturers', 'participants', 'programme'}, 5
+58.65168539325843, --> {'ects', 'participants', 'language', 'rooms', 'programme'}, 3
+58.65168539325843, --> {'ects', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 5
+58.65168539325842, --> {'language', 'overall', 'times', 'programme'}, 5
+58.65168539325842, --> {'lecturers', 'ects', 'semester', 'overall', 'programme'}, 5
+58.65168539325842, --> {'language', 'ects', 'overall', 'rooms', 'programme'}, 5
+58.65168539325842, --> {'language', 'lecturers', 'overall', 'rooms', 'programme'}, 3
+58.65168539325842, --> {'lecturers', 'participants', 'overall', 'rooms', 'language'}, 1
+58.65168539325842, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers'}, 3
+58.65168539325842, --> {'ects', 'times', 'programme', 'language', 'lecturers', 'overall'}, 5
+58.65168539325842, --> {'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+58.651685393258415, --> {'lecturers', 'participants'}, 3
+58.651685393258415, --> {'ects', 'times', 'participants', 'language', 'semester', 'overall'}, 5
+58.53932584269664, --> {'lecturers', 'ects', 'overall', 'rooms'}, 5
+58.53932584269664, --> {'language', 'ects', 'semester', 'rooms', 'times'}, 5
+58.53932584269664, --> {'overall', 'lecturers', 'semester', 'rooms', 'times'}, 3
+58.53932584269663, --> {'lecturers', 'language'}, 5
+58.53932584269663, --> {'times', 'lecturers', 'rooms', 'programme'}, 3
+58.53932584269663, --> {'lecturers', 'participants', 'language', 'times'}, 3
+58.53932584269663, --> {'lecturers', 'participants', 'language', 'times', 'programme'}, 3
+58.53932584269663, --> {'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 1
+58.53932584269663, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 1
+58.53932584269662, --> {'lecturers', 'overall', 'language'}, 1
+58.53932584269662, --> {'lecturers', 'semester', 'times', 'language'}, 5
+58.53932584269662, --> {'participants', 'language', 'rooms', 'programme'}, 3
+58.53932584269662, --> {'lecturers', 'ects', 'semester', 'rooms', 'overall'}, 5
+58.53932584269662, --> {'lecturers', 'ects', 'overall', 'rooms', 'language'}, 1
+58.53932584269662, --> {'lecturers', 'ects', 'participants', 'language', 'times'}, 1
+58.53932584269662, --> {'language', 'lecturers', 'overall', 'rooms', 'programme'}, 1
+58.53932584269662, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 1
+58.42696629213484, --> {'lecturers', 'programme'}, 5
+58.42696629213483, --> {'lecturers', 'ects', 'semester'}, 3
+58.42696629213483, --> {'lecturers', 'ects', 'rooms'}, 3
+58.42696629213483, --> {'lecturers', 'semester', 'rooms', 'language'}, 5
+58.42696629213483, --> {'lecturers', 'ects', 'participants', 'semester', 'language'}, 3
+58.42696629213483, --> {'lecturers', 'participants', 'overall', 'rooms', 'language'}, 3
+58.42696629213483, --> {'lecturers', 'participants', 'overall', 'times', 'programme'}, 1
+58.42696629213483, --> {'ects', 'rooms', 'times', 'language', 'semester', 'lecturers'}, 5
+58.42696629213483, --> {'ects', 'rooms', 'times', 'language', 'lecturers', 'overall'}, 1
+58.42696629213483, --> {'rooms', 'times', 'language', 'semester', 'lecturers', 'overall'}, 5
+58.42696629213483, --> {'times', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 3
+58.42696629213483, --> {'times', 'rooms', 'programme', 'language', 'lecturers', 'overall'}, 1
+58.42696629213483, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 1
+58.42696629213483, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+58.42696629213482, --> {'lecturers', 'semester', 'rooms'}, 5
+58.42696629213482, --> {'lecturers', 'language', 'rooms', 'programme'}, 5
+58.42696629213482, --> {'times', 'lecturers', 'ects', 'rooms', 'programme'}, 1
+58.42696629213482, --> {'language', 'lecturers', 'semester', 'rooms', 'times'}, 3
+58.42696629213482, --> {'language', 'lecturers', 'overall', 'rooms', 'times'}, 1
+58.42696629213482, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers'}, 5
+58.42696629213482, --> {'ects', 'rooms', 'times', 'participants', 'lecturers', 'overall'}, 1
+58.42696629213482, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.42696629213482, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 5
+58.42696629213481, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers'}, 5
+58.31460674157304, --> {'lecturers', 'ects', 'semester', 'language'}, 1
+58.31460674157304, --> {'lecturers', 'ects', 'rooms', 'times'}, 1
+58.31460674157304, --> {'lecturers', 'semester', 'rooms', 'language'}, 1
+58.31460674157304, --> {'lecturers', 'participants', 'semester', 'programme'}, 1
+58.31460674157304, --> {'lecturers', 'participants', 'rooms', 'times'}, 1
+58.31460674157304, --> {'lecturers', 'language', 'rooms', 'times'}, 1
+58.31460674157304, --> {'lecturers', 'participants', 'language', 'rooms'}, 3
+58.31460674157304, --> {'lecturers', 'ects', 'overall', 'times', 'language'}, 1
+58.31460674157304, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 1
+58.31460674157304, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 3
+58.31460674157303, --> {'lecturers', 'ects', 'participants', 'programme'}, 3
+58.31460674157303, --> {'language', 'semester', 'rooms', 'overall'}, 3
+58.31460674157303, --> {'lecturers', 'overall', 'rooms', 'language'}, 1
+58.31460674157303, --> {'times', 'ects', 'overall', 'rooms', 'programme'}, 3
+58.31460674157303, --> {'lecturers', 'ects', 'language', 'times', 'programme'}, 1
+58.31460674157303, --> {'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.31460674157302, --> {'lecturers', 'ects', 'participants', 'rooms'}, 1
+58.31460674157302, --> {'lecturers', 'participants', 'semester', 'language', 'programme'}, 5
+58.31460674157302, --> {'language', 'lecturers', 'overall', 'times', 'programme'}, 3
+58.31460674157302, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'overall'}, 5
+58.31460674157302, --> {'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+58.20224719101125, --> {'ects', 'times', 'participants', 'language', 'lecturers', 'overall'}, 1
+58.20224719101124, --> {'lecturers', 'ects', 'overall'}, 5
+58.20224719101124, --> {'lecturers', 'semester', 'times', 'programme'}, 5
+58.20224719101124, --> {'lecturers', 'ects', 'participants', 'language', 'rooms'}, 3
+58.20224719101124, --> {'lecturers', 'ects', 'participants', 'overall', 'times'}, 3
+58.20224719101124, --> {'overall', 'participants', 'semester', 'times', 'programme'}, 5
+58.20224719101124, --> {'lecturers', 'participants', 'semester', 'language', 'programme'}, 3
+58.20224719101124, --> {'ects', 'rooms', 'participants', 'semester', 'lecturers', 'overall'}, 5
+58.20224719101124, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers'}, 5
+58.20224719101124, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 1
+58.20224719101124, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 5
+58.20224719101123, --> {'lecturers', 'rooms', 'times'}, 3
+58.20224719101123, --> {'lecturers', 'overall', 'programme'}, 1
+58.20224719101123, --> {'lecturers', 'participants', 'semester', 'programme'}, 3
+58.20224719101123, --> {'language', 'overall', 'rooms', 'programme'}, 3
+58.20224719101123, --> {'lecturers', 'overall', 'rooms', 'language'}, 5
+58.20224719101123, --> {'lecturers', 'participants', 'overall', 'programme'}, 5
+58.20224719101123, --> {'lecturers', 'overall', 'language', 'programme'}, 1
+58.20224719101123, --> {'lecturers', 'ects', 'overall', 'language', 'programme'}, 1
+58.20224719101123, --> {'times', 'participants', 'semester', 'rooms', 'programme'}, 5
+58.20224719101123, --> {'ects', 'times', 'programme', 'language', 'semester', 'lecturers'}, 1
+58.20224719101123, --> {'ects', 'times', 'programme', 'participants', 'lecturers', 'overall'}, 1
+58.20224719101123, --> {'ects', 'times', 'programme', 'participants', 'lecturers', 'overall'}, 5
+58.20224719101123, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 1
+58.20224719101123, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+58.20224719101123, --> {'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.20224719101122, --> {'lecturers', 'semester', 'rooms', 'programme'}, 3
+58.20224719101122, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 3
+58.08988764044945, --> {'lecturers', 'ects', 'semester', 'rooms', 'times'}, 5
+58.08988764044944, --> {'times', 'ects', 'rooms', 'programme'}, 1
+58.08988764044944, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 5
+58.08988764044944, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'overall'}, 1
+58.08988764044944, --> {'ects', 'rooms', 'times', 'language', 'semester', 'lecturers'}, 1
+58.08988764044944, --> {'rooms', 'times', 'language', 'semester', 'lecturers', 'overall'}, 1
+58.08988764044944, --> {'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 5
+58.08988764044944, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+58.08988764044944, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 1
+58.08988764044943, --> {'language', 'rooms', 'programme'}, 3
+58.08988764044943, --> {'lecturers', 'ects', 'times', 'programme'}, 5
+58.08988764044943, --> {'lecturers', 'ects', 'participants', 'language', 'times'}, 3
+58.08988764044943, --> {'language', 'lecturers', 'semester', 'rooms', 'times'}, 1
+58.08988764044943, --> {'times', 'lecturers', 'overall', 'rooms', 'programme'}, 5
+58.08988764044943, --> {'lecturers', 'participants', 'overall', 'language', 'programme'}, 1
+58.08988764044943, --> {'ects', 'rooms', 'programme', 'language', 'semester', 'overall'}, 3
+58.08988764044943, --> {'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+58.08988764044943, --> {'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+58.08988764044943, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+57.97752808988765, --> {'lecturers', 'participants'}, 5
+57.97752808988765, --> {'ects', 'overall', 'rooms', 'times'}, 5
+57.97752808988765, --> {'ects', 'overall', 'rooms', 'language'}, 3
+57.97752808988765, --> {'lecturers', 'ects', 'semester', 'rooms', 'overall'}, 3
+57.97752808988765, --> {'lecturers', 'participants', 'language', 'times', 'programme'}, 5
+57.97752808988765, --> {'ects', 'times', 'programme', 'semester', 'lecturers', 'overall'}, 5
+57.97752808988764, --> {'lecturers', 'rooms', 'programme'}, 5
+57.97752808988764, --> {'lecturers', 'semester', 'overall', 'language'}, 3
+57.97752808988764, --> {'lecturers', 'participants', 'language', 'times'}, 1
+57.97752808988764, --> {'lecturers', 'ects', 'participants', 'rooms', 'programme'}, 1
+57.97752808988764, --> {'lecturers', 'ects', 'overall', 'times', 'programme'}, 5
+57.97752808988764, --> {'overall', 'participants', 'semester', 'rooms', 'programme'}, 3
+57.97752808988764, --> {'times', 'participants', 'overall', 'rooms', 'programme'}, 1
+57.97752808988764, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'semester'}, 3
+57.97752808988764, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers'}, 5
+57.97752808988764, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 1
+57.97752808988764, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 3
+57.97752808988763, --> {'lecturers', 'ects', 'overall', 'rooms', 'times'}, 5
+57.97752808988763, --> {'ects', 'rooms', 'participants', 'language', 'semester', 'overall'}, 5
+57.97752808988763, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language'}, 3
+57.86516853932585, --> {'lecturers', 'participants', 'language', 'rooms'}, 1
+57.86516853932585, --> {'lecturers', 'participants', 'times', 'programme'}, 1
+57.86516853932585, --> {'lecturers', 'ects', 'participants', 'overall', 'rooms'}, 1
+57.86516853932585, --> {'language', 'participants', 'semester', 'rooms', 'programme'}, 5
+57.86516853932585, --> {'language', 'lecturers', 'semester', 'rooms', 'overall'}, 1
+57.86516853932585, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'overall'}, 5
+57.86516853932585, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'semester'}, 5
+57.86516853932585, --> {'ects', 'rooms', 'times', 'language', 'semester', 'overall'}, 3
+57.86516853932585, --> {'rooms', 'times', 'participants', 'language', 'semester', 'overall'}, 3
+57.86516853932585, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'overall'}, 5
+57.86516853932585, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+57.86516853932584, --> {'lecturers'}, 3
+57.86516853932584, --> {'ects', 'language', 'rooms'}, 1
+57.86516853932584, --> {'ects', 'semester', 'rooms', 'language'}, 5
+57.86516853932584, --> {'times', 'ects', 'rooms', 'programme'}, 3
+57.86516853932584, --> {'ects', 'participants', 'rooms', 'programme'}, 1
+57.86516853932584, --> {'ects', 'participants', 'rooms', 'programme'}, 3
+57.86516853932584, --> {'lecturers', 'language', 'rooms', 'times'}, 5
+57.86516853932584, --> {'participants', 'overall', 'times', 'programme'}, 3
+57.86516853932584, --> {'times', 'participants', 'language', 'rooms', 'programme'}, 3
+57.86516853932584, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 5
+57.86516853932583, --> {'lecturers', 'ects', 'semester', 'language', 'programme'}, 1
+57.86516853932583, --> {'lecturers', 'participants', 'semester', 'rooms', 'programme'}, 1
+57.75280898876406, --> {'lecturers', 'ects', 'semester', 'programme'}, 3
+57.75280898876405, --> {'lecturers', 'ects'}, 5
+57.75280898876405, --> {'lecturers', 'semester', 'overall'}, 1
+57.75280898876405, --> {'lecturers', 'language', 'programme'}, 1
+57.75280898876405, --> {'lecturers', 'overall', 'times'}, 1
+57.75280898876405, --> {'ects', 'semester', 'rooms', 'language'}, 1
+57.75280898876405, --> {'lecturers', 'ects', 'overall', 'rooms'}, 1
+57.75280898876405, --> {'lecturers', 'overall', 'rooms', 'times'}, 3
+57.75280898876405, --> {'ects', 'participants', 'semester', 'rooms', 'programme'}, 3
+57.75280898876405, --> {'lecturers', 'ects', 'participants', 'semester', 'language'}, 1
+57.75280898876405, --> {'lecturers', 'ects', 'participants', 'overall', 'times'}, 1
+57.75280898876405, --> {'lecturers', 'participants', 'semester', 'times', 'programme'}, 1
+57.75280898876405, --> {'lecturers', 'participants', 'language', 'times', 'programme'}, 1
+57.75280898876405, --> {'ects', 'rooms', 'language', 'semester', 'lecturers', 'overall'}, 5
+57.75280898876405, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers'}, 1
+57.75280898876404, --> {'lecturers', 'participants', 'rooms'}, 1
+57.75280898876404, --> {'ects', 'semester', 'times', 'language'}, 3
+57.75280898876404, --> {'language', 'semester', 'rooms', 'overall'}, 5
+57.75280898876404, --> {'lecturers', 'participants', 'language', 'times'}, 5
+57.75280898876404, --> {'language', 'ects', 'semester', 'rooms', 'programme'}, 5
+57.75280898876404, --> {'language', 'ects', 'semester', 'times', 'programme'}, 3
+57.75280898876404, --> {'lecturers', 'ects', 'semester', 'times', 'language'}, 1
+57.75280898876404, --> {'lecturers', 'participants', 'semester', 'times', 'overall'}, 1
+57.75280898876404, --> {'language', 'participants', 'overall', 'rooms', 'programme'}, 5
+57.64044943820226, --> {'lecturers', 'ects', 'semester', 'rooms'}, 5
+57.64044943820226, --> {'lecturers', 'ects', 'overall', 'programme'}, 3
+57.64044943820226, --> {'lecturers', 'ects', 'overall', 'language'}, 3
+57.64044943820226, --> {'rooms', 'times', 'participants', 'language', 'semester', 'lecturers'}, 1
+57.64044943820225, --> {'lecturers', 'participants', 'semester'}, 1
+57.64044943820225, --> {'lecturers', 'times', 'programme'}, 3
+57.64044943820225, --> {'lecturers', 'language', 'times'}, 3
+57.64044943820225, --> {'lecturers', 'ects', 'overall', 'language'}, 1
+57.64044943820225, --> {'lecturers', 'overall', 'rooms', 'language'}, 3
+57.64044943820225, --> {'lecturers', 'overall', 'language', 'programme'}, 5
+57.64044943820225, --> {'times', 'ects', 'semester', 'rooms', 'programme'}, 3
+57.64044943820225, --> {'lecturers', 'ects', 'participants', 'language', 'programme'}, 1
+57.64044943820225, --> {'ects', 'rooms', 'times', 'participants', 'lecturers', 'overall'}, 3
+57.64044943820225, --> {'rooms', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 5
+57.64044943820225, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 5
+57.64044943820224, --> {'lecturers', 'participants', 'semester', 'programme'}, 5
+57.64044943820224, --> {'lecturers', 'overall', 'times', 'programme'}, 5
+57.64044943820224, --> {'times', 'ects', 'participants', 'rooms', 'programme'}, 5
+57.64044943820224, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 1
+57.64044943820224, --> {'ects', 'rooms', 'times', 'language', 'lecturers', 'overall'}, 5
+57.52808988764047, --> {'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+57.52808988764046, --> {'overall', 'semester', 'rooms', 'programme'}, 5
+57.52808988764046, --> {'lecturers', 'participants', 'semester', 'overall'}, 1
+57.52808988764046, --> {'lecturers', 'participants', 'semester', 'rooms', 'programme'}, 5
+57.52808988764045, --> {'lecturers', 'language', 'times'}, 1
+57.52808988764045, --> {'ects', 'semester', 'rooms', 'programme'}, 5
+57.52808988764045, --> {'lecturers', 'ects', 'overall', 'programme'}, 1
+57.52808988764045, --> {'participants', 'semester', 'rooms', 'programme'}, 3
+57.52808988764045, --> {'language', 'semester', 'rooms', 'programme'}, 3
+57.52808988764045, --> {'lecturers', 'participants', 'semester', 'language'}, 1
+57.52808988764045, --> {'times', 'participants', 'rooms', 'programme'}, 3
+57.52808988764045, --> {'participants', 'overall', 'rooms', 'programme'}, 5
+57.52808988764045, --> {'ects', 'participants', 'overall', 'rooms', 'times'}, 5
+57.52808988764045, --> {'times', 'language', 'semester', 'rooms', 'programme'}, 1
+57.52808988764045, --> {'language', 'lecturers', 'semester', 'times', 'overall'}, 3
+57.52808988764045, --> {'lecturers', 'participants', 'overall', 'rooms', 'programme'}, 3
+57.52808988764045, --> {'ects', 'times', 'rooms', 'programme', 'lecturers', 'overall'}, 3
+57.52808988764045, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'overall'}, 1
+57.52808988764045, --> {'ects', 'rooms', 'times', 'participants', 'language', 'overall'}, 5
+57.52808988764045, --> {'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 3
+57.52808988764044, --> {'lecturers', 'ects', 'overall', 'times', 'language'}, 5
+57.52808988764044, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'lecturers'}, 5
+57.41573033707866, --> {'lecturers', 'overall', 'times'}, 5
+57.41573033707866, --> {'ects', 'semester', 'rooms', 'overall'}, 3
+57.41573033707866, --> {'ects', 'participants', 'overall', 'rooms'}, 3
+57.41573033707866, --> {'language', 'overall', 'times', 'programme'}, 3
+57.41573033707866, --> {'lecturers', 'participants', 'overall', 'language'}, 1
+57.41573033707866, --> {'lecturers', 'ects', 'semester', 'rooms', 'programme'}, 1
+57.41573033707866, --> {'lecturers', 'ects', 'semester', 'times', 'programme'}, 1
+57.41573033707866, --> {'times', 'lecturers', 'ects', 'rooms', 'programme'}, 5
+57.41573033707866, --> {'lecturers', 'participants', 'semester', 'overall', 'language'}, 5
+57.41573033707866, --> {'ects', 'times', 'programme', 'language', 'semester', 'overall'}, 3
+57.41573033707866, --> {'ects', 'times', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 3
+57.41573033707865, --> {'lecturers', 'ects', 'participants'}, 1
+57.41573033707865, --> {'language', 'overall', 'rooms', 'programme'}, 1
+57.41573033707865, --> {'lecturers', 'ects', 'overall', 'rooms', 'programme'}, 1
+57.41573033707865, --> {'ects', 'participants', 'language', 'rooms', 'times'}, 3
+57.41573033707865, --> {'ects', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+57.41573033707865, --> {'ects', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 1
+57.41573033707865, --> {'ects', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+57.41573033707865, --> {'ects', 'times', 'programme', 'language', 'lecturers', 'overall'}, 1
+57.41573033707865, --> {'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+57.41573033707865, --> {'rooms', 'times', 'participants', 'language', 'lecturers', 'overall'}, 3
+57.41573033707865, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+57.41573033707865, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 5
+57.41573033707864, --> {'participants', 'overall', 'rooms', 'programme'}, 1
+57.41573033707864, --> {'language', 'lecturers', 'semester', 'rooms', 'overall'}, 3
+57.41573033707864, --> {'overall', 'lecturers', 'semester', 'times', 'programme'}, 3
+57.41573033707864, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers'}, 1
+57.303370786516865, --> {'lecturers', 'overall', 'programme'}, 3
+57.303370786516865, --> {'lecturers', 'participants', 'overall', 'rooms'}, 3
+57.303370786516865, --> {'lecturers', 'ects', 'semester', 'times', 'language'}, 3
+57.30337078651686, --> {'language', 'rooms', 'programme'}, 5
+57.30337078651686, --> {'times', 'lecturers', 'semester', 'rooms', 'programme'}, 1
+57.30337078651686, --> {'language', 'lecturers', 'semester', 'rooms', 'overall'}, 5
+57.30337078651686, --> {'language', 'lecturers', 'semester', 'times', 'overall'}, 1
+57.30337078651686, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'overall'}, 5
+57.30337078651686, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 3
+57.30337078651686, --> {'ects', 'rooms', 'times', 'semester', 'language', 'lecturers', 'overall'}, 1
+57.30337078651685, --> {'lecturers', 'ects', 'overall'}, 3
+57.30337078651685, --> {'lecturers', 'overall', 'rooms'}, 1
+57.30337078651685, --> {'ects', 'language', 'times', 'programme'}, 5
+57.30337078651685, --> {'lecturers', 'semester', 'rooms', 'programme'}, 1
+57.30337078651685, --> {'lecturers', 'semester', 'rooms', 'language'}, 3
+57.30337078651685, --> {'language', 'semester', 'times', 'programme'}, 5
+57.30337078651685, --> {'times', 'participants', 'rooms', 'programme'}, 5
+57.30337078651685, --> {'lecturers', 'language', 'times', 'programme'}, 3
+57.30337078651685, --> {'lecturers', 'ects', 'language', 'times', 'programme'}, 3
+57.30337078651685, --> {'lecturers', 'participants', 'semester', 'times', 'language'}, 1
+57.30337078651685, --> {'times', 'rooms', 'programme', 'language', 'semester', 'overall'}, 1
+57.30337078651685, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+57.191011235955065, --> {'participants', 'language', 'rooms', 'programme'}, 1
+57.191011235955065, --> {'ects', 'rooms', 'times', 'participants', 'language', 'overall'}, 1
+57.19101123595506, --> {'participants', 'semester', 'rooms', 'language'}, 5
+57.19101123595506, --> {'language', 'overall', 'rooms', 'programme'}, 5
+57.19101123595506, --> {'times', 'ects', 'language', 'rooms', 'programme'}, 3
+57.19101123595506, --> {'lecturers', 'ects', 'participants', 'overall', 'rooms'}, 3
+57.19101123595506, --> {'ects', 'times', 'rooms', 'programme', 'language', 'semester'}, 5
+57.19101123595506, --> {'ects', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 5
+57.19101123595506, --> {'ects', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 1
+57.19101123595506, --> {'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 5
+57.19101123595505, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'overall'}, 3
+57.19101123595505, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+57.078651685393265, --> {'semester', 'rooms', 'language'}, 5
+57.078651685393265, --> {'lecturers', 'ects', 'participants', 'semester'}, 1
+57.078651685393265, --> {'lecturers', 'ects', 'semester', 'times', 'overall'}, 3
+57.078651685393265, --> {'times', 'programme', 'participants', 'language', 'semester', 'lecturers'}, 1
+57.078651685393265, --> {'times', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 5
+57.07865168539326, --> {'lecturers', 'rooms', 'programme'}, 1
+57.07865168539326, --> {'lecturers', 'overall', 'rooms'}, 3
+57.07865168539326, --> {'lecturers', 'ects', 'semester', 'overall'}, 1
+57.07865168539326, --> {'lecturers', 'ects', 'language', 'programme'}, 1
+57.07865168539326, --> {'times', 'ects', 'semester', 'rooms', 'programme'}, 1
+57.07865168539326, --> {'ects', 'participants', 'semester', 'rooms', 'programme'}, 5
+57.07865168539326, --> {'lecturers', 'ects', 'participants', 'semester', 'programme'}, 3
+57.07865168539326, --> {'overall', 'language', 'semester', 'rooms', 'programme'}, 5
+57.07865168539326, --> {'lecturers', 'participants', 'semester', 'rooms', 'language'}, 3
+57.07865168539326, --> {'overall', 'lecturers', 'semester', 'times', 'programme'}, 1
+57.07865168539326, --> {'times', 'participants', 'overall', 'rooms', 'programme'}, 5
+57.07865168539326, --> {'lecturers', 'participants', 'language', 'rooms', 'times'}, 5
+57.07865168539326, --> {'ects', 'rooms', 'times', 'participants', 'language', 'semester'}, 5
+57.07865168539326, --> {'ects', 'rooms', 'times', 'language', 'lecturers', 'overall'}, 3
+57.07865168539326, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'overall'}, 1
+57.07865168539326, --> {'times', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 1
+57.07865168539326, --> {'rooms', 'programme', 'participants', 'language', 'lecturers', 'overall'}, 3
+57.07865168539326, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 3
+57.07865168539325, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'overall'}, 3
+56.96629213483147, --> {'lecturers', 'participants', 'times'}, 3
+56.96629213483146, --> {'language', 'overall', 'rooms', 'times'}, 3
+56.96629213483146, --> {'ects', 'times', 'programme', 'participants', 'language', 'lecturers'}, 3
+56.966292134831455, --> {'ects', 'overall', 'rooms', 'programme'}, 3
+56.966292134831455, --> {'lecturers', 'ects', 'participants', 'times'}, 1
+56.966292134831455, --> {'language', 'semester', 'rooms', 'programme'}, 1
+56.966292134831455, --> {'language', 'semester', 'rooms', 'times'}, 1
+56.966292134831455, --> {'lecturers', 'participants', 'semester', 'times', 'programme'}, 3
+56.966292134831455, --> {'lecturers', 'participants', 'semester', 'overall', 'programme'}, 5
+56.966292134831455, --> {'ects', 'rooms', 'participants', 'semester', 'lecturers', 'overall'}, 3
+56.966292134831455, --> {'ects', 'times', 'programme', 'participants', 'language', 'semester'}, 3
+56.966292134831455, --> {'ects', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 5
+56.966292134831455, --> {'ects', 'rooms', 'participants', 'language', 'lecturers', 'overall'}, 1
+56.96629213483145, --> {'ects', 'participants', 'language', 'rooms'}, 5
+56.85393258426966, --> {'lecturers', 'programme'}, 1
+56.85393258426966, --> {'lecturers', 'times'}, 1
+56.85393258426966, --> {'lecturers', 'participants', 'semester', 'rooms'}, 3
+56.85393258426966, --> {'lecturers', 'semester', 'rooms', 'overall'}, 3
+56.85393258426966, --> {'lecturers', 'participants', 'semester', 'times'}, 3
+56.85393258426966, --> {'participants', 'semester', 'times', 'overall'}, 1
+56.85393258426966, --> {'times', 'language', 'rooms', 'programme'}, 3
+56.85393258426966, --> {'times', 'language', 'rooms', 'programme'}, 5
+56.85393258426966, --> {'lecturers', 'participants', 'rooms', 'programme'}, 5
+56.85393258426966, --> {'times', 'ects', 'language', 'rooms', 'programme'}, 5
+56.85393258426966, --> {'language', 'lecturers', 'semester', 'times', 'programme'}, 5
+56.85393258426966, --> {'ects', 'times', 'programme', 'participants', 'language', 'semester'}, 5
+56.85393258426966, --> {'times', 'rooms', 'programme', 'semester', 'lecturers', 'overall'}, 1
+56.85393258426966, --> {'rooms', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 1
+56.85393258426966, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'lecturers'}, 5
+56.85393258426966, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 1
+56.85393258426966, --> {'rooms', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+56.853932584269655, --> {'participants', 'programme'}, 5
+56.853932584269655, --> {'lecturers', 'participants', 'rooms'}, 3
+56.853932584269655, --> {'lecturers', 'ects', 'language', 'times'}, 3
+56.853932584269655, --> {'overall', 'ects', 'semester', 'rooms', 'programme'}, 3
+56.74157303370787, --> {'participants', 'rooms', 'programme'}, 1
+56.74157303370787, --> {'lecturers', 'participants', 'semester', 'language'}, 3
+56.74157303370787, --> {'times', 'overall', 'rooms', 'programme'}, 1
+56.74157303370787, --> {'ects', 'participants', 'semester', 'times', 'language'}, 3
+56.74157303370787, --> {'ects', 'participants', 'language', 'rooms', 'times'}, 5
+56.74157303370787, --> {'language', 'participants', 'semester', 'rooms', 'times'}, 1
+56.74157303370787, --> {'language', 'lecturers', 'overall', 'rooms', 'times'}, 3
+56.74157303370786, --> {'ects', 'participants', 'rooms'}, 3
+56.74157303370786, --> {'ects', 'language', 'rooms', 'programme'}, 3
+56.74157303370786, --> {'lecturers', 'participants', 'language', 'programme'}, 5
+56.74157303370786, --> {'lecturers', 'participants', 'overall', 'times'}, 5
+56.74157303370786, --> {'overall', 'language', 'semester', 'times', 'programme'}, 3
+56.74157303370786, --> {'times', 'language', 'overall', 'rooms', 'programme'}, 1
+56.74157303370786, --> {'ects', 'times', 'rooms', 'programme', 'language', 'semester'}, 1
+56.74157303370786, --> {'ects', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+56.74157303370786, --> {'ects', 'times', 'language', 'semester', 'lecturers', 'overall'}, 1
+56.74157303370786, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 3
+56.741573033707855, --> {'lecturers', 'ects', 'participants', 'semester', 'language'}, 5
+56.62921348314608, --> {'lecturers', 'semester', 'overall', 'language'}, 1
+56.62921348314607, --> {'semester', 'rooms', 'programme'}, 5
+56.62921348314607, --> {'lecturers', 'semester', 'rooms', 'overall'}, 5
+56.62921348314607, --> {'lecturers', 'participants', 'semester', 'times'}, 1
+56.62921348314607, --> {'lecturers', 'ects', 'participants', 'semester', 'programme'}, 5
+56.62921348314606, --> {'lecturers', 'ects', 'rooms'}, 1
+56.62921348314606, --> {'lecturers', 'ects', 'semester', 'overall'}, 3
+56.62921348314606, --> {'ects', 'overall', 'rooms', 'programme'}, 5
+56.62921348314606, --> {'language', 'ects', 'overall', 'rooms', 'programme'}, 1
+56.62921348314606, --> {'lecturers', 'ects', 'overall', 'language', 'programme'}, 3
+56.62921348314606, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language'}, 5
+56.62921348314606, --> {'ects', 'times', 'rooms', 'programme', 'language', 'overall'}, 1
+56.62921348314606, --> {'times', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 3
+56.62921348314606, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language'}, 3
+56.62921348314606, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 5
+56.51685393258427, --> {'lecturers', 'times'}, 5
+56.51685393258427, --> {'lecturers', 'participants', 'times'}, 1
+56.51685393258427, --> {'ects', 'participants', 'overall', 'programme'}, 5
+56.51685393258427, --> {'lecturers', 'ects', 'language', 'times'}, 5
+56.51685393258427, --> {'lecturers', 'semester', 'rooms', 'programme'}, 5
+56.51685393258427, --> {'lecturers', 'semester', 'times', 'language'}, 3
+56.51685393258427, --> {'participants', 'overall', 'rooms', 'programme'}, 3
+56.51685393258427, --> {'lecturers', 'ects', 'participants', 'rooms', 'times'}, 3
+56.51685393258427, --> {'lecturers', 'ects', 'language', 'rooms', 'times'}, 1
+56.51685393258427, --> {'lecturers', 'ects', 'participants', 'overall', 'times'}, 5
+56.51685393258427, --> {'times', 'lecturers', 'semester', 'rooms', 'programme'}, 5
+56.51685393258427, --> {'times', 'participants', 'semester', 'rooms', 'programme'}, 1
+56.51685393258427, --> {'lecturers', 'participants', 'semester', 'rooms', 'overall'}, 3
+56.51685393258427, --> {'language', 'participants', 'semester', 'rooms', 'overall'}, 3
+56.51685393258427, --> {'language', 'lecturers', 'semester', 'overall', 'programme'}, 3
+56.51685393258427, --> {'language', 'participants', 'overall', 'times', 'programme'}, 1
+56.51685393258427, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'lecturers', 'overall'}, 3
+56.51685393258426, --> {'lecturers', 'times'}, 3
+56.51685393258426, --> {'lecturers', 'semester', 'language'}, 1
+56.51685393258426, --> {'lecturers', 'participants', 'semester', 'overall'}, 3
+56.51685393258426, --> {'lecturers', 'participants', 'semester', 'language'}, 5
+56.51685393258426, --> {'ects', 'times', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 5
+56.40449438202248, --> {'ects', 'participants', 'semester', 'rooms', 'language'}, 5
+56.40449438202248, --> {'ects', 'participants', 'overall', 'times', 'language'}, 3
+56.40449438202248, --> {'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 1
+56.40449438202247, --> {'semester', 'language', 'programme'}, 3
+56.40449438202247, --> {'lecturers', 'rooms', 'times'}, 1
+56.40449438202247, --> {'ects', 'language', 'rooms', 'times'}, 1
+56.40449438202247, --> {'lecturers', 'overall', 'times', 'language'}, 3
+56.40449438202247, --> {'times', 'ects', 'overall', 'rooms', 'programme'}, 5
+56.40449438202247, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers'}, 1
+56.40449438202247, --> {'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 3
+56.40449438202247, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 5
+56.40449438202246, --> {'lecturers', 'ects', 'programme'}, 5
+56.40449438202246, --> {'ects', 'language', 'rooms', 'programme'}, 1
+56.40449438202246, --> {'lecturers', 'participants', 'semester', 'rooms', 'times'}, 5
+56.29213483146068, --> {'lecturers', 'rooms'}, 5
+56.29213483146068, --> {'ects', 'language', 'rooms', 'times'}, 3
+56.29213483146068, --> {'language', 'semester', 'rooms', 'times'}, 5
+56.29213483146068, --> {'participants', 'overall', 'times', 'programme'}, 1
+56.29213483146068, --> {'ects', 'participants', 'semester', 'rooms', 'language'}, 1
+56.29213483146068, --> {'times', 'overall', 'semester', 'rooms', 'programme'}, 5
+56.29213483146068, --> {'overall', 'lecturers', 'semester', 'rooms', 'times'}, 1
+56.29213483146068, --> {'lecturers', 'participants', 'semester', 'rooms', 'language'}, 1
+56.29213483146068, --> {'language', 'lecturers', 'semester', 'overall', 'programme'}, 5
+56.29213483146068, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 1
+56.29213483146067, --> {'lecturers', 'ects', 'times'}, 5
+56.29213483146067, --> {'lecturers', 'language', 'rooms', 'times'}, 3
+56.29213483146067, --> {'language', 'ects', 'semester', 'rooms', 'overall'}, 1
+56.29213483146067, --> {'lecturers', 'ects', 'overall', 'rooms', 'times'}, 3
+56.29213483146066, --> {'lecturers', 'ects', 'semester'}, 1
+56.17977528089889, --> {'lecturers', 'semester'}, 1
+56.17977528089888, --> {'lecturers', 'overall', 'rooms'}, 5
+56.17977528089888, --> {'ects', 'participants', 'rooms', 'times'}, 3
+56.17977528089888, --> {'participants', 'language', 'times', 'programme'}, 3
+56.17977528089888, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 1
+56.17977528089888, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers'}, 5
+56.17977528089888, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'overall'}, 3
+56.17977528089887, --> {'lecturers', 'ects', 'semester', 'language'}, 5
+56.17977528089887, --> {'overall', 'ects', 'semester', 'rooms', 'programme'}, 5
+56.17977528089887, --> {'ects', 'participants', 'overall', 'rooms', 'programme'}, 5
+56.17977528089887, --> {'ects', 'participants', 'language', 'times', 'programme'}, 5
+56.17977528089887, --> {'language', 'participants', 'semester', 'rooms', 'times'}, 5
+56.17977528089887, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'overall'}, 1
+56.17977528089887, --> {'ects', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+56.17977528089887, --> {'times', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+56.17977528089886, --> {'lecturers', 'semester', 'overall'}, 5
+56.17977528089886, --> {'overall', 'participants', 'semester', 'rooms', 'programme'}, 1
+56.06741573033709, --> {'language', 'times', 'programme'}, 5
+56.06741573033708, --> {'ects', 'rooms', 'programme'}, 1
+56.06741573033708, --> {'ects', 'overall', 'rooms', 'language'}, 5
+56.06741573033708, --> {'participants', 'semester', 'rooms', 'language'}, 3
+56.06741573033708, --> {'lecturers', 'semester', 'overall', 'programme'}, 3
+56.06741573033708, --> {'lecturers', 'semester', 'language', 'programme'}, 3
+56.06741573033708, --> {'participants', 'language', 'rooms', 'programme'}, 5
+56.06741573033708, --> {'lecturers', 'participants', 'overall', 'language'}, 5
+56.06741573033708, --> {'lecturers', 'ects', 'semester', 'rooms', 'overall'}, 1
+56.06741573033708, --> {'language', 'participants', 'overall', 'rooms', 'programme'}, 1
+56.06741573033708, --> {'ects', 'rooms', 'language', 'semester', 'lecturers', 'overall'}, 1
+56.06741573033708, --> {'ects', 'rooms', 'participants', 'language', 'semester', 'overall'}, 3
+56.06741573033708, --> {'ects', 'times', 'programme', 'participants', 'semester', 'overall'}, 5
+56.06741573033708, --> {'ects', 'rooms', 'times', 'participants', 'language', 'lecturers'}, 1
+56.06741573033708, --> {'ects', 'times', 'programme', 'semester', 'language', 'lecturers', 'overall'}, 1
+56.06741573033708, --> {'ects', 'times', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 3
+56.06741573033707, --> {'lecturers', 'participants', 'rooms'}, 5
+56.06741573033707, --> {'participants', 'language', 'programme'}, 5
+56.06741573033707, --> {'ects', 'participants', 'rooms', 'times'}, 5
+56.06741573033707, --> {'lecturers', 'semester', 'language', 'programme'}, 5
+56.06741573033707, --> {'lecturers', 'participants', 'overall', 'rooms'}, 1
+56.06741573033707, --> {'times', 'overall', 'semester', 'rooms', 'programme'}, 3
+56.06741573033707, --> {'overall', 'language', 'semester', 'rooms', 'times'}, 1
+56.06741573033707, --> {'lecturers', 'participants', 'semester', 'overall', 'programme'}, 3
+56.06741573033707, --> {'programme', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 3
+55.9550561797753, --> {'ects', 'rooms', 'programme'}, 5
+55.95505617977528, --> {'lecturers', 'rooms'}, 3
+55.95505617977528, --> {'lecturers', 'programme'}, 3
+55.95505617977528, --> {'lecturers', 'ects', 'times'}, 3
+55.95505617977528, --> {'participants', 'semester', 'rooms'}, 3
+55.95505617977528, --> {'lecturers', 'semester', 'overall'}, 3
+55.95505617977528, --> {'lecturers', 'semester', 'language'}, 3
+55.95505617977528, --> {'lecturers', 'participants', 'overall'}, 3
+55.95505617977528, --> {'language', 'semester', 'rooms', 'times'}, 3
+55.95505617977528, --> {'participants', 'semester', 'times', 'programme'}, 3
+55.95505617977528, --> {'lecturers', 'semester', 'overall', 'programme'}, 1
+55.95505617977528, --> {'times', 'overall', 'rooms', 'programme'}, 5
+55.95505617977528, --> {'language', 'overall', 'rooms', 'times'}, 5
+55.95505617977528, --> {'language', 'participants', 'overall', 'rooms', 'programme'}, 3
+55.95505617977527, --> {'lecturers', 'ects', 'semester', 'times', 'language'}, 5
+55.84269662921349, --> {'lecturers'}, 5
+55.84269662921349, --> {'ects', 'language'}, 3
+55.84269662921349, --> {'lecturers', 'rooms'}, 1
+55.84269662921349, --> {'lecturers', 'ects', 'participants', 'semester'}, 3
+55.84269662921349, --> {'ects', 'language', 'rooms', 'times'}, 5
+55.84269662921349, --> {'participants', 'language', 'rooms', 'times'}, 5
+55.84269662921349, --> {'ects', 'participants', 'semester', 'rooms', 'overall'}, 1
+55.84269662921349, --> {'overall', 'language', 'semester', 'rooms', 'programme'}, 3
+55.84269662921349, --> {'ects', 'times', 'participants', 'language', 'lecturers', 'overall'}, 3
+55.84269662921348, --> {'lecturers', 'participants', 'semester', 'rooms'}, 5
+55.84269662921348, --> {'lecturers', 'semester', 'times', 'programme'}, 1
+55.84269662921348, --> {'lecturers', 'overall', 'times', 'language'}, 1
+55.84269662921348, --> {'lecturers', 'overall', 'times', 'language'}, 5
+55.84269662921348, --> {'language', 'ects', 'semester', 'rooms', 'programme'}, 1
+55.84269662921347, --> {'ects', 'semester', 'times', 'programme'}, 3
+55.84269662921347, --> {'lecturers', 'ects', 'participants', 'semester', 'programme'}, 1
+55.84269662921347, --> {'lecturers', 'ects', 'semester', 'overall', 'programme'}, 1
+55.7303370786517, --> {'language', 'participants', 'overall', 'rooms', 'times'}, 5
+55.73033707865169, --> {'language', 'ects', 'semester', 'rooms', 'overall'}, 3
+55.73033707865169, --> {'lecturers', 'ects', 'overall', 'rooms', 'times'}, 1
+55.73033707865169, --> {'times', 'language', 'semester', 'rooms', 'programme'}, 3
+55.73033707865169, --> {'lecturers', 'participants', 'semester', 'rooms', 'overall'}, 5
+55.73033707865169, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 3
+55.73033707865169, --> {'programme', 'participants', 'language', 'semester', 'lecturers', 'overall'}, 5
+55.73033707865168, --> {'lecturers', 'semester'}, 5
+55.73033707865168, --> {'language', 'rooms', 'times'}, 3
+55.73033707865168, --> {'participants', 'overall', 'programme'}, 3
+55.73033707865168, --> {'lecturers', 'participants', 'language'}, 3
+55.73033707865168, --> {'ects', 'language', 'rooms', 'programme'}, 5
+55.73033707865168, --> {'overall', 'semester', 'rooms', 'programme'}, 3
+55.73033707865168, --> {'lecturers', 'semester', 'rooms', 'times'}, 1
+55.73033707865168, --> {'times', 'language', 'rooms', 'programme'}, 1
+55.73033707865168, --> {'participants', 'language', 'times', 'programme'}, 5
+55.73033707865168, --> {'lecturers', 'ects', 'participants', 'semester', 'overall'}, 1
+55.73033707865168, --> {'lecturers', 'ects', 'semester', 'overall', 'language'}, 5
+55.73033707865168, --> {'language', 'lecturers', 'semester', 'overall', 'programme'}, 1
+55.73033707865168, --> {'lecturers', 'participants', 'overall', 'times', 'language'}, 1
+55.73033707865168, --> {'ects', 'rooms', 'participants', 'language', 'semester', 'overall'}, 1
+55.73033707865168, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 5
+55.73033707865168, --> {'rooms', 'times', 'language', 'semester', 'lecturers', 'overall'}, 3
+55.61797752808989, --> {'rooms', 'programme'}, 5
+55.61797752808989, --> {'ects', 'language', 'rooms'}, 5
+55.61797752808989, --> {'lecturers', 'ects', 'semester', 'programme'}, 1
+55.61797752808989, --> {'lecturers', 'ects', 'semester', 'overall'}, 5
+55.61797752808989, --> {'ects', 'participants', 'rooms', 'programme'}, 5
+55.61797752808989, --> {'lecturers', 'semester', 'language', 'programme'}, 1
+55.61797752808989, --> {'language', 'ects', 'semester', 'rooms', 'overall'}, 5
+55.61797752808989, --> {'lecturers', 'ects', 'semester', 'overall', 'language'}, 3
+55.61797752808989, --> {'language', 'ects', 'overall', 'rooms', 'times'}, 5
+55.61797752808989, --> {'ects', 'participants', 'language', 'times', 'programme'}, 3
+55.61797752808989, --> {'language', 'participants', 'overall', 'times', 'programme'}, 3
+55.61797752808989, --> {'ects', 'rooms', 'times', 'participants', 'language', 'semester'}, 1
+55.61797752808989, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 1
+55.61797752808989, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 1
+55.61797752808988, --> {'lecturers', 'participants', 'semester'}, 5
+55.61797752808988, --> {'language', 'participants', 'overall', 'times', 'programme'}, 5
+55.61797752808988, --> {'times', 'rooms', 'programme', 'participants', 'semester', 'overall'}, 3
+55.61797752808988, --> {'times', 'programme', 'participants', 'language', 'semester', 'overall'}, 3
+55.61797752808987, --> {'ects', 'rooms', 'times', 'semester', 'lecturers', 'overall'}, 1
+55.5056179775281, --> {'times', 'semester', 'rooms', 'programme'}, 1
+55.5056179775281, --> {'overall', 'participants', 'semester', 'times', 'programme'}, 3
+55.5056179775281, --> {'language', 'participants', 'semester', 'times', 'overall'}, 5
+55.5056179775281, --> {'ects', 'rooms', 'times', 'semester', 'lecturers', 'overall'}, 5
+55.5056179775281, --> {'rooms', 'programme', 'participants', 'language', 'semester', 'overall'}, 5
+55.50561797752809, --> {'lecturers', 'ects', 'rooms'}, 5
+55.50561797752809, --> {'lecturers', 'language', 'rooms'}, 5
+55.50561797752809, --> {'overall', 'rooms', 'language'}, 1
+55.50561797752809, --> {'lecturers', 'ects', 'participants', 'semester'}, 5
+55.50561797752809, --> {'participants', 'semester', 'rooms', 'times'}, 1
+55.50561797752809, --> {'times', 'participants', 'rooms', 'programme'}, 1
+55.50561797752809, --> {'overall', 'ects', 'semester', 'rooms', 'programme'}, 1
+55.50561797752809, --> {'lecturers', 'ects', 'semester', 'language', 'programme'}, 5
+55.50561797752809, --> {'lecturers', 'ects', 'semester', 'times', 'overall'}, 5
+55.50561797752809, --> {'times', 'overall', 'semester', 'rooms', 'programme'}, 1
+55.50561797752809, --> {'language', 'lecturers', 'semester', 'times', 'programme'}, 1
+55.50561797752809, --> {'language', 'participants', 'semester', 'times', 'programme'}, 3
+55.50561797752809, --> {'lecturers', 'participants', 'semester', 'times', 'language'}, 3
+55.50561797752809, --> {'times', 'participants', 'overall', 'rooms', 'programme'}, 3
+55.50561797752809, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'overall'}, 5
+55.50561797752808, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+55.393258426966305, --> {'ects', 'participants', 'overall', 'rooms', 'times'}, 1
+55.393258426966305, --> {'ects', 'rooms', 'programme', 'participants', 'semester', 'language', 'overall'}, 5
+55.3932584269663, --> {'participants', 'language', 'rooms'}, 5
+55.3932584269663, --> {'lecturers', 'times', 'programme'}, 1
+55.3932584269663, --> {'participants', 'semester', 'rooms', 'programme'}, 5
+55.3932584269663, --> {'ects', 'participants', 'language', 'rooms', 'programme'}, 5
+55.3932584269663, --> {'ects', 'rooms', 'times', 'participants', 'language', 'semester'}, 3
+55.3932584269663, --> {'ects', 'times', 'programme', 'semester', 'lecturers', 'overall'}, 1
+55.3932584269663, --> {'times', 'rooms', 'programme', 'language', 'semester', 'lecturers'}, 3
+55.39325842696629, --> {'lecturers', 'semester'}, 3
+55.39325842696629, --> {'lecturers', 'participants', 'times'}, 5
+55.39325842696629, --> {'lecturers', 'language', 'times'}, 5
+55.39325842696629, --> {'lecturers', 'ects', 'rooms', 'times'}, 3
+55.39325842696629, --> {'times', 'semester', 'rooms', 'programme'}, 5
+55.39325842696629, --> {'ects', 'times', 'programme', 'semester', 'lecturers', 'overall'}, 3
+55.39325842696629, --> {'ects', 'rooms', 'times', 'participants', 'language', 'overall'}, 3
+55.39325842696629, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'overall'}, 3
+55.39325842696629, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 1
+55.280898876404505, --> {'lecturers', 'ects', 'semester', 'times'}, 5
+55.280898876404505, --> {'lecturers', 'participants', 'semester', 'rooms', 'times'}, 3
+55.2808988764045, --> {'ects', 'semester', 'rooms'}, 1
+55.2808988764045, --> {'lecturers', 'semester', 'times'}, 5
+55.2808988764045, --> {'times', 'rooms', 'programme'}, 1
+55.2808988764045, --> {'overall', 'rooms', 'programme'}, 1
+55.2808988764045, --> {'participants', 'language', 'times', 'programme'}, 1
+55.2808988764045, --> {'lecturers', 'ects', 'participants', 'semester', 'rooms'}, 3
+55.2808988764045, --> {'ects', 'participants', 'overall', 'times', 'language'}, 5
+55.2808988764045, --> {'lecturers', 'participants', 'semester', 'rooms', 'overall'}, 1
+55.2808988764045, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers'}, 5
+55.28089887640449, --> {'rooms'}, 5
+55.28089887640449, --> {'participants', 'language'}, 1
+55.28089887640449, --> {'participants', 'language', 'programme'}, 3
+55.28089887640449, --> {'ects', 'participants', 'semester', 'rooms', 'programme'}, 1
+55.28089887640449, --> {'ects', 'participants', 'overall', 'rooms', 'times'}, 3
+55.28089887640449, --> {'lecturers', 'participants', 'overall', 'rooms', 'times'}, 1
+55.28089887640449, --> {'ects', 'programme', 'participants', 'semester', 'language', 'lecturers'}, 3
+55.168539325842705, --> {'lecturers', 'semester', 'rooms'}, 3
+55.168539325842705, --> {'ects', 'rooms', 'times', 'language', 'semester', 'overall'}, 1
+55.168539325842705, --> {'ects', 'programme', 'language', 'semester', 'lecturers', 'overall'}, 3
+55.1685393258427, --> {'semester', 'times', 'programme'}, 5
+55.1685393258427, --> {'participants', 'language', 'rooms'}, 3
+55.1685393258427, --> {'lecturers', 'ects', 'semester', 'programme'}, 5
+55.1685393258427, --> {'language', 'ects', 'semester', 'rooms', 'programme'}, 3
+55.1685393258427, --> {'ects', 'times', 'programme', 'participants', 'semester', 'overall'}, 3
+55.1685393258427, --> {'ects', 'times', 'participants', 'language', 'semester', 'overall'}, 3
+55.16853932584269, --> {'semester', 'rooms', 'overall'}, 5
+55.16853932584269, --> {'lecturers', 'semester', 'programme'}, 3
+55.16853932584269, --> {'ects', 'semester', 'times', 'language'}, 5
+55.056179775280905, --> {'times', 'semester', 'rooms', 'programme'}, 3
+55.056179775280905, --> {'language', 'ects', 'semester', 'times', 'overall'}, 5
+55.056179775280905, --> {'ects', 'times', 'programme', 'participants', 'language', 'overall'}, 5
+55.0561797752809, --> {'ects', 'semester', 'language', 'programme'}, 1
+55.0561797752809, --> {'participants', 'semester', 'rooms', 'programme'}, 1
+55.0561797752809, --> {'lecturers', 'semester', 'rooms', 'times'}, 5
+55.0561797752809, --> {'lecturers', 'ects', 'participants', 'semester', 'times'}, 3
+55.0561797752809, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'language', 'overall'}, 1
+55.05617977528089, --> {'overall', 'times', 'programme'}, 3
+54.9438202247191, --> {'language', 'rooms'}, 5
+54.9438202247191, --> {'ects', 'overall', 'times'}, 3
+54.9438202247191, --> {'lecturers', 'ects', 'overall'}, 1
+54.9438202247191, --> {'semester', 'rooms', 'language'}, 1
+54.9438202247191, --> {'lecturers', 'semester', 'language'}, 5
+54.9438202247191, --> {'participants', 'semester', 'times', 'programme'}, 5
+54.9438202247191, --> {'participants', 'overall', 'rooms', 'language'}, 1
+54.9438202247191, --> {'lecturers', 'ects', 'semester', 'overall', 'programme'}, 3
+54.9438202247191, --> {'ects', 'participants', 'overall', 'rooms', 'programme'}, 3
+54.9438202247191, --> {'ects', 'participants', 'overall', 'times', 'programme'}, 5
+54.9438202247191, --> {'ects', 'times', 'rooms', 'programme', 'semester', 'overall'}, 3
+54.9438202247191, --> {'ects', 'rooms', 'times', 'semester', 'lecturers', 'overall'}, 3
+54.943820224719095, --> {'rooms', 'times'}, 1
+54.943820224719095, --> {'participants', 'times', 'programme'}, 5
+54.943820224719095, --> {'lecturers', 'semester', 'rooms', 'overall'}, 1
+54.943820224719095, --> {'lecturers', 'participants', 'rooms', 'times'}, 5
+54.943820224719095, --> {'ects', 'participants', 'semester', 'times', 'programme'}, 3
+54.943820224719095, --> {'language', 'ects', 'semester', 'times', 'programme'}, 5
+54.943820224719095, --> {'language', 'participants', 'overall', 'rooms', 'times'}, 3
+54.943820224719095, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'semester'}, 1
+54.943820224719095, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 1
+54.83146067415731, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers'}, 3
+54.83146067415731, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'language', 'overall'}, 5
+54.8314606741573, --> {'semester', 'rooms'}, 3
+54.8314606741573, --> {'ects', 'semester', 'language'}, 5
+54.8314606741573, --> {'ects', 'participants', 'programme'}, 3
+54.8314606741573, --> {'times', 'rooms', 'programme'}, 3
+54.8314606741573, --> {'overall', 'rooms', 'programme'}, 3
+54.8314606741573, --> {'lecturers', 'ects', 'semester', 'times', 'overall'}, 1
+54.8314606741573, --> {'language', 'ects', 'overall', 'rooms', 'programme'}, 3
+54.8314606741573, --> {'ects', 'participants', 'overall', 'times', 'programme'}, 3
+54.8314606741573, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'lecturers'}, 1
+54.831460674157295, --> {'lecturers', 'rooms', 'times'}, 5
+54.831460674157295, --> {'ects', 'participants', 'overall', 'rooms'}, 5
+54.831460674157295, --> {'lecturers', 'participants', 'semester', 'overall'}, 5
+54.831460674157295, --> {'lecturers', 'ects', 'semester', 'times', 'programme'}, 3
+54.71910112359551, --> {'ects', 'participants', 'semester', 'times', 'language'}, 5
+54.71910112359551, --> {'overall', 'language', 'semester', 'times', 'programme'}, 5
+54.7191011235955, --> {'lecturers', 'ects'}, 1
+54.7191011235955, --> {'semester', 'rooms', 'programme'}, 1
+54.7191011235955, --> {'times', 'rooms', 'programme'}, 5
+54.7191011235955, --> {'language', 'semester', 'times', 'programme'}, 1
+54.7191011235955, --> {'lecturers', 'participants', 'semester', 'times'}, 5
+54.7191011235955, --> {'participants', 'overall', 'times', 'programme'}, 5
+54.7191011235955, --> {'language', 'ects', 'semester', 'times', 'programme'}, 1
+54.7191011235955, --> {'lecturers', 'ects', 'participants', 'semester', 'times'}, 5
+54.7191011235955, --> {'language', 'lecturers', 'semester', 'times', 'programme'}, 3
+54.7191011235955, --> {'language', 'participants', 'semester', 'times', 'programme'}, 1
+54.7191011235955, --> {'language', 'participants', 'semester', 'overall', 'programme'}, 5
+54.7191011235955, --> {'ects', 'times', 'rooms', 'programme', 'participants', 'semester'}, 1
+54.7191011235955, --> {'ects', 'rooms', 'programme', 'participants', 'language', 'overall'}, 3
+54.719101123595495, --> {'ects', 'times', 'programme'}, 3
+54.719101123595495, --> {'participants', 'overall', 'rooms', 'language'}, 5
+54.60674157303371, --> {'ects', 'participants'}, 3
+54.60674157303371, --> {'lecturers', 'semester', 'times'}, 3
+54.60674157303371, --> {'ects', 'semester', 'rooms', 'overall'}, 1
+54.60674157303371, --> {'ects', 'semester', 'language', 'programme'}, 3
+54.60674157303371, --> {'ects', 'participants', 'language', 'times'}, 5
+54.60674157303371, --> {'participants', 'overall', 'language', 'programme'}, 5
+54.60674157303371, --> {'overall', 'language', 'semester', 'rooms', 'programme'}, 1
+54.6067415730337, --> {'semester', 'rooms', 'times'}, 3
+54.6067415730337, --> {'participants', 'rooms', 'programme'}, 3
+54.6067415730337, --> {'lecturers', 'ects', 'participants', 'times'}, 3
+54.6067415730337, --> {'lecturers', 'participants', 'rooms', 'times'}, 3
+54.6067415730337, --> {'participants', 'language', 'rooms', 'times'}, 1
+54.6067415730337, --> {'lecturers', 'ects', 'participants', 'semester', 'rooms'}, 1
+54.6067415730337, --> {'ects', 'participants', 'semester', 'language', 'programme'}, 5
+54.6067415730337, --> {'times', 'ects', 'participants', 'rooms', 'programme'}, 1
+54.6067415730337, --> {'ects', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 1
+54.606741573033695, --> {'ects', 'participants', 'semester', 'rooms', 'times'}, 3
+54.49438202247192, --> {'lecturers', 'ects', 'rooms', 'times'}, 5
+54.49438202247192, --> {'ects', 'participants', 'overall', 'rooms', 'programme'}, 1
+54.49438202247191, --> {'overall', 'rooms', 'language'}, 5
+54.49438202247191, --> {'participants', 'semester', 'rooms', 'times'}, 5
+54.49438202247191, --> {'participants', 'semester', 'rooms', 'overall'}, 3
+54.49438202247191, --> {'ects', 'participants', 'overall', 'language', 'programme'}, 5
+54.49438202247191, --> {'ects', 'times', 'programme', 'language', 'semester', 'overall'}, 1
+54.4943820224719, --> {'lecturers', 'ects', 'times'}, 1
+54.4943820224719, --> {'participants', 'semester', 'rooms'}, 5
+54.4943820224719, --> {'participants', 'overall', 'rooms'}, 1
+54.4943820224719, --> {'ects', 'participants', 'semester', 'rooms'}, 5
+54.4943820224719, --> {'language', 'ects', 'overall', 'times', 'programme'}, 3
+54.4943820224719, --> {'ects', 'times', 'programme', 'language', 'semester', 'lecturers'}, 5
+54.38202247191012, --> {'overall', 'rooms', 'programme'}, 5
+54.38202247191012, --> {'overall', 'rooms', 'times'}, 3
+54.38202247191012, --> {'ects', 'times', 'programme', 'language', 'semester', 'overall'}, 5
+54.38202247191011, --> {'semester'}, 3
+54.38202247191011, --> {'rooms', 'programme'}, 3
+54.38202247191011, --> {'ects', 'participants', 'rooms'}, 1
+54.38202247191011, --> {'semester', 'times', 'language'}, 1
+54.38202247191011, --> {'participants', 'language', 'rooms'}, 1
+54.38202247191011, --> {'ects', 'language', 'times', 'programme'}, 3
+54.38202247191011, --> {'language', 'semester', 'overall', 'programme'}, 5
+54.38202247191011, --> {'participants', 'overall', 'rooms', 'language'}, 3
+54.38202247191011, --> {'overall', 'ects', 'semester', 'times', 'programme'}, 1
+54.38202247191011, --> {'overall', 'language', 'semester', 'rooms', 'times'}, 5
+54.38202247191011, --> {'lecturers', 'participants', 'language', 'rooms', 'times'}, 3
+54.38202247191011, --> {'rooms', 'times', 'participants', 'language', 'semester', 'overall'}, 5
+54.3820224719101, --> {'lecturers', 'semester', 'programme'}, 5
+54.3820224719101, --> {'lecturers', 'semester', 'overall', 'programme'}, 5
+54.26966292134832, --> {'overall', 'programme'}, 1
+54.26966292134832, --> {'lecturers', 'ects', 'participants', 'semester', 'overall'}, 3
+54.26966292134831, --> {'language', 'times', 'programme'}, 3
+54.26966292134831, --> {'times', 'ects', 'rooms', 'programme'}, 5
+54.2696629213483, --> {'lecturers', 'ects', 'semester', 'times'}, 1
+54.15730337078652, --> {'rooms'}, 3
+54.15730337078652, --> {'participants', 'times', 'programme'}, 3
+54.15730337078652, --> {'ects', 'semester', 'rooms', 'times'}, 3
+54.15730337078652, --> {'ects', 'semester', 'rooms', 'language'}, 3
+54.15730337078651, --> {'ects', 'semester', 'rooms', 'overall'}, 5
+54.15730337078651, --> {'ects', 'overall', 'rooms', 'programme'}, 1
+54.15730337078651, --> {'ects', 'participants', 'semester', 'rooms', 'overall'}, 3
+54.15730337078651, --> {'overall', 'participants', 'semester', 'rooms', 'times'}, 3
+54.04494382022473, --> {'times', 'programme'}, 3
+54.04494382022472, --> {'ects', 'rooms'}, 5
+54.04494382022472, --> {'lecturers', 'ects', 'semester', 'rooms'}, 1
+54.04494382022472, --> {'ects', 'overall', 'times', 'language'}, 1
+54.04494382022472, --> {'participants', 'language', 'rooms', 'times'}, 3
+54.04494382022472, --> {'language', 'overall', 'rooms', 'times'}, 1
+54.04494382022472, --> {'times', 'participants', 'language', 'rooms', 'programme'}, 5
+54.04494382022471, --> {'overall', 'rooms', 'times'}, 1
+53.93258426966293, --> {'ects', 'participants'}, 1
+53.93258426966293, --> {'language', 'overall', 'times', 'programme'}, 1
+53.93258426966293, --> {'ects', 'participants', 'semester', 'times', 'programme'}, 5
+53.93258426966293, --> {'overall', 'ects', 'semester', 'times', 'programme'}, 3
+53.93258426966293, --> {'lecturers', 'ects', 'participants', 'semester', 'overall'}, 5
+53.93258426966293, --> {'times', 'ects', 'overall', 'rooms', 'programme'}, 1
+53.93258426966293, --> {'overall', 'lecturers', 'semester', 'rooms', 'times'}, 5
+53.93258426966293, --> {'ects', 'times', 'programme', 'participants', 'language', 'overall'}, 1
+53.93258426966292, --> {'lecturers', 'ects', 'semester'}, 5
+53.93258426966292, --> {'participants', 'overall', 'language', 'programme'}, 1
+53.93258426966292, --> {'ects', 'participants', 'semester', 'rooms', 'overall'}, 5
+53.93258426966292, --> {'language', 'ects', 'overall', 'rooms', 'times'}, 1
+53.93258426966292, --> {'language', 'ects', 'overall', 'rooms', 'times'}, 3
+53.93258426966292, --> {'ects', 'participants', 'overall', 'rooms', 'language'}, 3
+53.93258426966292, --> {'ects', 'participants', 'overall', 'language', 'programme'}, 3
+53.93258426966291, --> {'lecturers', 'ects', 'participants', 'rooms', 'times'}, 1
+53.93258426966291, --> {'language', 'participants', 'semester', 'times', 'overall'}, 3
+53.93258426966291, --> {'ects', 'rooms', 'participants', 'semester', 'language', 'lecturers', 'overall'}, 1
+53.82022471910114, --> {'ects', 'language', 'programme'}, 5
+53.82022471910114, --> {'language', 'lecturers', 'semester', 'times', 'overall'}, 5
+53.82022471910113, --> {'lecturers', 'times', 'programme'}, 5
+53.82022471910113, --> {'ects', 'participants', 'language', 'programme'}, 5
+53.82022471910113, --> {'lecturers', 'participants', 'overall', 'times'}, 1
+53.82022471910113, --> {'overall', 'ects', 'semester', 'rooms', 'times'}, 3
+53.82022471910112, --> {'semester', 'overall'}, 3
+53.82022471910112, --> {'language', 'rooms'}, 3
+53.82022471910112, --> {'participants', 'times'}, 5
+53.82022471910112, --> {'ects', 'language', 'times'}, 5
+53.82022471910112, --> {'semester', 'rooms', 'language'}, 3
+53.82022471910112, --> {'participants', 'language', 'times'}, 3
+53.82022471910112, --> {'lecturers', 'ects', 'participants', 'times'}, 5
+53.82022471910112, --> {'participants', 'semester', 'rooms', 'times'}, 3
+53.82022471910112, --> {'participants', 'semester', 'rooms', 'overall'}, 5
+53.82022471910112, --> {'lecturers', 'participants', 'overall', 'times'}, 3
+53.82022471910112, --> {'lecturers', 'ects', 'semester', 'rooms', 'times'}, 1
+53.82022471910112, --> {'lecturers', 'ects', 'participants', 'semester', 'times'}, 1
+53.82022471910111, --> {'rooms', 'programme'}, 1
+53.70786516853934, --> {'overall', 'rooms', 'language'}, 3
+53.70786516853934, --> {'ects', 'programme', 'participants', 'semester', 'lecturers', 'overall'}, 3
+53.70786516853933, --> {'language'}, 1
+53.70786516853933, --> {'semester', 'rooms'}, 5
+53.70786516853933, --> {'ects', 'overall', 'rooms'}, 1
+53.70786516853933, --> {'lecturers', 'semester', 'times'}, 1
+53.70786516853933, --> {'semester', 'overall', 'language'}, 1
+53.70786516853933, --> {'participants', 'overall', 'times'}, 5
+53.70786516853933, --> {'ects', 'participants', 'semester', 'language'}, 3
+53.70786516853933, --> {'ects', 'participants', 'times', 'programme'}, 3
+53.70786516853933, --> {'lecturers', 'ects', 'overall', 'times'}, 3
+53.70786516853933, --> {'lecturers', 'participants', 'semester', 'rooms'}, 1
+53.70786516853933, --> {'overall', 'semester', 'times', 'programme'}, 5
+53.70786516853933, --> {'lecturers', 'overall', 'rooms', 'times'}, 5
+53.70786516853933, --> {'ects', 'participants', 'semester', 'overall', 'language'}, 3
+53.70786516853933, --> {'ects', 'participants', 'language', 'rooms', 'programme'}, 1
+53.70786516853933, --> {'lecturers', 'participants', 'semester', 'language', 'programme'}, 1
+53.70786516853933, --> {'ects', 'times', 'participants', 'language', 'semester', 'overall'}, 1
+53.70786516853933, --> {'rooms', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 5
+53.70786516853932, --> {'ects', 'semester', 'times', 'programme'}, 1
+53.70786516853932, --> {'participants', 'overall', 'rooms', 'times'}, 3
+53.70786516853932, --> {'language', 'ects', 'semester', 'times', 'overall'}, 1
+53.70786516853932, --> {'ects', 'participants', 'overall', 'rooms', 'language'}, 1
+53.70786516853932, --> {'lecturers', 'participants', 'semester', 'times', 'overall'}, 5
+53.59550561797754, --> {'lecturers', 'ects', 'semester', 'times', 'programme'}, 5
+53.59550561797754, --> {'language', 'participants', 'semester', 'rooms', 'times'}, 3
+53.59550561797753, --> {'ects', 'semester'}, 1
+53.59550561797753, --> {'ects', 'participants'}, 5
+53.59550561797753, --> {'overall', 'rooms'}, 1
+53.59550561797753, --> {'overall', 'times', 'programme'}, 5
+53.59550561797753, --> {'ects', 'participants', 'semester', 'language'}, 5
+53.59550561797753, --> {'ects', 'participants', 'language', 'rooms'}, 3
+53.59550561797753, --> {'ects', 'participants', 'overall', 'times'}, 3
+53.59550561797753, --> {'ects', 'participants', 'semester', 'times', 'overall'}, 3
+53.59550561797753, --> {'ects', 'rooms', 'participants', 'semester', 'lecturers', 'overall'}, 1
+53.59550561797753, --> {'rooms', 'times', 'participants', 'language', 'semester', 'overall'}, 1
+53.59550561797752, --> {'overall', 'language'}, 3
+53.59550561797752, --> {'lecturers', 'semester', 'programme'}, 1
+53.59550561797752, --> {'language', 'rooms', 'times'}, 1
+53.59550561797752, --> {'lecturers', 'semester', 'times', 'language'}, 1
+53.59550561797752, --> {'language', 'ects', 'semester', 'overall', 'programme'}, 3
+53.59550561797752, --> {'times', 'ects', 'participants', 'rooms', 'programme'}, 3
+53.48314606741574, --> {'participants', 'rooms', 'times'}, 5
+53.48314606741573, --> {'language'}, 5
+53.48314606741573, --> {'semester', 'rooms', 'programme'}, 3
+53.48314606741573, --> {'lecturers', 'participants', 'semester'}, 3
+53.48314606741573, --> {'lecturers', 'semester', 'rooms', 'times'}, 3
+53.48314606741573, --> {'participants', 'semester', 'overall', 'programme'}, 3
+53.48314606741573, --> {'language', 'participants', 'semester', 'rooms', 'programme'}, 3
+53.48314606741573, --> {'ects', 'times', 'programme', 'participants', 'semester', 'lecturers'}, 1
+53.48314606741572, --> {'times', 'ects', 'semester', 'rooms', 'programme'}, 5
+53.48314606741572, --> {'ects', 'participants', 'semester', 'overall', 'language'}, 5
+53.37078651685394, --> {'participants', 'language', 'times'}, 1
+53.37078651685394, --> {'ects', 'participants', 'semester', 'rooms'}, 3
+53.37078651685394, --> {'lecturers', 'semester', 'overall', 'language'}, 5
+53.37078651685394, --> {'participants', 'overall', 'times', 'language'}, 5
+53.37078651685394, --> {'language', 'ects', 'semester', 'times', 'overall'}, 3
+53.37078651685394, --> {'language', 'participants', 'semester', 'rooms', 'programme'}, 1
+53.37078651685394, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'overall'}, 5
+53.37078651685394, --> {'ects', 'programme', 'participants', 'language', 'semester', 'overall'}, 3
+53.37078651685393, --> {'semester', 'overall', 'programme'}, 1
+53.37078651685393, --> {'ects', 'participants', 'times', 'programme'}, 1
+53.37078651685393, --> {'lecturers', 'participants', 'overall', 'rooms', 'times'}, 3
+53.37078651685393, --> {'ects', 'times', 'programme', 'participants', 'language', 'overall'}, 3
+53.258426966292145, --> {'semester', 'language'}, 1
+53.258426966292145, --> {'times', 'programme'}, 5
+53.258426966292145, --> {'ects', 'rooms', 'times'}, 3
+53.258426966292145, --> {'overall', 'language', 'semester', 'times', 'programme'}, 1
+53.25842696629214, --> {'participants', 'rooms'}, 3
+53.25842696629214, --> {'ects', 'participants', 'rooms'}, 5
+53.25842696629214, --> {'ects', 'overall', 'programme'}, 1
+53.25842696629214, --> {'participants', 'semester', 'overall'}, 3
+53.25842696629213, --> {'ects', 'semester', 'programme'}, 1
+53.25842696629213, --> {'ects', 'overall', 'language'}, 5
+53.25842696629213, --> {'overall', 'times', 'programme'}, 1
+53.25842696629213, --> {'overall', 'language', 'programme'}, 3
+53.25842696629213, --> {'overall', 'language', 'programme'}, 5
+53.25842696629213, --> {'overall', 'times', 'language'}, 1
+53.25842696629213, --> {'overall', 'times', 'language'}, 3
+53.25842696629213, --> {'overall', 'semester', 'rooms', 'programme'}, 1
+53.25842696629213, --> {'participants', 'semester', 'times', 'language'}, 5
+53.25842696629213, --> {'overall', 'participants', 'semester', 'times', 'programme'}, 1
+53.25842696629213, --> {'lecturers', 'participants', 'semester', 'times', 'overall'}, 3
+53.25842696629213, --> {'times', 'programme', 'participants', 'language', 'semester', 'overall'}, 5
+53.146067415730345, --> {'ects', 'participants', 'language', 'programme'}, 3
+53.14606741573034, --> {'ects', 'programme'}, 3
+53.14606741573034, --> {'ects', 'overall', 'programme'}, 5
+53.14606741573034, --> {'participants', 'semester', 'times'}, 1
+53.14606741573034, --> {'ects', 'semester', 'overall', 'programme'}, 1
+53.14606741573034, --> {'ects', 'semester', 'language', 'programme'}, 5
+53.14606741573034, --> {'ects', 'overall', 'times', 'programme'}, 5
+53.14606741573034, --> {'overall', 'ects', 'semester', 'times', 'programme'}, 5
+53.14606741573033, --> {'ects', 'participants', 'times'}, 5
+53.033707865168545, --> {'participants'}, 3
+53.033707865168545, --> {'language', 'programme'}, 3
+53.033707865168545, --> {'ects', 'rooms', 'times'}, 1
+53.033707865168545, --> {'ects', 'participants', 'semester', 'overall', 'language'}, 1
+53.03370786516854, --> {'semester', 'times', 'language'}, 5
+53.03370786516854, --> {'lecturers', 'ects', 'semester', 'rooms'}, 3
+53.03370786516854, --> {'ects', 'rooms', 'times', 'language', 'semester', 'overall'}, 5
+53.03370786516853, --> {'ects', 'participants', 'semester', 'rooms', 'times'}, 1
+53.03370786516853, --> {'ects', 'participants', 'semester', 'rooms', 'language'}, 3
+52.92134831460675, --> {'ects', 'rooms'}, 1
+52.92134831460674, --> {'participants', 'times', 'programme'}, 1
+52.92134831460674, --> {'language', 'times', 'programme'}, 1
+52.92134831460674, --> {'ects', 'participants', 'times', 'programme'}, 5
+52.92134831460674, --> {'overall', 'semester', 'times', 'programme'}, 1
+52.92134831460674, --> {'participants', 'semester', 'overall', 'programme'}, 1
+52.92134831460674, --> {'lecturers', 'semester', 'times', 'overall'}, 5
+52.92134831460674, --> {'participants', 'overall', 'rooms', 'times'}, 1
+52.921348314606735, --> {'semester', 'programme'}, 1
+52.921348314606735, --> {'ects', 'rooms', 'times'}, 5
+52.921348314606735, --> {'semester', 'overall', 'programme'}, 3
+52.921348314606735, --> {'lecturers', 'ects', 'semester', 'times'}, 3
+52.921348314606735, --> {'overall', 'participants', 'semester', 'rooms', 'times'}, 5
+52.921348314606735, --> {'language', 'participants', 'semester', 'times', 'overall'}, 1
+52.921348314606735, --> {'ects', 'times', 'programme', 'participants', 'semester', 'overall'}, 1
+52.80898876404495, --> {'ects', 'participants', 'language', 'rooms'}, 1
+52.80898876404494, --> {'ects', 'programme'}, 5
+52.80898876404494, --> {'participants', 'times'}, 1
+52.80898876404494, --> {'overall', 'language'}, 1
+52.80898876404494, --> {'ects', 'participants', 'semester'}, 5
+52.80898876404494, --> {'lecturers', 'semester', 'rooms'}, 1
+52.80898876404494, --> {'ects', 'participants', 'semester', 'programme'}, 1
+52.80898876404494, --> {'ects', 'participants', 'semester', 'programme'}, 5
+52.80898876404494, --> {'ects', 'participants', 'semester', 'overall'}, 3
+52.80898876404494, --> {'ects', 'overall', 'times', 'programme'}, 3
+52.80898876404494, --> {'participants', 'semester', 'times', 'overall'}, 3
+52.80898876404494, --> {'language', 'ects', 'semester', 'overall', 'programme'}, 1
+52.808988764044935, --> {'participants', 'semester', 'overall'}, 5
+52.808988764044935, --> {'participants', 'semester', 'rooms', 'language'}, 1
+52.808988764044935, --> {'language', 'ects', 'overall', 'times', 'programme'}, 1
+52.69662921348315, --> {'semester', 'times'}, 3
+52.69662921348315, --> {'ects', 'participants', 'semester', 'times'}, 3
+52.69662921348314, --> {'participants', 'rooms'}, 5
+52.69662921348314, --> {'participants', 'overall'}, 1
+52.69662921348314, --> {'participants', 'language'}, 3
+52.69662921348314, --> {'ects', 'semester', 'rooms'}, 3
+52.69662921348314, --> {'ects', 'overall', 'times', 'programme'}, 1
+52.69662921348314, --> {'ects', 'language', 'times', 'programme'}, 1
+52.69662921348314, --> {'participants', 'overall', 'times', 'language'}, 3
+52.69662921348314, --> {'ects', 'participants', 'language', 'times', 'programme'}, 1
+52.69662921348314, --> {'ects', 'participants', 'overall', 'times', 'language'}, 1
+52.69662921348314, --> {'lecturers', 'participants', 'semester', 'rooms', 'times'}, 1
+52.69662921348314, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'overall'}, 3
+52.69662921348314, --> {'times', 'programme', 'participants', 'language', 'semester', 'overall'}, 1
+52.696629213483135, --> {'ects', 'times', 'programme'}, 5
+52.696629213483135, --> {'ects', 'participants', 'language', 'times'}, 3
+52.696629213483135, --> {'language', 'participants', 'semester', 'rooms', 'overall'}, 5
+52.58426966292135, --> {'ects', 'semester', 'rooms', 'times'}, 5
+52.58426966292135, --> {'ects', 'times', 'participants', 'semester', 'lecturers', 'overall'}, 3
+52.58426966292134, --> {'ects', 'semester', 'rooms', 'times'}, 1
+52.58426966292134, --> {'ects', 'participants', 'language', 'programme'}, 1
+52.58426966292134, --> {'language', 'ects', 'semester', 'rooms', 'times'}, 3
+52.58426966292134, --> {'lecturers', 'ects', 'participants', 'rooms', 'times'}, 5
+52.47191011235955, --> {'rooms', 'times'}, 3
+52.47191011235955, --> {'language', 'rooms'}, 1
+52.47191011235955, --> {'ects', 'semester', 'rooms'}, 5
+52.47191011235955, --> {'participants', 'overall', 'rooms'}, 3
+52.47191011235955, --> {'ects', 'participants', 'overall', 'language'}, 3
+52.47191011235955, --> {'ects', 'participants', 'language', 'rooms', 'times'}, 1
+52.47191011235954, --> {'ects', 'participants', 'programme'}, 5
+52.47191011235954, --> {'ects', 'language', 'times'}, 1
+52.47191011235954, --> {'ects', 'semester', 'times', 'programme'}, 5
+52.35955056179776, --> {'ects', 'semester', 'overall', 'language'}, 1
+52.35955056179775, --> {'ects', 'times', 'programme'}, 1
+52.35955056179775, --> {'participants', 'semester', 'language'}, 5
+52.35955056179775, --> {'ects', 'semester', 'overall', 'language'}, 5
+52.35955056179775, --> {'ects', 'participants', 'overall', 'times'}, 5
+52.35955056179775, --> {'participants', 'semester', 'language', 'programme'}, 5
+52.35955056179774, --> {'ects', 'participants', 'programme'}, 1
+52.35955056179774, --> {'participants', 'overall', 'rooms'}, 5
+52.35955056179774, --> {'overall', 'semester', 'rooms', 'times'}, 1
+52.24719101123596, --> {'participants', 'language'}, 5
+52.24719101123596, --> {'semester', 'times', 'programme'}, 3
+52.24719101123595, --> {'rooms', 'times'}, 5
+52.24719101123595, --> {'overall', 'times'}, 3
+52.24719101123595, --> {'overall', 'semester', 'rooms', 'times'}, 3
+52.24719101123595, --> {'overall', 'semester', 'times', 'programme'}, 3
+52.24719101123595, --> {'ects', 'participants', 'semester', 'language', 'programme'}, 1
+52.24719101123595, --> {'language', 'ects', 'overall', 'times', 'programme'}, 5
+52.13483146067417, --> {'overall', 'language', 'programme'}, 1
+52.13483146067416, --> {'ects', 'overall', 'times'}, 1
+52.13483146067416, --> {'participants', 'semester', 'programme'}, 3
+52.13483146067416, --> {'participants', 'semester', 'programme'}, 5
+52.13483146067416, --> {'ects', 'semester', 'times', 'language'}, 1
+52.13483146067416, --> {'ects', 'participants', 'semester', 'language'}, 1
+52.13483146067416, --> {'ects', 'overall', 'language', 'programme'}, 3
+52.13483146067416, --> {'language', 'semester', 'times', 'programme'}, 3
+52.13483146067416, --> {'language', 'ects', 'semester', 'overall', 'programme'}, 5
+52.13483146067415, --> {'semester', 'programme'}, 3
+52.13483146067415, --> {'semester', 'language'}, 5
+52.13483146067415, --> {'ects', 'semester', 'overall'}, 5
+52.13483146067415, --> {'participants', 'overall', 'times'}, 1
+52.13483146067415, --> {'participants', 'overall', 'times'}, 3
+52.02247191011237, --> {'ects', 'language', 'programme'}, 3
+52.02247191011236, --> {'overall', 'programme'}, 3
+52.02247191011236, --> {'ects', 'participants', 'language'}, 1
+52.02247191011236, --> {'semester', 'rooms', 'times'}, 5
+52.02247191011236, --> {'ects', 'overall', 'times', 'language'}, 3
+52.02247191011236, --> {'language', 'semester', 'times', 'overall'}, 5
+52.02247191011236, --> {'language', 'participants', 'semester', 'rooms', 'overall'}, 1
+52.02247191011235, --> {'participants'}, 1
+52.02247191011235, --> {'overall'}, 3
+52.02247191011235, --> {'ects', 'overall'}, 1
+52.02247191011235, --> {'semester', 'rooms', 'times'}, 1
+52.02247191011235, --> {'participants', 'overall', 'language'}, 3
+51.91011235955057, --> {'participants', 'semester'}, 1
+51.91011235955057, --> {'language', 'semester', 'rooms', 'overall'}, 1
+51.91011235955057, --> {'participants', 'semester', 'times', 'language'}, 1
+51.91011235955057, --> {'ects', 'participants', 'semester', 'times', 'programme'}, 1
+51.91011235955056, --> {'ects', 'times'}, 3
+51.91011235955056, --> {'ects', 'times'}, 5
+51.91011235955056, --> {'language', 'rooms', 'programme'}, 1
+51.91011235955056, --> {'ects', 'participants', 'semester', 'rooms'}, 1
+51.91011235955056, --> {'language', 'semester', 'overall', 'programme'}, 3
+51.91011235955056, --> {'participants', 'semester', 'overall', 'language'}, 5
+51.91011235955056, --> {'ects', 'participants', 'semester', 'times', 'language'}, 1
+51.91011235955056, --> {'ects', 'times', 'programme', 'participants', 'language', 'semester'}, 1
+51.91011235955055, --> {'participants', 'overall', 'times', 'language'}, 1
+51.79775280898877, --> {'ects', 'overall', 'rooms'}, 3
+51.79775280898877, --> {'ects', 'participants', 'times'}, 3
+51.79775280898877, --> {'participants', 'semester', 'rooms'}, 1
+51.79775280898877, --> {'semester', 'rooms', 'overall'}, 3
+51.79775280898877, --> {'ects', 'participants', 'semester', 'language', 'programme'}, 3
+51.79775280898877, --> {'ects', 'participants', 'semester', 'times', 'overall'}, 5
+51.79775280898876, --> {'ects', 'programme'}, 1
+51.79775280898876, --> {'language', 'times'}, 3
+51.79775280898876, --> {'ects', 'participants', 'overall'}, 1
+51.79775280898876, --> {'ects', 'participants', 'overall'}, 3
+51.79775280898876, --> {'ects', 'semester', 'overall', 'programme'}, 3
+51.79775280898876, --> {'overall', 'ects', 'semester', 'rooms', 'times'}, 1
+51.79775280898876, --> {'language', 'participants', 'semester', 'times', 'programme'}, 5
+51.79775280898876, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'language', 'overall'}, 1
+51.68539325842697, --> {'ects', 'language'}, 5
+51.68539325842697, --> {'ects', 'participants', 'overall', 'language'}, 1
+51.68539325842696, --> {'times'}, 5
+51.68539325842696, --> {'ects', 'overall', 'rooms', 'language'}, 1
+51.57303370786518, --> {'ects', 'times', 'programme', 'participants', 'semester', 'language', 'overall'}, 1
+51.57303370786517, --> {'rooms'}, 1
+51.57303370786517, --> {'participants', 'semester'}, 3
+51.57303370786517, --> {'ects', 'semester', 'overall'}, 1
+51.57303370786517, --> {'semester', 'times', 'programme'}, 1
+51.57303370786517, --> {'ects', 'participants', 'overall', 'rooms'}, 1
+51.57303370786517, --> {'ects', 'overall', 'language', 'programme'}, 5
+51.57303370786517, --> {'ects', 'participants', 'semester', 'rooms', 'times'}, 5
+51.57303370786517, --> {'language', 'participants', 'semester', 'overall', 'programme'}, 3
+51.57303370786516, --> {'programme'}, 1
+51.46067415730338, --> {'ects', 'overall'}, 5
+51.46067415730338, --> {'participants', 'programme'}, 1
+51.46067415730338, --> {'language', 'programme'}, 5
+51.46067415730338, --> {'participants', 'semester', 'language'}, 3
+51.46067415730337, --> {'ects', 'participants', 'language'}, 5
+51.46067415730337, --> {'participants', 'semester', 'overall', 'programme'}, 5
+51.46067415730336, --> {'programme'}, 5
+51.348314606741585, --> {'ects', 'participants', 'semester', 'overall', 'programme'}, 1
+51.34831460674158, --> {'overall'}, 1
+51.34831460674158, --> {'ects', 'participants', 'times'}, 1
+51.34831460674158, --> {'participants', 'semester', 'times'}, 3
+51.34831460674158, --> {'overall', 'times', 'language'}, 5
+51.34831460674158, --> {'language', 'semester', 'times', 'overall'}, 1
+51.34831460674158, --> {'ects', 'rooms', 'times', 'participants', 'semester', 'overall'}, 1
+51.34831460674157, --> {'overall'}, 5
+51.34831460674157, --> {'semester', 'overall', 'language'}, 3
+51.34831460674157, --> {'participants', 'overall', 'programme'}, 5
+51.34831460674157, --> {'language', 'ects', 'semester', 'rooms', 'times'}, 1
+51.34831460674157, --> {'ects', 'participants', 'overall', 'language', 'programme'}, 1
+51.23595505617978, --> {'semester', 'language'}, 3
+51.23595505617978, --> {'ects', 'overall', 'language'}, 3
+51.23595505617978, --> {'overall', 'rooms', 'times'}, 5
+51.23595505617978, --> {'ects', 'overall', 'rooms', 'times'}, 1
+51.23595505617977, --> {'overall', 'programme'}, 5
+51.23595505617977, --> {'ects', 'participants', 'semester', 'times', 'overall'}, 1
+51.12359550561798, --> {'times', 'programme'}, 1
+51.12359550561798, --> {'ects', 'semester', 'programme'}, 3
+51.12359550561798, --> {'ects', 'semester', 'language'}, 1
+51.12359550561798, --> {'ects', 'overall', 'times'}, 5
+51.011235955056184, --> {'ects', 'semester', 'overall'}, 3
+51.011235955056184, --> {'ects', 'participants', 'language', 'times'}, 1
+51.011235955056184, --> {'participants', 'semester', 'times', 'overall'}, 5
+51.01123595505618, --> {'ects', 'semester'}, 5
+51.01123595505618, --> {'ects', 'rooms'}, 3
+51.01123595505618, --> {'ects', 'times'}, 1
+51.01123595505618, --> {'overall', 'rooms'}, 3
+51.01123595505618, --> {'participants', 'programme'}, 3
+51.01123595505618, --> {'language', 'times'}, 5
+51.01123595505618, --> {'participants', 'language', 'programme'}, 1
+51.01123595505618, --> {'language', 'semester', 'overall', 'programme'}, 1
+50.89887640449438, --> {'participants', 'language', 'times'}, 5
+50.89887640449438, --> {'ects', 'participants', 'overall', 'programme'}, 3
+50.89887640449438, --> {'ects', 'participants', 'overall', 'language'}, 5
+50.898876404494375, --> {'participants', 'rooms', 'times'}, 3
+50.78651685393259, --> {'ects', 'participants', 'semester'}, 3
+50.78651685393258, --> {'semester'}, 1
+50.78651685393258, --> {'participants', 'semester', 'times'}, 5
+50.78651685393258, --> {'ects', 'overall', 'rooms', 'times'}, 3
+50.78651685393258, --> {'participants', 'semester', 'overall', 'language'}, 1
+50.786516853932575, --> {'semester', 'times', 'language'}, 3
+50.786516853932575, --> {'ects', 'participants', 'semester', 'times'}, 1
+50.67415730337079, --> {'ects', 'participants', 'overall', 'programme'}, 1
+50.67415730337078, --> {'programme'}, 3
+50.67415730337078, --> {'ects', 'language', 'times'}, 3
+50.67415730337078, --> {'ects', 'participants', 'semester', 'programme'}, 3
+50.67415730337078, --> {'ects', 'participants', 'rooms', 'times'}, 1
+50.67415730337078, --> {'language', 'participants', 'semester', 'overall', 'programme'}, 1
+50.674157303370775, --> {'participants', 'semester', 'language', 'programme'}, 3
+50.56179775280899, --> {'ects'}, 1
+50.56179775280899, --> {'ects', 'semester'}, 3
+50.56179775280899, --> {'ects', 'participants', 'language'}, 3
+50.56179775280899, --> {'semester', 'rooms', 'overall'}, 1
+50.56179775280899, --> {'semester', 'overall', 'language'}, 5
+50.56179775280899, --> {'participants', 'rooms', 'times'}, 1
+50.56179775280899, --> {'participants', 'overall', 'programme'}, 1
+50.56179775280899, --> {'overall', 'participants', 'semester', 'rooms', 'times'}, 1
+50.56179775280898, --> {'ects'}, 3
+50.56179775280898, --> {'participants', 'semester', 'programme'}, 1
+50.56179775280898, --> {'overall', 'semester', 'rooms', 'times'}, 5
+50.56179775280898, --> {'ects', 'participants', 'overall', 'times', 'programme'}, 1
+50.44943820224719, --> {'ects', 'language'}, 1
+50.44943820224719, --> {'ects', 'language', 'programme'}, 1
+50.3370786516854, --> {'semester', 'times', 'overall'}, 1
+50.33707865168539, --> {'semester'}, 5
+50.33707865168539, --> {'ects', 'semester', 'times', 'overall'}, 5
+50.2247191011236, --> {'times'}, 1
+50.22471910112359, --> {'ects', 'semester', 'times'}, 3
+50.22471910112359, --> {'ects', 'semester', 'language'}, 3
+50.22471910112358, --> {'semester', 'programme'}, 5
+50.1123595505618, --> {'participants', 'rooms'}, 1
+50.1123595505618, --> {'participants', 'overall'}, 3
+50.1123595505618, --> {'participants', 'overall'}, 5
+50.1123595505618, --> {'ects', 'semester', 'overall', 'language'}, 3
+50.11235955056179, --> {'semester', 'rooms'}, 1
+50.11235955056179, --> {'participants', 'semester', 'overall'}, 1
+50., --> {'overall', 'times'}, 5
+50., --> {'ects', 'semester', 'times'}, 5
+50., --> {'participants', 'overall', 'rooms', 'times'}, 5
+50., --> {'participants', 'overall', 'language', 'programme'}, 3
+50., --> {'ects', 'participants', 'semester', 'overall', 'programme'}, 5
+49.88764044943821, --> {'participants', 'semester', 'times', 'language'}, 3
+49.88764044943821, --> {'ects', 'participants', 'semester', 'overall', 'programme'}, 3
+49.8876404494382, --> {'language'}, 3
+49.8876404494382, --> {'semester', 'times'}, 5
+49.8876404494382, --> {'semester', 'overall'}, 1
+49.8876404494382, --> {'participants', 'times'}, 3
+49.8876404494382, --> {'language', 'times'}, 1
+49.8876404494382, --> {'semester', 'language', 'programme'}, 1
+49.88764044943819, --> {'ects', 'overall', 'times', 'language'}, 5
+49.66292134831461, --> {'ects', 'overall', 'language'}, 1
+49.66292134831461, --> {'ects', 'programme', 'participants', 'language', 'semester', 'overall'}, 1
+49.6629213483146, --> {'ects', 'overall', 'programme'}, 3
+49.55056179775282, --> {'overall', 'ects', 'semester', 'rooms', 'times'}, 5
+49.55056179775281, --> {'language', 'programme'}, 1
+49.55056179775281, --> {'ects', 'semester', 'overall', 'programme'}, 5
+49.5505617977528, --> {'ects', 'semester', 'times', 'overall'}, 3
+49.43820224719102, --> {'semester', 'overall', 'programme'}, 5
+49.43820224719101, --> {'semester', 'times', 'overall'}, 5
+49.32584269662921, --> {'participants', 'semester', 'language'}, 1
+49.213483146067425, --> {'ects', 'participants', 'semester', 'overall'}, 5
+49.21348314606742, --> {'ects', 'overall'}, 3
+49.21348314606742, --> {'ects', 'participants', 'overall'}, 5
+49.21348314606742, --> {'semester', 'times', 'overall'}, 3
+49.101123595505625, --> {'participants', 'semester', 'times', 'programme'}, 1
+49.10112359550562, --> {'overall', 'rooms'}, 5
+49.10112359550562, --> {'ects', 'participants', 'semester', 'times'}, 5
+49.10112359550562, --> {'ects', 'semester', 'times', 'overall'}, 1
+48.98876404494382, --> {'overall', 'times'}, 1
+48.98876404494382, --> {'overall', 'language'}, 5
+48.98876404494382, --> {'ects', 'semester', 'times'}, 1
+48.98876404494382, --> {'participants', 'overall', 'language'}, 5
+48.988764044943816, --> {'language', 'semester', 'times', 'overall'}, 3
+48.87640449438202, --> {'ects', 'overall', 'language', 'programme'}, 1
+48.76404494382022, --> {'times'}, 3
+48.651685393258415, --> {'ects', 'participants', 'semester'}, 1
+48.42696629213483, --> {'ects', 'overall', 'rooms'}, 5
+48.42696629213483, --> {'ects', 'participants', 'overall', 'times'}, 1
+48.20224719101125, --> {'semester', 'overall'}, 5
+48.20224719101123, --> {'semester', 'times'}, 1
+48.20224719101123, --> {'participants', 'semester', 'language', 'programme'}, 1
+48.08988764044943, --> {'participants', 'semester', 'rooms', 'overall'}, 1
+47.64044943820225, --> {'participants', 'semester', 'overall', 'language'}, 3
+47.64044943820224, --> {'participants', 'overall', 'language'}, 1
+47.30337078651685, --> {'ects'}, 5
+47.07865168539326, --> {'ects', 'participants', 'semester', 'overall'}, 1
+46.62921348314607, --> {'participants', 'semester'}, 5
+46.40449438202247, --> {'participants'}, 5
+46.06741573033709, --> {'semester', 'language', 'programme'}, 5
+45.50561797752809, --> {'ects', 'semester', 'programme'}, 5
