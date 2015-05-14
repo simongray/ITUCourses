@@ -73,14 +73,16 @@ def numerical_evaluation_data(eval_data):
             nd_array = numpy.array([
                 course["overall_evaluation"],
                 course["time_evaluation"],
-                course["job_evaluation"]
+                course["job_evaluation"],
+                course["replies"]*6
                 ])
 
         else:
             nd_array = numpy.array([
                 course["time_evaluation"],
-                course["job_evaluation"]
-                ])
+                course["job_evaluation"],
+                course["replies"]*6
+            ])
 
         as_numpy.append(nd_array)
 
