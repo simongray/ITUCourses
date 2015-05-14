@@ -172,5 +172,8 @@ for n, row in enumerate(results):
     if n < 25:
         print(str(row[0]) + '%', row[1], 'k:', row[2])
 
+# NOTE: the subsets written to disk are the original subsets, before union with 'overall'
+# so some of them will contain 'overall' and some will not
+# however, in all cases 'overall' has been ignored!
 with open('classifier_results.txt', 'w') as results_file:
     results_file.writelines([str(result)+"\n" for result in results])
